@@ -1,0 +1,3271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font size="14" family="Arial" height="22" style="Bold">
+ <Char width="6" offset="-1 16" rect="1 15 2 2" code=" ">
+  <Kerning advance="-1" id="A"/>
+  <Kerning advance="-1" id="Ά"/>
+  <Kerning advance="-1" id="Α"/>
+  <Kerning advance="-1" id="Δ"/>
+  <Kerning advance="-1" id="Λ"/>
+ </Char>
+ <Char width="7" offset="1 2" rect="4 1 5 16" code="!"/>
+ <Char width="10" offset="0 2" rect="10 1 9 7" code="&quot;"/>
+ <Char width="13" offset="0 2" rect="20 1 12 16" code="#"/>
+ <Char width="11" offset="-1 2" rect="33 1 12 18" code="$"/>
+ <Char width="18" offset="0 2" rect="46 1 17 16" code="%"/>
+ <Char width="15" offset="0 2" rect="64 1 15 17" code="&amp;"/>
+ <Char width="5" offset="0 2" rect="80 1 5 7" code="'"/>
+ <Char width="7" offset="0 2" rect="86 1 7 20" code="("/>
+ <Char width="8" offset="-1 2" rect="94 1 8 20" code=")"/>
+ <Char width="9" offset="-1 2" rect="103 1 10 9" code="*"/>
+ <Char width="12" offset="0 5" rect="114 4 11 11" code="+"/>
+ <Char width="6" offset="0 13" rect="126 12 5 9" code=","/>
+ <Char width="8" offset="0 9" rect="132 8 7 5" code="-"/>
+ <Char width="6" offset="0 13" rect="140 12 5 5" code="."/>
+ <Char width="6" offset="-2 2" rect="146 1 9 16" code="/"/>
+ <Char width="12" offset="0 2" rect="156 1 11 16" code="0"/>
+ <Char width="12" offset="0 2" rect="168 1 9 16" code="1"/>
+ <Char width="12" offset="-1 2" rect="178 1 12 16" code="2"/>
+ <Char width="11" offset="-1 2" rect="191 1 11 16" code="3"/>
+ <Char width="13" offset="0 2" rect="203 1 12 16" code="4"/>
+ <Char width="11" offset="-1 2" rect="216 1 12 16" code="5"/>
+ <Char width="12" offset="0 2" rect="229 1 11 16" code="6"/>
+ <Char width="12" offset="0 2" rect="241 1 11 16" code="7"/>
+ <Char width="12" offset="0 2" rect="253 1 11 16" code="8"/>
+ <Char width="12" offset="0 2" rect="265 1 11 16" code="9"/>
+ <Char width="7" offset="1 6" rect="277 5 5 12" code=":"/>
+ <Char width="7" offset="0 6" rect="283 5 5 16" code=";"/>
+ <Char width="12" offset="0 4" rect="289 3 11 13" code="&lt;"/>
+ <Char width="12" offset="0 6" rect="301 5 11 9" code="="/>
+ <Char width="12" offset="0 4" rect="313 3 11 13" code=">"/>
+ <Char width="13" offset="0 2" rect="325 1 12 16" code="?"/>
+ <Char width="20" offset="0 2" rect="338 1 20 20" code="@"/>
+ <Char width="14" offset="-1 2" rect="359 1 16 16" code="A">
+  <Kerning advance="-1" id=" "/>
+  <Kerning advance="-1" id="T"/>
+  <Kerning advance="-1" id="V"/>
+  <Kerning advance="-1" id="W"/>
+  <Kerning advance="-1" id="Y"/>
+  <Kerning advance="-1" id="v"/>
+  <Kerning advance="-1" id="y"/>
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="376 1 13 16" code="B"/>
+ <Char width="14" offset="0 2" rect="390 1 14 16" code="C"/>
+ <Char width="14" offset="0 2" rect="405 1 13 16" code="D"/>
+ <Char width="13" offset="0 2" rect="419 1 12 16" code="E"/>
+ <Char width="12" offset="0 2" rect="432 1 11 16" code="F">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="A"/>
+ </Char>
+ <Char width="16" offset="0 2" rect="444 1 15 16" code="G"/>
+ <Char width="14" offset="0 2" rect="460 1 13 16" code="H"/>
+ <Char width="6" offset="0 2" rect="474 1 5 16" code="I"/>
+ <Char width="12" offset="0 2" rect="480 1 11 16" code="J"/>
+ <Char width="14" offset="0 2" rect="492 1 14 16" code="K"/>
+ <Char width="12" offset="0 2" rect="507 1 12 16" code="L">
+  <Kerning advance="-1" id="T"/>
+  <Kerning advance="-1" id="V"/>
+  <Kerning advance="-1" id="W"/>
+  <Kerning advance="-1" id="Y"/>
+  <Kerning advance="-1" id="y"/>
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="16" offset="0 2" rect="520 1 15 16" code="M"/>
+ <Char width="14" offset="0 2" rect="536 1 13 16" code="N"/>
+ <Char width="16" offset="0 2" rect="550 1 15 16" code="O"/>
+ <Char width="13" offset="0 2" rect="566 1 12 16" code="P">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="A"/>
+ </Char>
+ <Char width="16" offset="0 2" rect="579 1 16 18" code="Q"/>
+ <Char width="14" offset="0 2" rect="596 1 15 16" code="R">
+  <Kerning advance="-1" id="Y"/>
+ </Char>
+ <Char width="14" offset="-1 2" rect="612 1 14 16" code="S"/>
+ <Char width="14" offset="0 2" rect="627 1 13 16" code="T">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-1" id="-"/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-2" id=":"/>
+  <Kerning advance="-2" id=";"/>
+  <Kerning advance="-1" id="A"/>
+  <Kerning advance="-1" id="a"/>
+  <Kerning advance="-1" id="c"/>
+  <Kerning advance="-1" id="e"/>
+  <Kerning advance="-1" id="o"/>
+  <Kerning advance="-1" id="r"/>
+  <Kerning advance="-1" id="s"/>
+  <Kerning advance="-1" id="u"/>
+  <Kerning advance="-1" id="w"/>
+  <Kerning advance="-1" id="y"/>
+  <Kerning advance="-1" id="­"/>
+  <Kerning advance="-2" id=";"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="641 1 13 16" code="U"/>
+ <Char width="13" offset="-2 2" rect="655 1 16 16" code="V">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="-"/>
+  <Kerning advance="-1" id="."/>
+  <Kerning advance="-1" id=":"/>
+  <Kerning advance="-1" id=";"/>
+  <Kerning advance="-1" id="A"/>
+  <Kerning advance="-1" id="a"/>
+  <Kerning advance="-1" id="e"/>
+  <Kerning advance="-1" id="o"/>
+  <Kerning advance="-1" id="r"/>
+  <Kerning advance="-1" id="u"/>
+  <Kerning advance="-1" id="y"/>
+  <Kerning advance="-1" id="­"/>
+  <Kerning advance="-1" id=";"/>
+ </Char>
+ <Char width="19" offset="-1 2" rect="672 1 20 16" code="W">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+  <Kerning advance="-1" id="A"/>
+  <Kerning advance="-1" id="a"/>
+ </Char>
+ <Char width="13" offset="-1 2" rect="693 1 15 16" code="X"/>
+ <Char width="14" offset="-1 2" rect="709 1 15 16" code="Y">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-1" id="-"/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id=":"/>
+  <Kerning advance="-1" id=";"/>
+  <Kerning advance="-1" id="A"/>
+  <Kerning advance="-1" id="a"/>
+  <Kerning advance="-1" id="e"/>
+  <Kerning advance="-1" id="i"/>
+  <Kerning advance="-1" id="o"/>
+  <Kerning advance="-1" id="p"/>
+  <Kerning advance="-1" id="q"/>
+  <Kerning advance="-1" id="u"/>
+  <Kerning advance="-1" id="v"/>
+  <Kerning advance="-1" id="­"/>
+  <Kerning advance="-1" id=";"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="725 1 13 16" code="Z"/>
+ <Char width="7" offset="0 2" rect="739 1 7 20" code="["/>
+ <Char width="6" offset="-2 2" rect="747 1 9 16" code="\"/>
+ <Char width="8" offset="0 2" rect="757 1 7 20" code="]"/>
+ <Char width="12" offset="0 2" rect="765 1 11 10" code="^"/>
+ <Char width="12" offset="-1 17" rect="777 16 13 5" code="_"/>
+ <Char width="7" offset="-1 2" rect="791 1 7 5" code="`"/>
+ <Char width="12" offset="0 6" rect="799 5 12 12" code="a"/>
+ <Char width="12" offset="0 2" rect="812 1 12 16" code="b"/>
+ <Char width="12" offset="0 6" rect="825 5 12 12" code="c"/>
+ <Char width="13" offset="0 2" rect="838 1 12 16" code="d"/>
+ <Char width="12" offset="0 6" rect="851 5 11 12" code="e"/>
+ <Char width="9" offset="0 2" rect="863 1 9 16" code="f"/>
+ <Char width="13" offset="0 6" rect="873 5 12 16" code="g"/>
+ <Char width="12" offset="0 2" rect="886 1 11 16" code="h"/>
+ <Char width="6" offset="0 2" rect="898 1 5 16" code="i"/>
+ <Char width="6" offset="-3 2" rect="904 1 8 20" code="j"/>
+ <Char width="11" offset="0 2" rect="913 1 12 16" code="k"/>
+ <Char width="6" offset="0 2" rect="926 1 5 16" code="l"/>
+ <Char width="18" offset="0 6" rect="932 5 17 12" code="m"/>
+ <Char width="12" offset="0 6" rect="950 5 11 12" code="n"/>
+ <Char width="13" offset="0 6" rect="962 5 12 12" code="o"/>
+ <Char width="12" offset="0 6" rect="1 30 12 16" code="p"/>
+ <Char width="13" offset="0 6" rect="14 30 12 16" code="q"/>
+ <Char width="8" offset="0 6" rect="27 30 9 12" code="r">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+  <Kerning advance="1" id="’"/>
+ </Char>
+ <Char width="11" offset="-1 6" rect="37 30 12 12" code="s"/>
+ <Char width="9" offset="0 2" rect="50 26 9 16" code="t"/>
+ <Char width="12" offset="0 6" rect="60 30 11 12" code="u"/>
+ <Char width="11" offset="-1 6" rect="72 30 13 12" code="v">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="16" offset="-1 6" rect="86 30 17 12" code="w">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="11" offset="-1 6" rect="104 30 13 12" code="x"/>
+ <Char width="11" offset="-1 6" rect="118 30 13 16" code="y">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="12" offset="0 6" rect="132 30 11 12" code="z"/>
+ <Char width="9" offset="0 2" rect="144 26 8 20" code="{"/>
+ <Char width="7" offset="1 2" rect="153 26 5 20" code="|"/>
+ <Char width="9" offset="0 2" rect="159 26 9 20" code="}"/>
+ <Char width="13" offset="0 7" rect="169 31 12 7" code="~"/>
+ <Char width="7" offset="1 6" rect="182 30 5 16" code="¡"/>
+ <Char width="12" offset="0 2" rect="188 26 12 20" code="¢"/>
+ <Char width="12" offset="0 2" rect="201 26 13 17" code="£"/>
+ <Char width="11" offset="-1 4" rect="215 28 12 12" code="¤"/>
+ <Char width="12" offset="-1 2" rect="228 26 13 16" code="¥"/>
+ <Char width="7" offset="1 2" rect="242 26 5 20" code="¦"/>
+ <Char width="12" offset="0 2" rect="248 26 12 20" code="§"/>
+ <Char width="9" offset="0 2" rect="261 26 9 5" code="¨"/>
+ <Char width="15" offset="-2 2" rect="271 26 17 16" code="©"/>
+ <Char width="9" offset="0 2" rect="289 26 9 8" code="ª"/>
+ <Char width="11" offset="-1 7" rect="299 31 12 10" code="«"/>
+ <Char width="12" offset="0 6" rect="312 30 12 9" code="¬"/>
+ <Char width="8" offset="0 9" rect="325 33 7 5" code="­"/>
+ <Char width="15" offset="-2 2" rect="333 26 17 16" code="®"/>
+ <Char width="12" offset="-1 -1" rect="351 23 13 5" code="¯"/>
+ <Char width="9" offset="0 2" rect="365 26 8 9" code="°"/>
+ <Char width="12" offset="0 4" rect="374 28 11 14" code="±"/>
+ <Char width="7" offset="-1 2" rect="386 26 8 9" code="²"/>
+ <Char width="7" offset="-1 2" rect="395 26 8 10" code="³"/>
+ <Char width="7" offset="0 2" rect="404 26 7 5" code="´"/>
+ <Char width="12" offset="0 6" rect="412 30 11 16" code="µ"/>
+ <Char width="12" offset="-1 2" rect="424 26 13 20" code="¶"/>
+ <Char width="7" offset="1 8" rect="438 32 5 5" code="·"/>
+ <Char width="8" offset="0 16" rect="444 40 7 6" code="¸"/>
+ <Char width="8" offset="0 2" rect="452 26 6 9" code="¹"/>
+ <Char width="9" offset="0 2" rect="459 26 8 11" code="º"/>
+ <Char width="11" offset="-1 7" rect="468 31 12 10" code="»"/>
+ <Char width="18" offset="0 2" rect="481 26 17 16" code="¼"/>
+ <Char width="17" offset="0 2" rect="499 26 16 16" code="½"/>
+ <Char width="17" offset="-1 2" rect="516 26 17 16" code="¾"/>
+ <Char width="12" offset="0 6" rect="534 30 12 16" code="¿"/>
+ <Char width="14" offset="-1 -1" rect="547 23 16 19" code="À"/>
+ <Char width="14" offset="-1 -1" rect="564 23 16 19" code="Á"/>
+ <Char width="14" offset="-1 -1" rect="581 23 16 19" code="Â"/>
+ <Char width="14" offset="-2 -1" rect="598 23 17 19" code="Ã"/>
+ <Char width="14" offset="-2 -1" rect="616 23 17 19" code="Ä"/>
+ <Char width="15" offset="-1 0" rect="634 24 17 18" code="Å"/>
+ <Char width="19" offset="-2 2" rect="652 26 21 16" code="Æ"/>
+ <Char width="14" offset="0 2" rect="674 26 14 20" code="Ç"/>
+ <Char width="13" offset="0 -1" rect="689 23 12 19" code="È"/>
+ <Char width="13" offset="0 -1" rect="702 23 12 19" code="É"/>
+ <Char width="13" offset="0 -1" rect="715 23 12 19" code="Ê"/>
+ <Char width="13" offset="0 -1" rect="728 23 12 19" code="Ë"/>
+ <Char width="6" offset="-2 -1" rect="741 23 7 19" code="Ì"/>
+ <Char width="6" offset="-1 -1" rect="749 23 7 19" code="Í"/>
+ <Char width="6" offset="-2 -1" rect="757 23 9 19" code="Î"/>
+ <Char width="7" offset="-1 -1" rect="767 23 9 19" code="Ï"/>
+ <Char width="15" offset="-1 2" rect="777 26 15 16" code="Ð"/>
+ <Char width="14" offset="0 -1" rect="793 23 13 19" code="Ñ"/>
+ <Char width="16" offset="0 -1" rect="807 23 15 19" code="Ò"/>
+ <Char width="16" offset="0 -1" rect="823 23 15 19" code="Ó"/>
+ <Char width="16" offset="0 -1" rect="839 23 15 19" code="Ô"/>
+ <Char width="16" offset="0 -2" rect="855 22 15 20" code="Õ"/>
+ <Char width="16" offset="0 -1" rect="871 23 15 19" code="Ö"/>
+ <Char width="12" offset="0 4" rect="887 28 11 12" code="×"/>
+ <Char width="16" offset="-1 1" rect="899 25 17 18" code="Ø"/>
+ <Char width="14" offset="0 -1" rect="917 23 13 19" code="Ù"/>
+ <Char width="14" offset="0 -1" rect="931 23 13 19" code="Ú"/>
+ <Char width="14" offset="0 -1" rect="945 23 13 19" code="Û"/>
+ <Char width="14" offset="0 -1" rect="959 23 13 19" code="Ü"/>
+ <Char width="14" offset="-1 -1" rect="1 48 15 19" code="Ý"/>
+ <Char width="13" offset="0 2" rect="17 51 12 16" code="Þ"/>
+ <Char width="12" offset="0 2" rect="30 51 12 16" code="ß"/>
+ <Char width="12" offset="0 2" rect="43 51 12 16" code="à"/>
+ <Char width="12" offset="0 2" rect="56 51 12 16" code="á"/>
+ <Char width="12" offset="0 2" rect="69 51 12 16" code="â"/>
+ <Char width="12" offset="0 2" rect="82 51 12 16" code="ã"/>
+ <Char width="12" offset="0 2" rect="95 51 12 16" code="ä"/>
+ <Char width="12" offset="0 2" rect="108 51 12 16" code="å"/>
+ <Char width="18" offset="0 6" rect="121 55 17 12" code="æ"/>
+ <Char width="12" offset="0 6" rect="139 55 12 16" code="ç"/>
+ <Char width="12" offset="0 2" rect="152 51 11 16" code="è"/>
+ <Char width="12" offset="0 2" rect="164 51 11 16" code="é"/>
+ <Char width="12" offset="0 2" rect="176 51 11 16" code="ê"/>
+ <Char width="12" offset="0 2" rect="188 51 11 16" code="ë"/>
+ <Char width="6" offset="-2 2" rect="200 51 7 16" code="ì"/>
+ <Char width="6" offset="-1 2" rect="208 51 7 16" code="í"/>
+ <Char width="6" offset="-2 2" rect="216 51 9 16" code="î"/>
+ <Char width="7" offset="-1 2" rect="226 51 9 16" code="ï"/>
+ <Char width="13" offset="0 2" rect="236 51 12 16" code="ð"/>
+ <Char width="12" offset="0 2" rect="249 51 11 16" code="ñ"/>
+ <Char width="13" offset="0 2" rect="261 51 12 16" code="ò"/>
+ <Char width="13" offset="0 2" rect="274 51 12 16" code="ó"/>
+ <Char width="13" offset="0 2" rect="287 51 12 16" code="ô"/>
+ <Char width="13" offset="0 2" rect="300 51 12 16" code="õ"/>
+ <Char width="13" offset="0 2" rect="313 51 12 16" code="ö"/>
+ <Char width="12" offset="0 4" rect="326 53 11 12" code="÷"/>
+ <Char width="13" offset="0 5" rect="338 54 12 14" code="ø"/>
+ <Char width="12" offset="0 2" rect="351 51 11 16" code="ù"/>
+ <Char width="12" offset="0 2" rect="363 51 11 16" code="ú"/>
+ <Char width="12" offset="0 2" rect="375 51 11 16" code="û"/>
+ <Char width="12" offset="0 2" rect="387 51 11 16" code="ü"/>
+ <Char width="11" offset="-1 2" rect="399 51 13 20" code="ý"/>
+ <Char width="12" offset="0 2" rect="413 51 12 20" code="þ"/>
+ <Char width="12" offset="-1 2" rect="426 51 13 20" code="ÿ"/>
+ <Char width="15" offset="-1 -2" rect="440 47 16 20" code="Ā"/>
+ <Char width="12" offset="0 2" rect="457 51 12 16" code="ā"/>
+ <Char width="14" offset="-1 -1" rect="470 48 16 19" code="Ă"/>
+ <Char width="12" offset="0 2" rect="487 51 12 16" code="ă"/>
+ <Char width="15" offset="-1 2" rect="500 51 16 20" code="Ą"/>
+ <Char width="11" offset="0 6" rect="517 55 11 16" code="ą"/>
+ <Char width="14" offset="0 -1" rect="529 48 14 19" code="Ć"/>
+ <Char width="12" offset="0 2" rect="544 51 12 16" code="ć"/>
+ <Char width="14" offset="0 -2" rect="557 47 14 20" code="Ĉ"/>
+ <Char width="12" offset="0 2" rect="572 51 12 16" code="ĉ"/>
+ <Char width="15" offset="0 -2" rect="585 47 14 20" code="Ċ"/>
+ <Char width="12" offset="0 2" rect="600 51 12 16" code="ċ"/>
+ <Char width="14" offset="0 -1" rect="613 48 14 19" code="Č"/>
+ <Char width="12" offset="0 2" rect="628 51 12 16" code="č"/>
+ <Char width="14" offset="0 -1" rect="641 48 13 19" code="Ď"/>
+ <Char width="15" offset="0 2" rect="655 51 15 16" code="ď"/>
+ <Char width="15" offset="-1 2" rect="671 51 15 16" code="Đ"/>
+ <Char width="13" offset="0 2" rect="687 51 12 16" code="đ"/>
+ <Char width="13" offset="0 -2" rect="700 47 12 20" code="Ē"/>
+ <Char width="12" offset="0 2" rect="713 51 11 16" code="ē"/>
+ <Char width="13" offset="0 -2" rect="725 47 12 20" code="Ĕ"/>
+ <Char width="12" offset="0 2" rect="738 51 11 16" code="ĕ"/>
+ <Char width="13" offset="0 -1" rect="750 48 12 19" code="Ė"/>
+ <Char width="12" offset="0 2" rect="763 51 11 16" code="ė"/>
+ <Char width="13" offset="0 2" rect="775 51 12 20" code="Ę"/>
+ <Char width="12" offset="0 6" rect="788 55 11 16" code="ę"/>
+ <Char width="13" offset="0 -1" rect="800 48 12 19" code="Ě"/>
+ <Char width="12" offset="0 2" rect="813 51 11 16" code="ě"/>
+ <Char width="16" offset="0 -2" rect="825 47 15 20" code="Ĝ"/>
+ <Char width="13" offset="0 2" rect="841 51 12 20" code="ĝ"/>
+ <Char width="16" offset="0 -1" rect="854 48 15 19" code="Ğ"/>
+ <Char width="13" offset="0 2" rect="870 51 12 20" code="ğ"/>
+ <Char width="16" offset="0 -2" rect="883 47 15 20" code="Ġ"/>
+ <Char width="13" offset="0 2" rect="899 51 12 20" code="ġ"/>
+ <Char width="16" offset="0 2" rect="912 51 15 22" code="Ģ"/>
+ <Char width="13" offset="0 0" rect="928 49 12 22" code="ģ"/>
+ <Char width="14" offset="0 -2" rect="941 47 13 20" code="Ĥ"/>
+ <Char width="12" offset="0 -1" rect="955 48 11 19" code="ĥ"/>
+ <Char width="16" offset="0 2" rect="1 78 15 16" code="Ħ"/>
+ <Char width="13" offset="0 2" rect="17 78 12 16" code="ħ"/>
+ <Char width="6" offset="-2 -2" rect="30 74 9 20" code="Ĩ"/>
+ <Char width="6" offset="-2 2" rect="40 78 9 16" code="ĩ"/>
+ <Char width="7" offset="-1 -2" rect="50 74 8 20" code="Ī"/>
+ <Char width="7" offset="-1 2" rect="59 78 8 16" code="ī"/>
+ <Char width="6" offset="-2 -2" rect="68 74 9 20" code="Ĭ"/>
+ <Char width="6" offset="-2 2" rect="78 78 9 16" code="ĭ"/>
+ <Char width="6" offset="0 2" rect="88 78 5 20" code="Į"/>
+ <Char width="6" offset="0 2" rect="94 78 5 20" code="į"/>
+ <Char width="6" offset="0 -1" rect="100 75 5 19" code="İ"/>
+ <Char width="6" offset="0 6" rect="106 82 5 12" code="ı"/>
+ <Char width="15" offset="0 2" rect="112 78 14 16" code="Ĳ"/>
+ <Char width="11" offset="0 2" rect="127 78 10 20" code="ĳ"/>
+ <Char width="12" offset="0 -2" rect="138 74 13 20" code="Ĵ"/>
+ <Char width="6" offset="-3 2" rect="152 78 10 20" code="ĵ"/>
+ <Char width="14" offset="0 2" rect="163 78 14 22" code="Ķ"/>
+ <Char width="11" offset="0 2" rect="178 78 11 22" code="ķ"/>
+ <Char width="11" offset="0 6" rect="190 82 12 12" code="ĸ"/>
+ <Char width="12" offset="0 -1" rect="203 75 12 19" code="Ĺ"/>
+ <Char width="6" offset="-1 -1" rect="216 75 7 19" code="ĺ"/>
+ <Char width="12" offset="0 2" rect="224 78 12 22" code="Ļ"/>
+ <Char width="6" offset="-1 2" rect="237 78 6 22" code="ļ"/>
+ <Char width="12" offset="0 2" rect="244 78 12 16" code="Ľ"/>
+ <Char width="9" offset="0 2" rect="257 78 8 16" code="ľ"/>
+ <Char width="12" offset="0 2" rect="266 78 12 16" code="Ŀ"/>
+ <Char width="10" offset="0 2" rect="279 78 9 16" code="ŀ"/>
+ <Char width="13" offset="-1 2" rect="289 78 14 16" code="Ł"/>
+ <Char width="8" offset="0 2" rect="304 78 7 16" code="ł"/>
+ <Char width="14" offset="0 -1" rect="312 75 13 19" code="Ń"/>
+ <Char width="12" offset="0 2" rect="326 78 11 16" code="ń"/>
+ <Char width="14" offset="0 2" rect="338 78 13 22" code="Ņ"/>
+ <Char width="12" offset="0 6" rect="352 82 11 18" code="ņ"/>
+ <Char width="14" offset="0 -1" rect="364 75 13 19" code="Ň"/>
+ <Char width="12" offset="0 2" rect="378 78 11 16" code="ň"/>
+ <Char width="14" offset="-2 2" rect="390 78 15 16" code="ŉ"/>
+ <Char width="14" offset="0 2" rect="406 78 13 16" code="Ŋ"/>
+ <Char width="12" offset="0 6" rect="420 82 11 16" code="ŋ"/>
+ <Char width="16" offset="0 -1" rect="432 75 15 19" code="Ō"/>
+ <Char width="13" offset="0 2" rect="448 78 12 16" code="ō"/>
+ <Char width="16" offset="0 -2" rect="461 74 15 20" code="Ŏ"/>
+ <Char width="13" offset="0 2" rect="477 78 12 16" code="ŏ"/>
+ <Char width="16" offset="0 -1" rect="490 75 15 19" code="Ő"/>
+ <Char width="13" offset="0 2" rect="506 78 12 16" code="ő"/>
+ <Char width="21" offset="0 2" rect="519 78 20 16" code="Œ"/>
+ <Char width="19" offset="0 6" rect="540 82 18 12" code="œ"/>
+ <Char width="14" offset="0 -1" rect="559 75 15 19" code="Ŕ"/>
+ <Char width="8" offset="0 2" rect="575 78 9 16" code="ŕ"/>
+ <Char width="14" offset="0 2" rect="585 78 15 22" code="Ŗ"/>
+ <Char width="8" offset="-1 6" rect="601 82 10 18" code="ŗ"/>
+ <Char width="14" offset="0 -1" rect="612 75 15 19" code="Ř"/>
+ <Char width="8" offset="-1 2" rect="628 78 10 16" code="ř"/>
+ <Char width="14" offset="-1 -1" rect="639 75 14 19" code="Ś"/>
+ <Char width="11" offset="-1 2" rect="654 78 12 16" code="ś"/>
+ <Char width="14" offset="-1 -2" rect="667 74 14 20" code="Ŝ"/>
+ <Char width="11" offset="-1 2" rect="682 78 12 16" code="ŝ"/>
+ <Char width="14" offset="-1 2" rect="695 78 14 20" code="Ş"/>
+ <Char width="11" offset="-1 6" rect="710 82 12 16" code="ş"/>
+ <Char width="14" offset="-1 -1" rect="723 75 14 19" code="Š"/>
+ <Char width="11" offset="-1 2" rect="738 78 12 16" code="š"/>
+ <Char width="14" offset="0 2" rect="751 78 13 20" code="Ţ"/>
+ <Char width="8" offset="0 2" rect="765 78 8 20" code="ţ"/>
+ <Char width="14" offset="0 -1" rect="774 75 13 19" code="Ť"/>
+ <Char width="11" offset="0 2" rect="788 78 11 16" code="ť"/>
+ <Char width="14" offset="0 2" rect="800 78 13 16" code="Ŧ"/>
+ <Char width="8" offset="0 2" rect="814 78 8 16" code="ŧ"/>
+ <Char width="14" offset="0 -1" rect="823 75 13 19" code="Ũ"/>
+ <Char width="12" offset="0 2" rect="837 78 11 16" code="ũ"/>
+ <Char width="14" offset="0 -1" rect="849 75 13 19" code="Ū"/>
+ <Char width="12" offset="0 2" rect="863 78 11 16" code="ū"/>
+ <Char width="14" offset="0 -2" rect="875 74 13 20" code="Ŭ"/>
+ <Char width="12" offset="0 2" rect="889 78 11 16" code="ŭ"/>
+ <Char width="14" offset="0 -2" rect="901 74 13 20" code="Ů"/>
+ <Char width="12" offset="0 2" rect="915 78 11 16" code="ů"/>
+ <Char width="14" offset="0 -1" rect="927 75 13 19" code="Ű"/>
+ <Char width="12" offset="0 2" rect="941 78 12 16" code="ű"/>
+ <Char width="14" offset="0 2" rect="954 78 13 20" code="Ų"/>
+ <Char width="12" offset="0 6" rect="1 109 11 16" code="ų"/>
+ <Char width="19" offset="-1 -2" rect="13 101 20 20" code="Ŵ"/>
+ <Char width="16" offset="-1 2" rect="34 105 17 16" code="ŵ"/>
+ <Char width="14" offset="-1 -2" rect="52 101 15 20" code="Ŷ"/>
+ <Char width="11" offset="-1 2" rect="68 105 13 20" code="ŷ"/>
+ <Char width="14" offset="-2 -1" rect="82 102 16 19" code="Ÿ"/>
+ <Char width="14" offset="0 -1" rect="99 102 13 19" code="Ź"/>
+ <Char width="12" offset="0 2" rect="113 105 11 16" code="ź"/>
+ <Char width="14" offset="0 -1" rect="125 102 13 19" code="Ż"/>
+ <Char width="12" offset="0 2" rect="139 105 11 16" code="ż"/>
+ <Char width="14" offset="0 -1" rect="151 102 13 19" code="Ž"/>
+ <Char width="12" offset="0 2" rect="165 105 11 16" code="ž"/>
+ <Char width="6" offset="0 2" rect="177 105 8 16" code="ſ"/>
+ <Char width="13" offset="0 2" rect="186 105 13 16" code="ƀ"/>
+ <Char width="18" offset="0 2" rect="200 105 17 16" code="Ɓ"/>
+ <Char width="14" offset="0 2" rect="218 105 13 16" code="Ƃ"/>
+ <Char width="12" offset="0 2" rect="232 105 12 16" code="ƃ"/>
+ <Char width="15" offset="-1 2" rect="245 105 15 16" code="Ƅ"/>
+ <Char width="13" offset="-1 2" rect="261 105 14 16" code="ƅ"/>
+ <Char width="15" offset="0 2" rect="276 105 14 16" code="Ɔ"/>
+ <Char width="15" offset="0 0" rect="291 103 17 18" code="Ƈ"/>
+ <Char width="12" offset="0 3" rect="309 106 14 15" code="ƈ"/>
+ <Char width="15" offset="-1 2" rect="324 105 15 16" code="Ɖ"/>
+ <Char width="18" offset="0 2" rect="340 105 17 16" code="Ɗ"/>
+ <Char width="14" offset="0 2" rect="358 105 13 16" code="Ƌ"/>
+ <Char width="13" offset="0 2" rect="372 105 12 16" code="ƌ"/>
+ <Char width="13" offset="0 6" rect="385 109 12 16" code="ƍ"/>
+ <Char width="13" offset="-1 2" rect="398 105 13 16" code="Ǝ"/>
+ <Char width="15" offset="0 2" rect="412 105 14 16" code="Ə"/>
+ <Char width="13" offset="0 2" rect="427 105 13 16" code="Ɛ"/>
+ <Char width="12" offset="-3 2" rect="441 105 14 20" code="Ƒ"/>
+ <Char width="11" offset="-2 2" rect="456 105 14 20" code="ƒ"/>
+ <Char width="16" offset="0 0" rect="471 103 18 18" code="Ɠ"/>
+ <Char width="13" offset="-2 2" rect="490 105 15 20" code="Ɣ"/>
+ <Char width="18" offset="0 2" rect="506 105 18 16" code="ƕ"/>
+ <Char width="6" offset="0 2" rect="525 105 5 16" code="Ɩ"/>
+ <Char width="7" offset="0 2" rect="531 105 7 16" code="Ɨ"/>
+ <Char width="14" offset="0 2" rect="539 105 14 16" code="Ƙ"/>
+ <Char width="11" offset="0 2" rect="554 105 12 16" code="ƙ"/>
+ <Char width="8" offset="0 2" rect="567 105 7 16" code="ƚ"/>
+ <Char width="11" offset="-1 2" rect="575 105 13 16" code="ƛ"/>
+ <Char width="19" offset="0 2" rect="589 105 18 16" code="Ɯ"/>
+ <Char width="14" offset="-3 2" rect="608 105 16 20" code="Ɲ"/>
+ <Char width="12" offset="0 6" rect="625 109 11 16" code="ƞ"/>
+ <Char width="16" offset="0 2" rect="637 105 15 16" code="Ɵ"/>
+ <Char width="17" offset="0 2" rect="653 105 17 16" code="Ơ"/>
+ <Char width="14" offset="0 6" rect="671 109 14 12" code="ơ"/>
+ <Char width="18" offset="0 2" rect="686 105 17 20" code="Ƣ"/>
+ <Char width="15" offset="0 6" rect="704 109 14 16" code="ƣ"/>
+ <Char width="16" offset="0 2" rect="719 105 16 16" code="Ƥ"/>
+ <Char width="12" offset="0 2" rect="736 105 12 20" code="ƥ"/>
+ <Char width="13" offset="0 2" rect="749 105 13 19" code="Ʀ"/>
+ <Char width="14" offset="0 2" rect="763 105 14 16" code="Ƨ"/>
+ <Char width="12" offset="0 6" rect="778 109 12 12" code="ƨ"/>
+ <Char width="13" offset="0 2" rect="791 105 12 16" code="Ʃ"/>
+ <Char width="8" offset="0 2" rect="804 105 10 20" code="ƪ"/>
+ <Char width="8" offset="0 2" rect="815 105 8 20" code="ƫ"/>
+ <Char width="14" offset="0 2" rect="824 105 13 16" code="Ƭ"/>
+ <Char width="9" offset="0 2" rect="838 105 9 16" code="ƭ"/>
+ <Char width="14" offset="0 2" rect="848 105 13 20" code="Ʈ"/>
+ <Char width="16" offset="0 2" rect="862 105 16 16" code="Ư"/>
+ <Char width="14" offset="0 6" rect="879 109 14 12" code="ư"/>
+ <Char width="16" offset="0 2" rect="894 105 15 16" code="Ʊ"/>
+ <Char width="14" offset="0 2" rect="910 105 13 16" code="Ʋ"/>
+ <Char width="15" offset="-1 2" rect="924 105 17 16" code="Ƴ"/>
+ <Char width="11" offset="-1 2" rect="942 105 16 20" code="ƴ"/>
+ <Char width="14" offset="0 2" rect="959 105 13 16" code="Ƶ"/>
+ <Char width="12" offset="0 6" rect="1 134 11 12" code="ƶ"/>
+ <Char width="13" offset="0 2" rect="13 130 12 20" code="Ʒ"/>
+ <Char width="13" offset="0 2" rect="26 130 12 20" code="Ƹ"/>
+ <Char width="11" offset="0 6" rect="39 134 11 16" code="ƹ"/>
+ <Char width="12" offset="0 6" rect="51 134 12 16" code="ƺ"/>
+ <Char width="12" offset="-1 2" rect="64 130 12 16" code="ƻ"/>
+ <Char width="12" offset="0 2" rect="77 130 11 16" code="Ƽ"/>
+ <Char width="11" offset="0 6" rect="89 134 11 12" code="ƽ"/>
+ <Char width="13" offset="0 2" rect="101 130 12 16" code="ƾ"/>
+ <Char width="12" offset="0 6" rect="114 134 12 16" code="ƿ"/>
+ <Char width="7" offset="1 2" rect="127 130 5 16" code="ǀ"/>
+ <Char width="11" offset="1 2" rect="133 130 9 16" code="ǁ"/>
+ <Char width="12" offset="0 2" rect="143 130 11 16" code="ǂ"/>
+ <Char width="7" offset="1 2" rect="155 130 5 16" code="ǃ"/>
+ <Char width="26" offset="0 -1" rect="161 127 25 19" code="Ǆ"/>
+ <Char width="24" offset="0 2" rect="187 130 23 16" code="ǅ"/>
+ <Char width="23" offset="0 2" rect="211 130 22 16" code="ǆ"/>
+ <Char width="23" offset="0 2" rect="234 130 21 16" code="Ǉ"/>
+ <Char width="17" offset="0 2" rect="256 130 16 20" code="ǈ"/>
+ <Char width="11" offset="0 2" rect="273 130 10 20" code="ǉ"/>
+ <Char width="25" offset="0 2" rect="284 130 23 16" code="Ǌ"/>
+ <Char width="19" offset="0 2" rect="308 130 18 20" code="ǋ"/>
+ <Char width="17" offset="0 2" rect="327 130 16 20" code="ǌ"/>
+ <Char width="14" offset="-1 -1" rect="344 127 16 19" code="Ǎ"/>
+ <Char width="12" offset="0 2" rect="361 130 12 16" code="ǎ"/>
+ <Char width="6" offset="-2 -1" rect="374 127 9 19" code="Ǐ"/>
+ <Char width="6" offset="-2 2" rect="384 130 9 16" code="ǐ"/>
+ <Char width="16" offset="0 -1" rect="394 127 15 19" code="Ǒ"/>
+ <Char width="13" offset="0 2" rect="410 130 12 16" code="ǒ"/>
+ <Char width="14" offset="0 -1" rect="423 127 13 19" code="Ǔ"/>
+ <Char width="12" offset="0 2" rect="437 130 11 16" code="ǔ"/>
+ <Char width="14" offset="0 -1" rect="449 127 13 19" code="Ǖ"/>
+ <Char width="12" offset="0 -2" rect="463 126 11 20" code="ǖ"/>
+ <Char width="14" offset="0 -1" rect="475 127 13 19" code="Ǘ"/>
+ <Char width="12" offset="0 -1" rect="489 127 11 19" code="ǘ"/>
+ <Char width="14" offset="0 -1" rect="501 127 13 19" code="Ǚ"/>
+ <Char width="12" offset="0 -1" rect="515 127 11 19" code="ǚ"/>
+ <Char width="14" offset="0 -1" rect="527 127 13 19" code="Ǜ"/>
+ <Char width="12" offset="0 -1" rect="541 127 11 19" code="ǜ"/>
+ <Char width="12" offset="0 6" rect="553 134 11 12" code="ǝ"/>
+ <Char width="14" offset="-2 -1" rect="565 127 17 19" code="Ǟ"/>
+ <Char width="12" offset="0 0" rect="583 128 12 18" code="ǟ"/>
+ <Char width="14" offset="-2 -1" rect="596 127 17 19" code="Ǡ"/>
+ <Char width="12" offset="0 0" rect="614 128 12 18" code="ǡ"/>
+ <Char width="19" offset="-2 -2" rect="627 126 21 20" code="Ǣ"/>
+ <Char width="18" offset="0 2" rect="649 130 17 16" code="ǣ"/>
+ <Char width="17" offset="0 2" rect="667 130 16 16" code="Ǥ"/>
+ <Char width="13" offset="-1 6" rect="684 134 14 16" code="ǥ"/>
+ <Char width="16" offset="0 -2" rect="699 126 15 20" code="Ǧ"/>
+ <Char width="13" offset="0 2" rect="715 130 12 20" code="ǧ"/>
+ <Char width="14" offset="0 -2" rect="728 126 14 20" code="Ǩ"/>
+ <Char width="11" offset="0 -2" rect="743 126 12 20" code="ǩ"/>
+ <Char width="16" offset="0 2" rect="756 130 15 20" code="Ǫ"/>
+ <Char width="13" offset="0 6" rect="772 134 13 16" code="ǫ"/>
+ <Char width="16" offset="0 -1" rect="786 127 15 23" code="Ǭ"/>
+ <Char width="13" offset="0 2" rect="802 130 12 20" code="ǭ"/>
+ <Char width="13" offset="0 -2" rect="815 126 12 24" code="Ǯ"/>
+ <Char width="11" offset="-1 2" rect="828 130 11 20" code="ǯ"/>
+ <Char width="6" offset="-3 2" rect="840 130 10 20" code="ǰ"/>
+ <Char width="26" offset="0 2" rect="851 130 25 16" code="Ǳ"/>
+ <Char width="24" offset="0 2" rect="877 130 23 16" code="ǲ"/>
+ <Char width="23" offset="0 2" rect="901 130 22 16" code="ǳ"/>
+ <Char width="16" offset="0 -2" rect="924 126 15 20" code="Ǵ"/>
+ <Char width="13" offset="0 2" rect="940 130 12 20" code="ǵ"/>
+ <Char width="20" offset="0 2" rect="953 130 19 16" code="Ƕ"/>
+ <Char width="13" offset="0 2" rect="1 156 12 20" code="Ƿ"/>
+ <Char width="14" offset="0 -1" rect="14 153 13 19" code="Ǹ"/>
+ <Char width="12" offset="0 2" rect="28 156 11 16" code="ǹ"/>
+ <Char width="15" offset="-1 -3" rect="40 151 17 21" code="Ǻ"/>
+ <Char width="12" offset="0 -2" rect="58 152 12 20" code="ǻ"/>
+ <Char width="19" offset="-2 -2" rect="71 152 21 20" code="Ǽ"/>
+ <Char width="18" offset="0 2" rect="93 156 17 16" code="ǽ"/>
+ <Char width="16" offset="-1 -2" rect="111 152 17 21" code="Ǿ"/>
+ <Char width="13" offset="0 2" rect="129 156 12 17" code="ǿ"/>
+ <Char width="14" offset="-1 -2" rect="142 152 16 20" code="Ȁ"/>
+ <Char width="12" offset="0 2" rect="159 156 12 16" code="ȁ"/>
+ <Char width="14" offset="-1 -1" rect="172 153 16 19" code="Ȃ"/>
+ <Char width="12" offset="0 2" rect="189 156 12 16" code="ȃ"/>
+ <Char width="13" offset="0 -2" rect="202 152 12 20" code="Ȅ"/>
+ <Char width="12" offset="0 2" rect="215 156 11 16" code="ȅ"/>
+ <Char width="13" offset="0 -1" rect="227 153 12 19" code="Ȇ"/>
+ <Char width="12" offset="0 2" rect="240 156 11 16" code="ȇ"/>
+ <Char width="6" offset="-4 -2" rect="252 152 11 20" code="Ȉ"/>
+ <Char width="6" offset="-4 2" rect="264 156 11 16" code="ȉ"/>
+ <Char width="6" offset="-2 -1" rect="276 153 9 19" code="Ȋ"/>
+ <Char width="6" offset="-2 2" rect="286 156 9 16" code="ȋ"/>
+ <Char width="16" offset="0 -2" rect="296 152 15 20" code="Ȍ"/>
+ <Char width="13" offset="0 2" rect="312 156 12 16" code="ȍ"/>
+ <Char width="16" offset="0 -2" rect="325 152 15 20" code="Ȏ"/>
+ <Char width="13" offset="0 2" rect="341 156 12 16" code="ȏ"/>
+ <Char width="14" offset="0 -2" rect="354 152 15 20" code="Ȑ"/>
+ <Char width="8" offset="-2 2" rect="370 156 11 16" code="ȑ"/>
+ <Char width="14" offset="0 -1" rect="382 153 15 19" code="Ȓ"/>
+ <Char width="8" offset="-1 2" rect="398 156 10 16" code="ȓ"/>
+ <Char width="14" offset="0 -2" rect="409 152 13 20" code="Ȕ"/>
+ <Char width="12" offset="-1 2" rect="423 156 12 16" code="ȕ"/>
+ <Char width="14" offset="0 -2" rect="436 152 13 20" code="Ȗ"/>
+ <Char width="12" offset="0 2" rect="450 156 11 16" code="ȗ"/>
+ <Char width="14" offset="-1 2" rect="462 156 14 22" code="Ș"/>
+ <Char width="12" offset="-1 6" rect="477 160 12 18" code="ș"/>
+ <Char width="14" offset="0 2" rect="490 156 13 22" code="Ț"/>
+ <Char width="9" offset="0 2" rect="504 156 9 22" code="ț"/>
+ <Char width="12" offset="-1 2" rect="514 156 12 20" code="Ȝ"/>
+ <Char width="10" offset="-1 6" rect="527 160 11 16" code="ȝ"/>
+ <Char width="14" offset="0 -2" rect="539 152 13 20" code="Ȟ"/>
+ <Char width="12" offset="0 -2" rect="553 152 11 20" code="ȟ"/>
+ <Char width="14" offset="0 2" rect="565 156 13 20" code="Ƞ"/>
+ <Char width="18" offset="0 2" rect="579 156 17 20" code="ȡ"/>
+ <Char width="13" offset="0 2" rect="597 156 12 16" code="Ȣ"/>
+ <Char width="13" offset="0 1" rect="610 155 12 17" code="ȣ"/>
+ <Char width="14" offset="0 2" rect="623 156 13 19" code="Ȥ"/>
+ <Char width="11" offset="-1 6" rect="637 160 11 15" code="ȥ"/>
+ <Char width="14" offset="-2 -2" rect="649 152 17 20" code="Ȧ"/>
+ <Char width="12" offset="0 2" rect="667 156 12 16" code="ȧ"/>
+ <Char width="13" offset="0 2" rect="680 156 12 20" code="Ȩ"/>
+ <Char width="12" offset="0 6" rect="693 160 11 16" code="ȩ"/>
+ <Char width="16" offset="0 -1" rect="705 153 15 19" code="Ȫ"/>
+ <Char width="13" offset="0 -1" rect="721 153 12 19" code="ȫ"/>
+ <Char width="16" offset="0 -1" rect="734 153 15 19" code="Ȭ"/>
+ <Char width="13" offset="0 -1" rect="750 153 12 19" code="ȭ"/>
+ <Char width="16" offset="0 -2" rect="763 152 15 20" code="Ȯ"/>
+ <Char width="12" offset="0 2" rect="779 156 12 16" code="ȯ"/>
+ <Char width="16" offset="0 -1" rect="792 153 15 19" code="Ȱ"/>
+ <Char width="13" offset="0 -1" rect="808 153 12 19" code="ȱ"/>
+ <Char width="13" offset="-2 -1" rect="821 153 16 19" code="Ȳ"/>
+ <Char width="11" offset="-2 2" rect="838 156 14 20" code="ȳ"/>
+ <Char width="11" offset="-1 2" rect="853 156 11 20" code="ȴ"/>
+ <Char width="17" offset="0 6" rect="865 160 17 16" code="ȵ"/>
+ <Char width="12" offset="0 2" rect="883 156 11 16" code="ȶ"/>
+ <Char width="6" offset="-3 6" rect="895 160 8 16" code="ȷ"/>
+ <Char width="19" offset="0 2" rect="904 156 19 16" code="ȸ"/>
+ <Char width="19" offset="0 6" rect="924 160 18 16" code="ȹ"/>
+ <Char width="14" offset="-1 2" rect="943 156 16 17" code="Ⱥ"/>
+ <Char width="14" offset="0 2" rect="960 156 14 17" code="Ȼ"/>
+ <Char width="12" offset="-1 2" rect="1 180 13 20" code="ȼ"/>
+ <Char width="13" offset="0 2" rect="15 180 13 16" code="Ƚ"/>
+ <Char width="14" offset="0 1" rect="29 179 13 18" code="Ⱦ"/>
+ <Char width="12" offset="-1 6" rect="43 184 12 16" code="ȿ"/>
+ <Char width="11" offset="-1 6" rect="56 184 12 16" code="ɀ"/>
+ <Char width="13" offset="-1 2" rect="69 180 13 16" code="Ɂ"/>
+ <Char width="11" offset="-1 6" rect="83 184 11 12" code="ɂ"/>
+ <Char width="15" offset="-1 2" rect="95 180 15 16" code="Ƀ"/>
+ <Char width="16" offset="0 2" rect="111 180 15 16" code="Ʉ"/>
+ <Char width="13" offset="-1 2" rect="127 180 15 16" code="Ʌ"/>
+ <Char width="13" offset="0 1" rect="143 179 12 18" code="Ɇ"/>
+ <Char width="12" offset="0 2" rect="156 180 12 20" code="ɇ"/>
+ <Char width="13" offset="0 2" rect="169 180 12 16" code="Ɉ"/>
+ <Char width="8" offset="-2 2" rect="182 180 9 20" code="ɉ"/>
+ <Char width="16" offset="0 2" rect="192 180 17 20" code="Ɋ"/>
+ <Char width="13" offset="0 6" rect="210 184 14 16" code="ɋ"/>
+ <Char width="14" offset="-1 2" rect="225 180 16 16" code="Ɍ"/>
+ <Char width="9" offset="0 6" rect="242 184 10 12" code="ɍ"/>
+ <Char width="14" offset="-1 2" rect="253 180 15 16" code="Ɏ"/>
+ <Char width="13" offset="0 6" rect="269 184 12 16" code="ɏ"/>
+ <Char width="11" offset="-1 6" rect="282 184 12 12" code="ɐ"/>
+ <Char width="13" offset="0 6" rect="295 184 12 12" code="ɑ"/>
+ <Char width="12" offset="0 6" rect="308 184 12 12" code="ɒ"/>
+ <Char width="12" offset="0 2" rect="321 180 12 16" code="ɓ"/>
+ <Char width="11" offset="-1 6" rect="334 184 12 12" code="ɔ"/>
+ <Char width="12" offset="-1 6" rect="347 184 12 13" code="ɕ"/>
+ <Char width="13" offset="0 2" rect="360 180 14 20" code="ɖ"/>
+ <Char width="13" offset="0 2" rect="375 180 15 16" code="ɗ"/>
+ <Char width="12" offset="0 6" rect="391 184 11 12" code="ɘ"/>
+ <Char width="12" offset="0 6" rect="403 184 11 12" code="ə"/>
+ <Char width="16" offset="0 6" rect="415 184 16 12" code="ɚ"/>
+ <Char width="10" offset="0 6" rect="432 184 11 12" code="ɛ"/>
+ <Char width="11" offset="-1 6" rect="444 184 11 12" code="ɜ"/>
+ <Char width="14" offset="-1 6" rect="456 184 15 12" code="ɝ"/>
+ <Char width="12" offset="0 6" rect="472 184 11 12" code="ɞ"/>
+ <Char width="9" offset="-1 6" rect="484 184 9 16" code="ɟ"/>
+ <Char width="13" offset="0 2" rect="494 180 15 20" code="ɠ"/>
+ <Char width="13" offset="0 6" rect="510 184 12 16" code="ɡ"/>
+ <Char width="12" offset="0 6" rect="523 184 12 12" code="ɢ"/>
+ <Char width="11" offset="-2 6" rect="536 184 13 16" code="ɣ"/>
+ <Char width="12" offset="-1 6" rect="550 184 14 12" code="ɤ"/>
+ <Char width="12" offset="0 6" rect="565 184 11 16" code="ɥ"/>
+ <Char width="12" offset="0 2" rect="577 180 11 16" code="ɦ"/>
+ <Char width="12" offset="0 2" rect="589 180 11 20" code="ɧ"/>
+ <Char width="8" offset="0 2" rect="601 180 7 16" code="ɨ"/>
+ <Char width="6" offset="0 6" rect="609 184 6 12" code="ɩ"/>
+ <Char width="9" offset="0 6" rect="616 184 8 12" code="ɪ"/>
+ <Char width="8" offset="-1 2" rect="625 180 9 16" code="ɫ"/>
+ <Char width="9" offset="0 2" rect="635 180 9 16" code="ɬ"/>
+ <Char width="6" offset="0 2" rect="645 180 7 20" code="ɭ"/>
+ <Char width="12" offset="0 2" rect="653 180 12 20" code="ɮ"/>
+ <Char width="18" offset="0 6" rect="666 184 17 12" code="ɯ"/>
+ <Char width="18" offset="0 6" rect="684 184 17 16" code="ɰ"/>
+ <Char width="18" offset="0 6" rect="702 184 17 16" code="ɱ"/>
+ <Char width="12" offset="-3 6" rect="720 184 14 16" code="ɲ"/>
+ <Char width="12" offset="0 6" rect="735 184 14 16" code="ɳ"/>
+ <Char width="12" offset="0 6" rect="750 184 11 12" code="ɴ"/>
+ <Char width="13" offset="0 6" rect="762 184 12 12" code="ɵ"/>
+ <Char width="17" offset="0 6" rect="775 184 16 12" code="ɶ"/>
+ <Char width="17" offset="0 6" rect="792 184 17 12" code="ɷ"/>
+ <Char width="15" offset="0 2" rect="810 180 15 20" code="ɸ"/>
+ <Char width="8" offset="-2 6" rect="826 184 9 12" code="ɹ"/>
+ <Char width="8" offset="-2 2" rect="836 180 9 16" code="ɺ"/>
+ <Char width="8" offset="-2 6" rect="846 184 11 16" code="ɻ"/>
+ <Char width="8" offset="0 6" rect="858 184 9 16" code="ɼ"/>
+ <Char width="8" offset="0 6" rect="868 184 9 16" code="ɽ"/>
+ <Char width="8" offset="0 6" rect="878 184 9 12" code="ɾ"/>
+ <Char width="8" offset="-2 6" rect="888 184 9 16" code="ɿ"/>
+ <Char width="12" offset="0 6" rect="898 184 12 12" code="ʀ"/>
+ <Char width="12" offset="0 6" rect="911 184 12 12" code="ʁ"/>
+ <Char width="12" offset="-1 6" rect="924 184 12 16" code="ʂ"/>
+ <Char width="7" offset="-2 2" rect="937 180 11 20" code="ʃ"/>
+ <Char width="9" offset="-1 2" rect="949 180 11 20" code="ʄ"/>
+ <Char width="8" offset="-2 6" rect="961 184 11 16" code="ʅ"/>
+ <Char width="12" offset="0 2" rect="1 201 13 20" code="ʆ"/>
+ <Char width="9" offset="-1 2" rect="15 201 9 16" code="ʇ"/>
+ <Char width="9" offset="0 2" rect="25 201 9 20" code="ʈ"/>
+ <Char width="14" offset="0 6" rect="35 205 13 12" code="ʉ"/>
+ <Char width="13" offset="0 6" rect="49 205 12 12" code="ʊ"/>
+ <Char width="11" offset="0 6" rect="62 205 11 12" code="ʋ"/>
+ <Char width="11" offset="-1 6" rect="74 205 13 12" code="ʌ"/>
+ <Char width="16" offset="-1 6" rect="88 205 17 12" code="ʍ"/>
+ <Char width="11" offset="-1 2" rect="106 201 13 16" code="ʎ"/>
+ <Char width="12" offset="-1 6" rect="120 205 13 12" code="ʏ"/>
+ <Char width="11" offset="-1 6" rect="134 205 14 16" code="ʐ"/>
+ <Char width="15" offset="-1 6" rect="149 205 15 15" code="ʑ"/>
+ <Char width="11" offset="-1 6" rect="165 205 11 16" code="ʒ"/>
+ <Char width="12" offset="0 6" rect="177 205 12 16" code="ʓ"/>
+ <Char width="12" offset="-1 2" rect="190 201 12 16" code="ʔ"/>
+ <Char width="12" offset="0 2" rect="203 201 12 16" code="ʕ"/>
+ <Char width="12" offset="-1 2" rect="216 201 12 16" code="ʖ"/>
+ <Char width="12" offset="0 6" rect="229 205 12 16" code="ʗ"/>
+ <Char width="16" offset="0 2" rect="242 201 15 16" code="ʘ"/>
+ <Char width="12" offset="0 6" rect="258 205 11 12" code="ʙ"/>
+ <Char width="12" offset="0 6" rect="270 205 11 12" code="ʚ"/>
+ <Char width="12" offset="0 3" rect="282 202 15 15" code="ʛ"/>
+ <Char width="12" offset="0 6" rect="298 205 11 12" code="ʜ"/>
+ <Char width="11" offset="0 2" rect="310 201 11 20" code="ʝ"/>
+ <Char width="12" offset="-1 6" rect="322 205 12 16" code="ʞ"/>
+ <Char width="9" offset="0 6" rect="335 205 9 12" code="ʟ"/>
+ <Char width="13" offset="0 2" rect="345 201 15 20" code="ʠ"/>
+ <Char width="12" offset="0 2" rect="361 201 11 16" code="ʡ"/>
+ <Char width="12" offset="0 2" rect="373 201 11 16" code="ʢ"/>
+ <Char width="21" offset="0 2" rect="385 201 20 16" code="ʣ"/>
+ <Char width="19" offset="0 2" rect="406 201 19 20" code="ʤ"/>
+ <Char width="24" offset="0 2" rect="426 201 24 19" code="ʥ"/>
+ <Char width="17" offset="0 2" rect="451 201 16 16" code="ʦ"/>
+ <Char width="12" offset="0 2" rect="468 201 13 20" code="ʧ"/>
+ <Char width="17" offset="0 2" rect="482 201 17 16" code="ʨ"/>
+ <Char width="18" offset="0 2" rect="500 201 17 20" code="ʩ"/>
+ <Char width="15" offset="0 2" rect="518 201 14 16" code="ʪ"/>
+ <Char width="14" offset="0 2" rect="533 201 13 16" code="ʫ"/>
+ <Char width="11" offset="-1 2" rect="547 201 12 16" code="ʬ"/>
+ <Char width="11" offset="0 2" rect="560 201 10 16" code="ʭ"/>
+ <Char width="14" offset="-2 6" rect="571 205 15 16" code="ʮ"/>
+ <Char width="14" offset="-2 6" rect="587 205 19 16" code="ʯ"/>
+ <Char width="9" offset="0 2" rect="607 201 8 11" code="ʰ"/>
+ <Char width="9" offset="0 2" rect="616 201 8 12" code="ʱ"/>
+ <Char width="5" offset="-2 2" rect="625 201 6 14" code="ʲ"/>
+ <Char width="6" offset="0 6" rect="632 205 7 8" code="ʳ"/>
+ <Char width="6" offset="-1 4" rect="640 203 7 10" code="ʴ"/>
+ <Char width="6" offset="-1 4" rect="648 203 9 12" code="ʵ"/>
+ <Char width="9" offset="0 4" rect="658 203 9 10" code="ʶ"/>
+ <Char width="11" offset="-1 5" rect="668 204 12 9" code="ʷ"/>
+ <Char width="8" offset="-1 4" rect="681 203 9 13" code="ʸ"/>
+ <Char width="5" offset="0 2" rect="691 201 5 7" code="ʹ"/>
+ <Char width="10" offset="0 2" rect="697 201 9 7" code="ʺ"/>
+ <Char width="6" offset="0 2" rect="707 201 6 8" code="ʻ"/>
+ <Char width="6" offset="-1 2" rect="714 201 6 8" code="ʼ"/>
+ <Char width="6" offset="0 2" rect="721 201 6 8" code="ʽ"/>
+ <Char width="7" offset="1 2" rect="728 201 4 6" code="ʾ"/>
+ <Char width="7" offset="1 2" rect="733 201 4 6" code="ʿ"/>
+ <Char width="9" offset="-1 2" rect="738 201 9 11" code="ˀ"/>
+ <Char width="9" offset="0 2" rect="748 201 9 11" code="ˁ"/>
+ <Char width="12" offset="0 4" rect="758 203 11 13" code="˂"/>
+ <Char width="12" offset="0 4" rect="770 203 11 13" code="˃"/>
+ <Char width="12" offset="-1 4" rect="782 203 13 12" code="˄"/>
+ <Char width="12" offset="-1 4" rect="796 203 13 12" code="˅"/>
+ <Char width="7" offset="-1 2" rect="810 201 9 5" code="ˆ"/>
+ <Char width="7" offset="-1 2" rect="820 201 9 5" code="ˇ"/>
+ <Char width="8" offset="2 2" rect="830 201 3 5" code="ˈ"/>
+ <Char width="9" offset="0 2" rect="834 201 8 5" code="ˉ"/>
+ <Char width="7" offset="0 2" rect="843 201 7 5" code="ˊ"/>
+ <Char width="7" offset="-1 2" rect="851 201 7 5" code="ˋ"/>
+ <Char width="8" offset="2 17" rect="859 216 3 5" code="ˌ"/>
+ <Char width="9" offset="0 16" rect="863 215 8 5" code="ˍ"/>
+ <Char width="7" offset="-1 17" rect="872 216 7 5" code="ˎ"/>
+ <Char width="7" offset="0 17" rect="880 216 7 5" code="ˏ"/>
+ <Char width="7" offset="0 6" rect="888 205 6 12" code="ː"/>
+ <Char width="7" offset="0 6" rect="895 205 6 5" code="ˑ"/>
+ <Char width="7" offset="1 11" rect="902 210 4 6" code="˒"/>
+ <Char width="7" offset="1 11" rect="907 210 4 6" code="˓"/>
+ <Char width="8" offset="0 10" rect="912 209 7 6" code="˔"/>
+ <Char width="8" offset="0 11" rect="920 210 7 5" code="˕"/>
+ <Char width="8" offset="0 11" rect="928 210 7 5" code="˖"/>
+ <Char width="9" offset="0 11" rect="936 210 8 5" code="˗"/>
+ <Char width="7" offset="-1 2" rect="945 201 8 5" code="˘"/>
+ <Char width="7" offset="1 2" rect="954 201 5 5" code="˙"/>
+ <Char width="7" offset="0 2" rect="960 201 6 6" code="˚"/>
+ <Char width="7" offset="0 16" rect="967 215 5 6" code="˛"/>
+ <Char width="8" offset="-1 2" rect="1 225 9 5" code="˜"/>
+ <Char width="7" offset="-1 2" rect="11 225 11 5" code="˝"/>
+ <Char width="7" offset="-2 8" rect="23 231 9 7" code="˞"/>
+ <Char width="7" offset="-2 2" rect="33 225 10 9" code="˟"/>
+ <Char width="9" offset="-1 4" rect="44 227 10 13" code="ˠ"/>
+ <Char width="4" offset="0 2" rect="55 225 4 11" code="ˡ"/>
+ <Char width="8" offset="-1 5" rect="60 228 9 10" code="ˢ"/>
+ <Char width="8" offset="-1 5" rect="70 228 9 9" code="ˣ"/>
+ <Char width="9" offset="0 2" rect="80 225 9 11" code="ˤ"/>
+ <Char width="8" offset="0 2" rect="90 225 7 16" code="˥"/>
+ <Char width="8" offset="0 2" rect="98 225 7 16" code="˦"/>
+ <Char width="8" offset="0 2" rect="106 225 7 16" code="˧"/>
+ <Char width="8" offset="0 2" rect="114 225 7 16" code="˨"/>
+ <Char width="8" offset="0 2" rect="122 225 7 16" code="˩"/>
+ <Char width="7" offset="0 8" rect="130 231 7 10" code="˪"/>
+ <Char width="7" offset="0 8" rect="138 231 7 10" code="˫"/>
+ <Char width="7" offset="-1 17" rect="146 240 9 5" code="ˬ"/>
+ <Char width="9" offset="0 2" rect="156 225 8 6" code="˭"/>
+ <Char width="11" offset="0 2" rect="165 225 10 8" code="ˮ"/>
+ <Char width="7" offset="0 16" rect="176 239 6 5" code="˯"/>
+ <Char width="7" offset="0 16" rect="183 239 6 5" code="˰"/>
+ <Char width="7" offset="1 16" rect="190 239 5 6" code="˱"/>
+ <Char width="7" offset="1 16" rect="196 239 5 6" code="˲"/>
+ <Char width="7" offset="0 16" rect="202 239 6 6" code="˳"/>
+ <Char width="7" offset="-1 11" rect="209 234 7 5" code="˴"/>
+ <Char width="7" offset="-2 11" rect="217 234 10 5" code="˵"/>
+ <Char width="7" offset="-2 11" rect="228 234 10 5" code="˶"/>
+ <Char width="8" offset="-1 16" rect="239 239 9 6" code="˷"/>
+ <Char width="7" offset="1 2" rect="249 225 5 12" code="˸"/>
+ <Char width="8" offset="1 2" rect="255 225 6 5" code="˹"/>
+ <Char width="7" offset="0 2" rect="262 225 6 5" code="˺"/>
+ <Char width="8" offset="1 17" rect="269 240 6 5" code="˻"/>
+ <Char width="7" offset="0 17" rect="276 240 6 5" code="˼"/>
+ <Char width="9" offset="-1 16" rect="283 239 10 6" code="˽"/>
+ <Char width="9" offset="-1 16" rect="294 239 10 6" code="˾"/>
+ <Char width="7" offset="0 14" rect="305 237 8 8" code="˿"/>
+ <Char width="1" offset="-7 -1" rect="314 222 7 5" code="̀"/>
+ <Char width="1" offset="-5 -1" rect="322 222 7 5" code="́"/>
+ <Char width="1" offset="-5 2" rect="330 225 10 5" code="̂"/>
+ <Char width="1" offset="-9 -1" rect="341 222 8 5" code="̃"/>
+ <Char width="1" offset="-4 2" rect="350 225 8 5" code="̄"/>
+ <Char width="1" offset="-6 -1" rect="359 222 13 5" code="̅"/>
+ <Char width="1" offset="-4 2" rect="373 225 8 5" code="̆"/>
+ <Char width="1" offset="-2 2" rect="382 225 5 5" code="̇"/>
+ <Char width="1" offset="-4 2" rect="388 225 9 5" code="̈"/>
+ <Char width="1" offset="-6 -1" rect="398 222 7 5" code="̉"/>
+ <Char width="1" offset="-3 2" rect="406 225 6 6" code="̊"/>
+ <Char width="1" offset="-5 2" rect="413 225 10 5" code="̋"/>
+ <Char width="1" offset="-5 2" rect="424 225 10 5" code="̌"/>
+ <Char width="1" offset="-1 2" rect="435 225 3 5" code="̍"/>
+ <Char width="1" offset="-2 2" rect="439 225 5 5" code="̎"/>
+ <Char width="1" offset="-5 2" rect="445 225 10 5" code="̏"/>
+ <Char width="1" offset="-4 -1" rect="456 222 9 8" code="̐"/>
+ <Char width="1" offset="-4 2" rect="466 225 8 5" code="̑"/>
+ <Char width="1" offset="-3 2" rect="475 225 6 8" code="̒"/>
+ <Char width="1" offset="-3 2" rect="482 225 6 8" code="̓"/>
+ <Char width="1" offset="-3 2" rect="489 225 6 8" code="̔"/>
+ <Char width="1" offset="-1 2" rect="496 225 6 8" code="̕"/>
+ <Char width="1" offset="-4 17" rect="503 240 8 5" code="̖"/>
+ <Char width="1" offset="-4 17" rect="512 240 8 5" code="̗"/>
+ <Char width="1" offset="-4 17" rect="521 240 6 5" code="̘"/>
+ <Char width="1" offset="-2 17" rect="528 240 6 5" code="̙"/>
+ <Char width="1" offset="-5 1" rect="535 224 9 7" code="̚"/>
+ <Char width="1" offset="-1 2" rect="545 225 6 8" code="̛"/>
+ <Char width="1" offset="-2 16" rect="552 239 4 6" code="̜"/>
+ <Char width="1" offset="-3 17" rect="557 240 7 5" code="̝"/>
+ <Char width="1" offset="-3 17" rect="565 240 7 5" code="̞"/>
+ <Char width="1" offset="-3 17" rect="573 240 7 5" code="̟"/>
+ <Char width="1" offset="-4 16" rect="581 239 8 5" code="̠"/>
+ <Char width="1" offset="-4 15" rect="590 238 8 7" code="̡"/>
+ <Char width="1" offset="-1 15" rect="599 238 7 7" code="̢"/>
+ <Char width="1" offset="-9 17" rect="607 240 5 5" code="̣"/>
+ <Char width="1" offset="-4 17" rect="613 240 9 5" code="̤"/>
+ <Char width="1" offset="-3 16" rect="623 239 6 6" code="̥"/>
+ <Char width="1" offset="-3 15" rect="630 238 6 7" code="̦"/>
+ <Char width="1" offset="-3 16" rect="637 239 7 6" code="̧"/>
+ <Char width="1" offset="-3 16" rect="645 239 5 6" code="̨"/>
+ <Char width="1" offset="-1 17" rect="651 240 3 5" code="̩"/>
+ <Char width="1" offset="-5 17" rect="655 240 10 5" code="̪"/>
+ <Char width="1" offset="-4 17" rect="666 240 7 4" code="̫"/>
+ <Char width="1" offset="-5 17" rect="674 240 10 5" code="̬"/>
+ <Char width="1" offset="-5 17" rect="685 240 10 5" code="̭"/>
+ <Char width="1" offset="-4 17" rect="696 240 8 5" code="̮"/>
+ <Char width="1" offset="-4 17" rect="705 240 8 5" code="̯"/>
+ <Char width="1" offset="-4 16" rect="714 239 9 6" code="̰"/>
+ <Char width="1" offset="-4 16" rect="724 239 8 5" code="̱"/>
+ <Char width="1" offset="-6 17" rect="733 240 13 5" code="̲"/>
+ <Char width="1" offset="-4 17" rect="747 240 8 10" code="̳"/>
+ <Char width="1" offset="-4 10" rect="756 233 9 6" code="̴"/>
+ <Char width="1" offset="-4 11" rect="766 234 8 5" code="̵"/>
+ <Char width="1" offset="-6 10" rect="775 233 13 5" code="̶"/>
+ <Char width="1" offset="-6 7" rect="789 230 12 12" code="̷"/>
+ <Char width="1" offset="-4 2" rect="802 225 8 16" code="̸"/>
+ <Char width="1" offset="-2 16" rect="811 239 4 6" code="̹"/>
+ <Char width="1" offset="-5 16" rect="816 239 10 6" code="̺"/>
+ <Char width="1" offset="-3 16" rect="827 239 6 6" code="̻"/>
+ <Char width="1" offset="-4 17" rect="834 240 8 4" code="̼"/>
+ <Char width="1" offset="-4 1" rect="843 224 8 7" code="̽"/>
+ <Char width="1" offset="-3 1" rect="852 224 6 7" code="̾"/>
+ <Char width="1" offset="-6 -1" rect="859 222 13 6" code="̿"/>
+ <Char width="1" offset="-6 2" rect="873 225 7 5" code="̀"/>
+ <Char width="1" offset="-1 2" rect="881 225 7 5" code="́"/>
+ <Char width="1" offset="-4 2" rect="889 225 9 5" code="͂"/>
+ <Char width="1" offset="-3 2" rect="899 225 6 8" code="̓"/>
+ <Char width="1" offset="-5 2" rect="906 225 11 5" code="̈́"/>
+ <Char width="1" offset="-3 17" rect="918 240 6 5" code="ͅ"/>
+ <Char width="1" offset="-5 2" rect="925 225 10 6" code="͆"/>
+ <Char width="1" offset="-6 17" rect="936 240 11 10" code="͇"/>
+ <Char width="1" offset="-2 17" rect="948 240 5 5" code="͈"/>
+ <Char width="1" offset="-4 17" rect="954 240 6 5" code="͉"/>
+ <Char width="1" offset="-4 1" rect="961 224 9 7" code="͊"/>
+ <Char width="1" offset="-5 -1" rect="1 251 9 8" code="͋"/>
+ <Char width="1" offset="-4 -1" rect="11 251 9 8" code="͌"/>
+ <Char width="1" offset="-4 16" rect="21 268 8 7" code="͍"/>
+ <Char width="1" offset="-3 16" rect="30 268 7 6" code="͎"/>
+ <Char width="1" offset="-8 2" rect="38 254 16 16" code="͏"/>
+ <Char width="1" offset="-2 1" rect="55 253 5 7" code="͐"/>
+ <Char width="1" offset="-2 2" rect="61 254 4 6" code="͑"/>
+ <Char width="1" offset="-4 -1" rect="66 251 9 8" code="͒"/>
+ <Char width="1" offset="-4 16" rect="76 268 8 7" code="͓"/>
+ <Char width="1" offset="-2 16" rect="85 268 5 6" code="͔"/>
+ <Char width="1" offset="-2 16" rect="91 268 5 6" code="͕"/>
+ <Char width="1" offset="-3 15" rect="97 267 9 7" code="͖"/>
+ <Char width="1" offset="-2 2" rect="107 254 4 6" code="͗"/>
+ <Char width="1" offset="1 2" rect="112 254 4 5" code="͘"/>
+ <Char width="1" offset="-3 17" rect="117 269 6 6" code="͙"/>
+ <Char width="1" offset="-4 16" rect="124 268 9 6" code="͚"/>
+ <Char width="1" offset="-3 0" rect="134 252 6 7" code="͛"/>
+ <Char width="1" offset="-3 16" rect="141 268 17 6" code="͜"/>
+ <Char width="1" offset="-3 1" rect="159 253 17 7" code="͝"/>
+ <Char width="1" offset="-2 2" rect="177 254 13 5" code="͞"/>
+ <Char width="1" offset="-2 16" rect="191 268 13 5" code="͟"/>
+ <Char width="1" offset="-3 2" rect="205 254 17 7" code="͠"/>
+ <Char width="1" offset="-3 2" rect="223 254 17 6" code="͡"/>
+ <Char width="1" offset="-3 16" rect="241 268 14 7" code="͢"/>
+ <Char width="1" offset="-4 5" rect="256 257 9 9" code="ͣ"/>
+ <Char width="1" offset="-4 5" rect="266 257 8 10" code="ͤ"/>
+ <Char width="1" offset="-2 2" rect="275 254 4 12" code="ͥ"/>
+ <Char width="1" offset="-4 4" rect="280 256 9 10" code="ͦ"/>
+ <Char width="1" offset="-4 4" rect="290 256 8 10" code="ͧ"/>
+ <Char width="1" offset="-4 4" rect="299 256 9 10" code="ͨ"/>
+ <Char width="1" offset="-4 2" rect="309 254 9 11" code="ͩ"/>
+ <Char width="1" offset="-4 2" rect="319 254 8 11" code="ͪ"/>
+ <Char width="1" offset="-6 5" rect="328 257 12 9" code="ͫ"/>
+ <Char width="1" offset="-3 6" rect="341 258 7 8" code="ͬ"/>
+ <Char width="1" offset="-3 2" rect="349 254 7 12" code="ͭ"/>
+ <Char width="1" offset="-5 5" rect="357 257 10 9" code="ͮ"/>
+ <Char width="1" offset="-5 5" rect="368 257 10 9" code="ͯ"/>
+ <Char width="7" offset="0 2" rect="379 254 7 5" code="ʹ"/>
+ <Char width="7" offset="-1 17" rect="387 269 7 5" code="͵"/>
+ <Char width="7" offset="0 17" rect="395 269 6 5" code="ͺ"/>
+ <Char width="11" offset="-1 6" rect="402 258 12 12" code="ͻ"/>
+ <Char width="12" offset="0 6" rect="415 258 12 12" code="ͼ"/>
+ <Char width="12" offset="-1 6" rect="428 258 12 12" code="ͽ"/>
+ <Char width="7" offset="0 6" rect="441 258 5 16" code=";"/>
+ <Char width="7" offset="0 2" rect="447 254 7 5" code="΄"/>
+ <Char width="10" offset="-1 2" rect="455 254 11 5" code="΅"/>
+ <Char width="14" offset="-2 2" rect="467 254 17 16" code="Ά">
+  <Kerning advance="-1" id="Τ"/>
+  <Kerning advance="-1" id="Υ"/>
+  <Kerning advance="-1" id="Ϋ"/>
+  <Kerning advance="-1" id="γ"/>
+  <Kerning advance="-1" id="ν"/>
+  <Kerning advance="-1" id="χ"/>
+ </Char>
+ <Char width="7" offset="1 6" rect="485 258 5 5" code="·"/>
+ <Char width="17" offset="-2 2" rect="491 254 18 16" code="Έ"/>
+ <Char width="18" offset="-2 2" rect="510 254 19 16" code="Ή"/>
+ <Char width="10" offset="-2 2" rect="530 254 11 16" code="Ί"/>
+ <Char width="17" offset="-2 2" rect="542 254 18 16" code="Ό"/>
+ <Char width="19" offset="-2 2" rect="561 254 21 16" code="Ύ">
+  <Kerning advance="2" id="ΐ"/>
+  <Kerning advance="-1" id="Α"/>
+  <Kerning advance="-1" id="Δ"/>
+  <Kerning advance="-1" id="Θ"/>
+  <Kerning advance="-1" id="Λ"/>
+  <Kerning advance="-1" id="Ο"/>
+  <Kerning advance="-1" id="Φ"/>
+  <Kerning advance="-1" id="Ω"/>
+  <Kerning advance="-1" id="ά"/>
+  <Kerning advance="-1" id="ή"/>
+  <Kerning advance="-1" id="ί"/>
+  <Kerning advance="-1" id="α"/>
+  <Kerning advance="-1" id="δ"/>
+  <Kerning advance="-1" id="η"/>
+  <Kerning advance="-1" id="ι"/>
+  <Kerning advance="-1" id="κ"/>
+  <Kerning advance="-1" id="μ"/>
+  <Kerning advance="-1" id="ο"/>
+  <Kerning advance="-1" id="σ"/>
+  <Kerning advance="-1" id="φ"/>
+  <Kerning advance="1" id="ϊ"/>
+  <Kerning advance="-1" id="ό"/>
+ </Char>
+ <Char width="17" offset="-2 2" rect="583 254 18 16" code="Ώ"/>
+ <Char width="7" offset="-3 2" rect="602 254 12 16" code="ΐ"/>
+ <Char width="14" offset="-1 2" rect="615 254 16 16" code="Α">
+  <Kerning advance="-1" id="Τ"/>
+  <Kerning advance="-1" id="Υ"/>
+  <Kerning advance="-1" id="Ϋ"/>
+  <Kerning advance="-1" id="γ"/>
+  <Kerning advance="-1" id="ν"/>
+  <Kerning advance="-1" id="χ"/>
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="632 254 13 16" code="Β"/>
+ <Char width="12" offset="0 2" rect="646 254 12 16" code="Γ">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-2" id="Α"/>
+  <Kerning advance="-2" id="Δ"/>
+  <Kerning advance="-2" id="Λ"/>
+  <Kerning advance="1" id="ϊ"/>
+ </Char>
+ <Char width="14" offset="-1 2" rect="659 254 16 16" code="Δ">
+  <Kerning advance="-1" id="Τ"/>
+  <Kerning advance="-1" id="Υ"/>
+  <Kerning advance="-1" id="Ϋ"/>
+ </Char>
+ <Char width="13" offset="0 2" rect="676 254 12 16" code="Ε"/>
+ <Char width="14" offset="0 2" rect="689 254 13 16" code="Ζ"/>
+ <Char width="14" offset="0 2" rect="703 254 13 16" code="Η"/>
+ <Char width="16" offset="0 2" rect="717 254 15 16" code="Θ"/>
+ <Char width="6" offset="0 2" rect="733 254 5 16" code="Ι"/>
+ <Char width="14" offset="0 2" rect="739 254 14 16" code="Κ">
+  <Kerning advance="-1" id="Θ"/>
+  <Kerning advance="-1" id="Ο"/>
+  <Kerning advance="-1" id="Φ"/>
+ </Char>
+ <Char width="13" offset="-1 2" rect="754 254 15 16" code="Λ">
+  <Kerning advance="-1" id="Τ"/>
+  <Kerning advance="-1" id="Υ"/>
+  <Kerning advance="-1" id="Ϋ"/>
+ </Char>
+ <Char width="16" offset="0 2" rect="770 254 15 16" code="Μ"/>
+ <Char width="14" offset="0 2" rect="786 254 13 16" code="Ν"/>
+ <Char width="13" offset="0 2" rect="800 254 12 16" code="Ξ"/>
+ <Char width="16" offset="0 2" rect="813 254 15 16" code="Ο"/>
+ <Char width="14" offset="0 2" rect="829 254 13 16" code="Π"/>
+ <Char width="13" offset="0 2" rect="843 254 12 16" code="Ρ">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="Α"/>
+  <Kerning advance="-1" id="Δ"/>
+  <Kerning advance="-1" id="Λ"/>
+ </Char>
+ <Char width="13" offset="0 2" rect="856 254 12 16" code="Σ"/>
+ <Char width="14" offset="0 2" rect="869 254 13 16" code="Τ">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-1" id="-"/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-2" id=":"/>
+  <Kerning advance="-2" id=";"/>
+  <Kerning advance="-1" id="­"/>
+  <Kerning advance="-2" id=";"/>
+  <Kerning advance="2" id="ΐ"/>
+  <Kerning advance="-1" id="Α"/>
+  <Kerning advance="-1" id="Δ"/>
+  <Kerning advance="-1" id="Λ"/>
+  <Kerning advance="-1" id="ά"/>
+  <Kerning advance="-1" id="έ"/>
+  <Kerning advance="-1" id="α"/>
+  <Kerning advance="-1" id="γ"/>
+  <Kerning advance="-1" id="δ"/>
+  <Kerning advance="-1" id="ε"/>
+  <Kerning advance="-1" id="η"/>
+  <Kerning advance="-1" id="μ"/>
+  <Kerning advance="-1" id="ν"/>
+  <Kerning advance="-1" id="ο"/>
+  <Kerning advance="-1" id="σ"/>
+  <Kerning advance="-1" id="υ"/>
+  <Kerning advance="-1" id="φ"/>
+  <Kerning advance="-1" id="χ"/>
+  <Kerning advance="-1" id="ψ"/>
+  <Kerning advance="1" id="ϊ"/>
+  <Kerning advance="-1" id="ϋ"/>
+  <Kerning advance="-1" id="ό"/>
+  <Kerning advance="-1" id="ύ"/>
+ </Char>
+ <Char width="14" offset="-1 2" rect="883 254 15 16" code="Υ">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-1" id="-"/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id=":"/>
+  <Kerning advance="-1" id=";"/>
+  <Kerning advance="-1" id="­"/>
+  <Kerning advance="-1" id=";"/>
+  <Kerning advance="2" id="ΐ"/>
+  <Kerning advance="-1" id="Α"/>
+  <Kerning advance="-1" id="Δ"/>
+  <Kerning advance="-1" id="Θ"/>
+  <Kerning advance="-1" id="Λ"/>
+  <Kerning advance="-1" id="Ο"/>
+  <Kerning advance="-1" id="Φ"/>
+  <Kerning advance="-1" id="Ω"/>
+  <Kerning advance="-1" id="ά"/>
+  <Kerning advance="-1" id="ή"/>
+  <Kerning advance="-1" id="ί"/>
+  <Kerning advance="-1" id="α"/>
+  <Kerning advance="-1" id="γ"/>
+  <Kerning advance="-1" id="δ"/>
+  <Kerning advance="-1" id="η"/>
+  <Kerning advance="-1" id="ι"/>
+  <Kerning advance="-1" id="κ"/>
+  <Kerning advance="-1" id="μ"/>
+  <Kerning advance="-1" id="ο"/>
+  <Kerning advance="-1" id="σ"/>
+  <Kerning advance="-1" id="φ"/>
+  <Kerning advance="1" id="ϊ"/>
+  <Kerning advance="-1" id="ό"/>
+ </Char>
+ <Char width="16" offset="0 2" rect="899 254 16 16" code="Φ"/>
+ <Char width="13" offset="-1 2" rect="916 254 15 16" code="Χ"/>
+ <Char width="16" offset="0 2" rect="932 254 16 16" code="Ψ"/>
+ <Char width="16" offset="0 2" rect="949 254 15 16" code="Ω"/>
+ <Char width="7" offset="-1 -1" rect="965 251 9 19" code="Ϊ"/>
+ <Char width="14" offset="-2 -1" rect="1 276 16 19" code="Ϋ">
+  <Kerning advance="2" id="ΐ"/>
+  <Kerning advance="-1" id="Α"/>
+  <Kerning advance="-1" id="Δ"/>
+  <Kerning advance="-1" id="Θ"/>
+  <Kerning advance="-1" id="Λ"/>
+  <Kerning advance="-1" id="Ο"/>
+  <Kerning advance="-1" id="Φ"/>
+  <Kerning advance="-1" id="Ω"/>
+  <Kerning advance="-1" id="ά"/>
+  <Kerning advance="-1" id="ή"/>
+  <Kerning advance="-1" id="ί"/>
+  <Kerning advance="-1" id="α"/>
+  <Kerning advance="-1" id="δ"/>
+  <Kerning advance="-1" id="η"/>
+  <Kerning advance="-1" id="ι"/>
+  <Kerning advance="-1" id="κ"/>
+  <Kerning advance="-1" id="μ"/>
+  <Kerning advance="-1" id="ο"/>
+  <Kerning advance="-1" id="σ"/>
+  <Kerning advance="-1" id="φ"/>
+  <Kerning advance="1" id="ϊ"/>
+  <Kerning advance="-1" id="ό"/>
+ </Char>
+ <Char width="13" offset="0 2" rect="18 279 13 16" code="ά"/>
+ <Char width="10" offset="0 2" rect="32 279 11 16" code="έ"/>
+ <Char width="12" offset="0 2" rect="44 279 11 20" code="ή"/>
+ <Char width="6" offset="-1 2" rect="56 279 8 16" code="ί"/>
+ <Char width="12" offset="0 2" rect="65 279 11 16" code="ΰ"/>
+ <Char width="13" offset="0 6" rect="77 283 13 12" code="α"/>
+ <Char width="12" offset="0 2" rect="91 279 12 20" code="β"/>
+ <Char width="12" offset="-1 6" rect="104 283 13 16" code="γ"/>
+ <Char width="13" offset="0 2" rect="118 279 12 16" code="δ">
+  <Kerning advance="-1" id="χ"/>
+ </Char>
+ <Char width="10" offset="0 6" rect="131 283 11 12" code="ε"/>
+ <Char width="11" offset="0 2" rect="143 279 10 20" code="ζ">
+  <Kerning advance="-1" id="ά"/>
+  <Kerning advance="-1" id="α"/>
+  <Kerning advance="-1" id="δ"/>
+  <Kerning advance="-1" id="θ"/>
+  <Kerning advance="-1" id="ο"/>
+  <Kerning advance="-1" id="π"/>
+  <Kerning advance="-1" id="σ"/>
+  <Kerning advance="-1" id="τ"/>
+  <Kerning advance="-1" id="φ"/>
+  <Kerning advance="-1" id="ω"/>
+  <Kerning advance="-1" id="ό"/>
+  <Kerning advance="-1" id="ώ"/>
+ </Char>
+ <Char width="12" offset="0 6" rect="154 283 11 16" code="η"/>
+ <Char width="11" offset="0 2" rect="166 279 11 16" code="θ"/>
+ <Char width="6" offset="0 6" rect="178 283 5 12" code="ι"/>
+ <Char width="11" offset="0 6" rect="184 283 12 12" code="κ"/>
+ <Char width="11" offset="-1 2" rect="197 279 13 16" code="λ"/>
+ <Char width="12" offset="0 6" rect="211 283 11 16" code="μ"/>
+ <Char width="11" offset="-1 6" rect="223 283 13 12" code="ν"/>
+ <Char width="10" offset="0 2" rect="237 279 10 20" code="ξ"/>
+ <Char width="13" offset="0 6" rect="248 283 12 12" code="ο">
+  <Kerning advance="-1" id="χ"/>
+ </Char>
+ <Char width="16" offset="0 6" rect="261 283 15 12" code="π">
+  <Kerning advance="-1" id="λ"/>
+ </Char>
+ <Char width="12" offset="0 6" rect="277 283 12 16" code="ρ"/>
+ <Char width="11" offset="0 6" rect="290 283 11 16" code="ς"/>
+ <Char width="14" offset="0 6" rect="302 283 14 12" code="σ"/>
+ <Char width="10" offset="0 6" rect="317 283 9 12" code="τ"/>
+ <Char width="12" offset="0 6" rect="327 283 11 12" code="υ"/>
+ <Char width="14" offset="0 6" rect="339 283 14 16" code="φ">
+  <Kerning advance="-1" id="χ"/>
+ </Char>
+ <Char width="12" offset="-1 6" rect="354 283 13 16" code="χ">
+  <Kerning advance="-1" id="ά"/>
+  <Kerning advance="-1" id="α"/>
+  <Kerning advance="-1" id="δ"/>
+  <Kerning advance="-1" id="ζ"/>
+  <Kerning advance="-1" id="ο"/>
+  <Kerning advance="-1" id="ς"/>
+  <Kerning advance="-1" id="σ"/>
+  <Kerning advance="-1" id="φ"/>
+  <Kerning advance="-1" id="ό"/>
+ </Char>
+ <Char width="14" offset="0 6" rect="368 283 14 16" code="ψ"/>
+ <Char width="17" offset="0 6" rect="383 283 17 12" code="ω"/>
+ <Char width="7" offset="-1 2" rect="401 279 9 16" code="ϊ"/>
+ <Char width="12" offset="0 2" rect="411 279 11 16" code="ϋ"/>
+ <Char width="13" offset="0 2" rect="423 279 12 16" code="ό">
+  <Kerning advance="-1" id="χ"/>
+ </Char>
+ <Char width="12" offset="0 2" rect="436 279 11 16" code="ύ"/>
+ <Char width="17" offset="0 2" rect="448 279 17 16" code="ώ"/>
+ <Char width="13" offset="0 2" rect="466 279 12 16" code="ϐ"/>
+ <Char width="12" offset="-2 2" rect="479 279 14 16" code="ϑ"/>
+ <Char width="15" offset="-1 2" rect="494 279 17 16" code="ϒ"/>
+ <Char width="19" offset="-2 2" rect="512 279 22 16" code="ϓ"/>
+ <Char width="16" offset="-2 -1" rect="535 276 18 19" code="ϔ"/>
+ <Char width="15" offset="0 2" rect="554 279 15 20" code="ϕ"/>
+ <Char width="17" offset="0 6" rect="570 283 17 12" code="ϖ"/>
+ <Char width="14" offset="-2 6" rect="588 283 15 16" code="ϗ"/>
+ <Char width="15" offset="0 2" rect="604 279 15 20" code="Ϙ"/>
+ <Char width="12" offset="0 6" rect="620 283 12 16" code="ϙ"/>
+ <Char width="15" offset="0 2" rect="633 279 14 16" code="Ϛ"/>
+ <Char width="12" offset="0 6" rect="648 283 12 16" code="ϛ"/>
+ <Char width="12" offset="0 2" rect="661 279 11 16" code="Ϝ"/>
+ <Char width="9" offset="0 6" rect="673 283 9 16" code="ϝ"/>
+ <Char width="14" offset="-2 2" rect="683 279 17 16" code="Ϟ"/>
+ <Char width="12" offset="0 2" rect="701 279 12 16" code="ϟ"/>
+ <Char width="16" offset="-2 2" rect="714 279 17 20" code="Ϡ"/>
+ <Char width="12" offset="-1 2" rect="732 279 13 20" code="ϡ"/>
+ <Char width="19" offset="0 2" rect="746 279 18 20" code="Ϣ"/>
+ <Char width="18" offset="0 6" rect="765 283 17 16" code="ϣ"/>
+ <Char width="14" offset="0 2" rect="783 279 13 16" code="Ϥ"/>
+ <Char width="12" offset="0 2" rect="797 279 11 16" code="ϥ"/>
+ <Char width="14" offset="0 2" rect="809 279 13 20" code="Ϧ"/>
+ <Char width="13" offset="0 5" rect="823 282 13 13" code="ϧ"/>
+ <Char width="14" offset="0 2" rect="837 279 13 16" code="Ϩ"/>
+ <Char width="14" offset="0 2" rect="851 279 13 16" code="ϩ"/>
+ <Char width="14" offset="-1 2" rect="865 279 15 16" code="Ϫ"/>
+ <Char width="12" offset="-2 6" rect="881 283 15 12" code="ϫ"/>
+ <Char width="15" offset="0 2" rect="897 279 14 16" code="Ϭ"/>
+ <Char width="12" offset="0 6" rect="912 283 12 12" code="ϭ"/>
+ <Char width="11" offset="-1 2" rect="925 279 12 16" code="Ϯ"/>
+ <Char width="10" offset="-1 3" rect="938 280 10 16" code="ϯ"/>
+ <Char width="13" offset="-2 6" rect="949 283 16 12" code="ϰ"/>
+ <Char width="13" offset="0 6" rect="1 307 12 16" code="ϱ"/>
+ <Char width="12" offset="0 6" rect="14 307 12 12" code="ϲ"/>
+ <Char width="6" offset="-3 2" rect="27 303 8 20" code="ϳ"/>
+ <Char width="16" offset="0 2" rect="36 303 15 16" code="ϴ"/>
+ <Char width="10" offset="0 6" rect="52 307 10 12" code="ϵ"/>
+ <Char width="10" offset="0 6" rect="63 307 9 12" code="϶"/>
+ <Char width="13" offset="0 2" rect="73 303 12 16" code="Ϸ"/>
+ <Char width="12" offset="0 2" rect="86 303 12 20" code="ϸ"/>
+ <Char width="14" offset="0 2" rect="99 303 14 16" code="Ϲ"/>
+ <Char width="16" offset="0 2" rect="114 303 15 16" code="Ϻ"/>
+ <Char width="15" offset="0 6" rect="130 307 14 16" code="ϻ"/>
+ <Char width="13" offset="0 6" rect="145 307 13 16" code="ϼ"/>
+ <Char width="15" offset="0 2" rect="159 303 14 16" code="Ͻ"/>
+ <Char width="15" offset="0 2" rect="174 303 14 16" code="Ͼ"/>
+ <Char width="14" offset="-1 2" rect="189 303 14 16" code="Ͽ"/>
+ <Char width="13" offset="0 -1" rect="204 300 12 19" code="Ѐ"/>
+ <Char width="13" offset="0 -1" rect="217 300 12 19" code="Ё"/>
+ <Char width="18" offset="0 2" rect="230 303 18 16" code="Ђ"/>
+ <Char width="12" offset="0 -1" rect="249 300 12 19" code="Ѓ">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="«"/>
+  <Kerning advance="-1" id="»"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="262 303 14 16" code="Є"/>
+ <Char width="14" offset="-1 2" rect="277 303 14 16" code="Ѕ"/>
+ <Char width="6" offset="0 2" rect="292 303 5 16" code="І"/>
+ <Char width="7" offset="-1 -1" rect="298 300 9 19" code="Ї"/>
+ <Char width="12" offset="0 2" rect="308 303 11 16" code="Ј"/>
+ <Char width="23" offset="0 2" rect="320 303 22 16" code="Љ">
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="21" offset="0 2" rect="343 303 20 16" code="Њ">
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="18" offset="0 2" rect="364 303 17 16" code="Ћ"/>
+ <Char width="12" offset="0 -1" rect="382 300 12 19" code="Ќ"/>
+ <Char width="14" offset="0 -1" rect="395 300 13 19" code="Ѝ"/>
+ <Char width="13" offset="-1 -1" rect="409 300 14 19" code="Ў"/>
+ <Char width="14" offset="0 2" rect="424 303 13 20" code="Џ"/>
+ <Char width="14" offset="-1 2" rect="438 303 16 16" code="А">
+  <Kerning advance="1" id="Д"/>
+  <Kerning advance="-1" id="Т"/>
+  <Kerning advance="-1" id="У"/>
+  <Kerning advance="-1" id="Ч"/>
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="455 303 13 16" code="Б">
+  <Kerning advance="-1" id="А"/>
+  <Kerning advance="-1" id="Ч"/>
+  <Kerning advance="-1" id="Ъ"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="469 303 13 16" code="В">
+  <Kerning advance="-1" id="А"/>
+  <Kerning advance="-1" id="Ж"/>
+  <Kerning advance="-1" id="С"/>
+  <Kerning advance="-1" id="Т"/>
+  <Kerning advance="-1" id="У"/>
+  <Kerning advance="-1" id="Х"/>
+  <Kerning advance="-1" id="Ч"/>
+  <Kerning advance="-1" id="Ъ"/>
+  <Kerning advance="-1" id="ч"/>
+ </Char>
+ <Char width="12" offset="0 2" rect="483 303 11 16" code="Г">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="«"/>
+  <Kerning advance="-1" id="»"/>
+  <Kerning advance="-1" id="А"/>
+  <Kerning advance="-1" id="д"/>
+  <Kerning advance="-1" id="е"/>
+  <Kerning advance="-1" id="л"/>
+  <Kerning advance="-1" id="м"/>
+  <Kerning advance="-1" id="о"/>
+  <Kerning advance="-1" id="р"/>
+  <Kerning advance="-1" id="у"/>
+  <Kerning advance="-1" id="ы"/>
+  <Kerning advance="-1" id="ь"/>
+  <Kerning advance="-1" id="ю"/>
+  <Kerning advance="-1" id="я"/>
+ </Char>
+ <Char width="15" offset="-1 2" rect="495 303 15 19" code="Д"/>
+ <Char width="13" offset="0 2" rect="511 303 12 16" code="Е"/>
+ <Char width="19" offset="-1 2" rect="524 303 20 16" code="Ж">
+  <Kerning advance="1" id="Ъ"/>
+ </Char>
+ <Char width="13" offset="-1 2" rect="545 303 13 16" code="З">
+  <Kerning advance="-1" id="Т"/>
+  <Kerning advance="-1" id="У"/>
+  <Kerning advance="-1" id="Ч"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="559 303 13 16" code="И"/>
+ <Char width="14" offset="0 -1" rect="573 300 13 19" code="Й"/>
+ <Char width="12" offset="0 2" rect="587 303 12 16" code="К">
+  <Kerning advance="1" id="З"/>
+ </Char>
+ <Char width="15" offset="0 2" rect="600 303 14 16" code="Л"/>
+ <Char width="16" offset="0 2" rect="615 303 15 16" code="М"/>
+ <Char width="14" offset="0 2" rect="631 303 13 16" code="Н"/>
+ <Char width="16" offset="0 2" rect="645 303 15 16" code="О">
+  <Kerning advance="-1" id="Х"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="661 303 13 16" code="П"/>
+ <Char width="13" offset="0 2" rect="675 303 12 16" code="Р">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="А"/>
+  <Kerning advance="-1" id="Д"/>
+  <Kerning advance="-1" id="Л"/>
+  <Kerning advance="-1" id="Х"/>
+  <Kerning advance="-1" id="д"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="688 303 14 16" code="С">
+  <Kerning advance="-1" id="Х"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="703 303 13 16" code="Т">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="А"/>
+  <Kerning advance="-1" id="Ф"/>
+  <Kerning advance="-1" id="в"/>
+  <Kerning advance="-1" id="е"/>
+  <Kerning advance="-1" id="и"/>
+  <Kerning advance="-1" id="к"/>
+  <Kerning advance="-1" id="л"/>
+  <Kerning advance="-1" id="м"/>
+  <Kerning advance="-1" id="о"/>
+  <Kerning advance="-1" id="р"/>
+  <Kerning advance="-1" id="с"/>
+  <Kerning advance="-1" id="у"/>
+  <Kerning advance="-1" id="х"/>
+ </Char>
+ <Char width="13" offset="-1 2" rect="717 303 14 16" code="У">
+  <Kerning advance="-2" id=","/>
+  <Kerning advance="-2" id="."/>
+  <Kerning advance="-1" id="«"/>
+  <Kerning advance="-1" id="»"/>
+  <Kerning advance="-1" id="А"/>
+  <Kerning advance="-1" id="Д"/>
+  <Kerning advance="-1" id="Л"/>
+  <Kerning advance="-1" id="Ф"/>
+  <Kerning advance="-1" id="в"/>
+  <Kerning advance="-1" id="г"/>
+  <Kerning advance="-1" id="д"/>
+  <Kerning advance="-1" id="е"/>
+  <Kerning advance="-1" id="з"/>
+  <Kerning advance="-1" id="и"/>
+  <Kerning advance="-1" id="й"/>
+  <Kerning advance="-1" id="к"/>
+  <Kerning advance="-1" id="л"/>
+  <Kerning advance="-1" id="м"/>
+  <Kerning advance="-1" id="н"/>
+  <Kerning advance="-1" id="о"/>
+  <Kerning advance="-1" id="п"/>
+  <Kerning advance="-1" id="р"/>
+  <Kerning advance="-1" id="с"/>
+  <Kerning advance="-1" id="ц"/>
+  <Kerning advance="-1" id="ш"/>
+  <Kerning advance="-1" id="щ"/>
+  <Kerning advance="-1" id="ю"/>
+  <Kerning advance="-1" id="я"/>
+ </Char>
+ <Char width="17" offset="0 2" rect="732 303 17 16" code="Ф">
+  <Kerning advance="-1" id="Д"/>
+  <Kerning advance="-1" id="Л"/>
+  <Kerning advance="-1" id="Т"/>
+  <Kerning advance="-1" id="У"/>
+ </Char>
+ <Char width="13" offset="-1 2" rect="750 303 15 16" code="Х">
+  <Kerning advance="-1" id="С"/>
+  <Kerning advance="-1" id="Ф"/>
+ </Char>
+ <Char width="15" offset="0 2" rect="766 303 14 19" code="Ц">
+  <Kerning advance="1" id="а"/>
+ </Char>
+ <Char width="14" offset="0 2" rect="781 303 13 16" code="Ч"/>
+ <Char width="19" offset="0 2" rect="795 303 18 16" code="Ш"/>
+ <Char width="20" offset="0 2" rect="814 303 20 19" code="Щ"/>
+ <Char width="18" offset="0 2" rect="835 303 17 16" code="Ъ">
+  <Kerning advance="-1" id="Я"/>
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="19" offset="0 2" rect="853 303 18 16" code="Ы"/>
+ <Char width="14" offset="0 2" rect="872 303 13 16" code="Ь">
+  <Kerning advance="-1" id="Ж"/>
+  <Kerning advance="-1" id="Л"/>
+  <Kerning advance="-1" id="Т"/>
+  <Kerning advance="-1" id="Х"/>
+  <Kerning advance="-1" id="Ч"/>
+  <Kerning advance="-1" id="Э"/>
+  <Kerning advance="-1" id="Я"/>
+  <Kerning advance="-1" id="’"/>
+ </Char>
+ <Char width="14" offset="-1 2" rect="886 303 14 16" code="Э">
+  <Kerning advance="-1" id="Л"/>
+ </Char>
+ <Char width="20" offset="0 2" rect="901 303 19 16" code="Ю">
+  <Kerning advance="-1" id="Л"/>
+  <Kerning advance="-1" id="Х"/>
+ </Char>
+ <Char width="14" offset="-2 2" rect="921 303 15 16" code="Я"/>
+ <Char width="12" offset="0 6" rect="937 307 12 12" code="а"/>
+ <Char width="13" offset="0 2" rect="950 303 12 16" code="б"/>
+ <Char width="12" offset="0 6" rect="963 307 11 12" code="в">
+  <Kerning advance="-1" id="ч"/>
+ </Char>
+ <Char width="9" offset="0 6" rect="1 331 9 12" code="г">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+  <Kerning advance="-1" id="д"/>
+ </Char>
+ <Char width="13" offset="-1 6" rect="11 331 14 15" code="д"/>
+ <Char width="12" offset="0 6" rect="26 331 11 12" code="е"/>
+ <Char width="15" offset="-1 6" rect="38 331 16 12" code="ж"/>
+ <Char width="11" offset="-1 6" rect="55 331 11 12" code="з">
+  <Kerning advance="-1" id="ч"/>
+ </Char>
+ <Char width="12" offset="0 6" rect="67 331 11 12" code="и"/>
+ <Char width="12" offset="0 2" rect="79 327 11 16" code="й"/>
+ <Char width="10" offset="0 6" rect="91 331 10 12" code="к"/>
+ <Char width="14" offset="0 6" rect="102 331 13 12" code="л"/>
+ <Char width="15" offset="0 6" rect="116 331 14 12" code="м"/>
+ <Char width="12" offset="0 6" rect="131 331 11 12" code="н"/>
+ <Char width="13" offset="0 6" rect="143 331 12 12" code="о"/>
+ <Char width="12" offset="0 6" rect="156 331 11 12" code="п"/>
+ <Char width="12" offset="0 6" rect="168 331 12 16" code="р"/>
+ <Char width="12" offset="0 6" rect="181 331 12 12" code="с"/>
+ <Char width="12" offset="0 6" rect="194 331 11 12" code="т">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="11" offset="-1 6" rect="206 331 13 16" code="у">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="17" offset="0 2" rect="220 327 17 20" code="ф"/>
+ <Char width="11" offset="-1 6" rect="238 331 13 12" code="х"/>
+ <Char width="13" offset="0 6" rect="252 331 12 15" code="ц"/>
+ <Char width="12" offset="0 6" rect="265 331 11 12" code="ч"/>
+ <Char width="17" offset="0 6" rect="277 331 16 12" code="ш"/>
+ <Char width="17" offset="0 6" rect="294 331 17 15" code="щ"/>
+ <Char width="15" offset="0 6" rect="312 331 15 12" code="ъ"/>
+ <Char width="17" offset="0 6" rect="328 331 16 12" code="ы"/>
+ <Char width="12" offset="0 6" rect="345 331 12 12" code="ь">
+  <Kerning advance="-1" id="т"/>
+  <Kerning advance="-1" id="ч"/>
+ </Char>
+ <Char width="11" offset="-1 6" rect="358 331 11 12" code="э"/>
+ <Char width="17" offset="0 6" rect="370 331 16 12" code="ю">
+  <Kerning advance="-1" id="ч"/>
+ </Char>
+ <Char width="12" offset="-1 6" rect="387 331 12 12" code="я"/>
+ <Char width="12" offset="0 2" rect="400 327 11 16" code="ѐ"/>
+ <Char width="12" offset="0 2" rect="412 327 11 16" code="ё"/>
+ <Char width="12" offset="-1 2" rect="424 327 12 20" code="ђ"/>
+ <Char width="9" offset="0 2" rect="437 327 9 16" code="ѓ"/>
+ <Char width="11" offset="0 6" rect="447 331 11 12" code="є"/>
+ <Char width="11" offset="-1 6" rect="459 331 12 12" code="ѕ"/>
+ <Char width="6" offset="0 2" rect="472 327 5 16" code="і"/>
+ <Char width="7" offset="-1 2" rect="478 327 9 16" code="ї"/>
+ <Char width="6" offset="-3 2" rect="488 327 8 20" code="ј"/>
+ <Char width="20" offset="0 6" rect="497 331 20 12" code="љ"/>
+ <Char width="18" offset="0 6" rect="518 331 17 12" code="њ"/>
+ <Char width="12" offset="-1 2" rect="536 327 12 16" code="ћ"/>
+ <Char width="10" offset="0 2" rect="549 327 10 16" code="ќ"/>
+ <Char width="12" offset="0 2" rect="560 327 11 16" code="ѝ"/>
+ <Char width="11" offset="-1 2" rect="572 327 13 20" code="ў">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="12" offset="0 6" rect="586 331 11 15" code="џ"/>
+ <Char width="25" offset="0 2" rect="598 327 25 16" code="Ѡ"/>
+ <Char width="16" offset="0 6" rect="624 331 17 12" code="ѡ"/>
+ <Char width="18" offset="0 2" rect="642 327 17 16" code="Ѣ"/>
+ <Char width="15" offset="0 2" rect="660 327 14 16" code="ѣ"/>
+ <Char width="19" offset="0 2" rect="675 327 19 16" code="Ѥ"/>
+ <Char width="16" offset="0 6" rect="695 331 16 12" code="ѥ"/>
+ <Char width="13" offset="-2 2" rect="712 327 16 16" code="Ѧ"/>
+ <Char width="11" offset="-2 6" rect="729 331 14 12" code="ѧ"/>
+ <Char width="18" offset="0 2" rect="744 327 19 16" code="Ѩ"/>
+ <Char width="15" offset="0 6" rect="764 331 16 12" code="ѩ"/>
+ <Char width="16" offset="0 2" rect="781 327 16 16" code="Ѫ"/>
+ <Char width="14" offset="0 6" rect="798 331 14 12" code="ѫ"/>
+ <Char width="21" offset="0 2" rect="813 327 20 16" code="Ѭ"/>
+ <Char width="19" offset="0 6" rect="834 331 18 12" code="ѭ"/>
+ <Char width="13" offset="0 -1" rect="853 324 12 23" code="Ѯ"/>
+ <Char width="11" offset="0 2" rect="866 327 11 20" code="ѯ"/>
+ <Char width="16" offset="-1 2" rect="878 327 16 16" code="Ѱ"/>
+ <Char width="15" offset="0 6" rect="895 331 14 16" code="ѱ"/>
+ <Char width="16" offset="0 2" rect="910 327 15 16" code="Ѳ"/>
+ <Char width="13" offset="0 6" rect="926 331 12 12" code="ѳ"/>
+ <Char width="16" offset="-2 2" rect="939 327 19 16" code="Ѵ"/>
+ <Char width="13" offset="-1 6" rect="959 331 14 12" code="ѵ"/>
+ <Char width="16" offset="-2 -1" rect="1 352 19 19" code="Ѷ"/>
+ <Char width="13" offset="-1 2" rect="21 355 14 16" code="ѷ"/>
+ <Char width="22" offset="0 2" rect="36 355 22 20" code="Ѹ"/>
+ <Char width="20" offset="0 6" rect="59 359 20 16" code="ѹ"/>
+ <Char width="17" offset="0 1" rect="80 354 17 18" code="Ѻ"/>
+ <Char width="14" offset="0 5" rect="98 358 13 14" code="ѻ"/>
+ <Char width="25" offset="0 -5" rect="112 348 24 23" code="Ѽ"/>
+ <Char width="18" offset="0 -2" rect="137 351 17 20" code="ѽ"/>
+ <Char width="25" offset="0 -1" rect="155 352 25 19" code="Ѿ"/>
+ <Char width="16" offset="0 4" rect="181 357 17 14" code="ѿ"/>
+ <Char width="15" offset="0 2" rect="199 355 14 20" code="Ҁ"/>
+ <Char width="12" offset="0 6" rect="214 359 12 16" code="ҁ"/>
+ <Char width="12" offset="-1 2" rect="227 355 13 16" code="҂"/>
+ <Char width="1" offset="-4 2" rect="241 355 9 6" code="҃"/>
+ <Char width="1" offset="-4 2" rect="251 355 8 5" code="҄"/>
+ <Char width="1" offset="-2 2" rect="260 355 5 7" code="҅"/>
+ <Char width="1" offset="-3 2" rect="266 355 5 7" code="҆"/>
+ <Char width="1" offset="-7 -1" rect="272 352 13 6" code="҇"/>
+ <Char width="1" offset="-10 2" rect="286 355 20 19" code="҈"/>
+ <Char width="1" offset="-10 2" rect="307 355 20 21" code="҉"/>
+ <Char width="14" offset="0 -1" rect="328 352 15 22" code="Ҋ"/>
+ <Char width="12" offset="0 2" rect="344 355 13 19" code="ҋ"/>
+ <Char width="15" offset="0 2" rect="358 355 15 16" code="Ҍ"/>
+ <Char width="13" offset="0 2" rect="374 355 13 16" code="ҍ"/>
+ <Char width="13" offset="0 2" rect="388 355 12 16" code="Ҏ"/>
+ <Char width="12" offset="0 6" rect="401 359 12 16" code="ҏ"/>
+ <Char width="10" offset="0 -1" rect="414 352 10 19" code="Ґ">
+  <Kerning advance="-1" id=","/>
+  <Kerning advance="-1" id="."/>
+ </Char>
+ <Char width="10" offset="0 3" rect="425 356 9 15" code="ґ"/>
+ <Char width="12" offset="-1 2" rect="435 355 13 16" code="Ғ"/>
+ <Char width="10" offset="0 6" rect="449 359 10 12" code="ғ"/>
+ <Char width="14" offset="0 2" rect="460 355 13 20" code="Ҕ"/>
+ <Char width="12" offset="0 6" rect="474 359 12 16" code="ҕ"/>
+ <Char width="19" offset="-1 2" rect="487 355 20 19" code="Җ"/>
+ <Char width="15" offset="-1 6" rect="508 359 16 15" code="җ"/>
+ <Char width="13" offset="-1 2" rect="525 355 13 20" code="Ҙ"/>
+ <Char width="10" offset="-1 6" rect="539 359 11 16" code="ҙ"/>
+ <Char width="13" offset="0 2" rect="551 355 12 19" code="Қ"/>
+ <Char width="11" offset="0 6" rect="564 359 11 15" code="қ"/>
+ <Char width="12" offset="0 2" rect="576 355 12 16" code="Ҝ"/>
+ <Char width="10" offset="0 6" rect="589 359 10 12" code="ҝ"/>
+ <Char width="14" offset="0 2" rect="600 355 14 16" code="Ҟ"/>
+ <Char width="12" offset="0 2" rect="615 355 12 16" code="ҟ"/>
+ <Char width="16" offset="0 2" rect="628 355 16 16" code="Ҡ"/>
+ <Char width="13" offset="0 6" rect="645 359 13 12" code="ҡ"/>
+ <Char width="15" offset="0 2" rect="659 355 14 19" code="Ң"/>
+ <Char width="13" offset="0 6" rect="674 359 12 15" code="ң"/>
+ <Char width="17" offset="0 2" rect="687 355 17 16" code="Ҥ"/>
+ <Char width="15" offset="0 6" rect="705 359 14 12" code="ҥ"/>
+ <Char width="22" offset="0 2" rect="720 355 21 20" code="Ҧ"/>
+ <Char width="18" offset="0 6" rect="742 359 18 16" code="ҧ"/>
+ <Char width="15" offset="0 2" rect="761 355 15 16" code="Ҩ"/>
+ <Char width="12" offset="0 6" rect="777 359 13 12" code="ҩ"/>
+ <Char width="15" offset="0 2" rect="791 355 14 20" code="Ҫ"/>
+ <Char width="12" offset="0 6" rect="806 359 12 16" code="ҫ"/>
+ <Char width="14" offset="0 2" rect="819 355 13 19" code="Ҭ"/>
+ <Char width="12" offset="0 6" rect="833 359 11 15" code="ҭ"/>
+ <Char width="12" offset="-1 2" rect="845 355 13 16" code="Ү"/>
+ <Char width="12" offset="-1 6" rect="859 359 13 16" code="ү"/>
+ <Char width="12" offset="-1 2" rect="873 355 13 16" code="Ұ"/>
+ <Char width="11" offset="-1 6" rect="887 359 12 16" code="ұ"/>
+ <Char width="14" offset="-2 2" rect="900 355 16 19" code="Ҳ"/>
+ <Char width="12" offset="-2 6" rect="917 359 14 15" code="ҳ"/>
+ <Char width="18" offset="0 2" rect="932 355 17 19" code="Ҵ"/>
+ <Char width="15" offset="0 6" rect="950 359 15 15" code="ҵ"/>
+ <Char width="15" offset="0 2" rect="1 381 14 19" code="Ҷ"/>
+ <Char width="13" offset="0 6" rect="16 385 12 15" code="ҷ"/>
+ <Char width="14" offset="0 2" rect="29 381 13 16" code="Ҹ"/>
+ <Char width="12" offset="0 6" rect="43 385 11 12" code="ҹ"/>
+ <Char width="14" offset="0 2" rect="55 381 13 16" code="Һ"/>
+ <Char width="12" offset="0 2" rect="69 381 11 16" code="һ"/>
+ <Char width="18" offset="0 2" rect="81 381 17 16" code="Ҽ"/>
+ <Char width="15" offset="0 6" rect="99 385 14 12" code="ҽ"/>
+ <Char width="18" offset="0 2" rect="114 381 17 18" code="Ҿ"/>
+ <Char width="15" offset="0 6" rect="132 385 14 15" code="ҿ"/>
+ <Char width="6" offset="0 2" rect="147 381 5 16" code="Ӏ"/>
+ <Char width="19" offset="-1 -1" rect="153 378 20 19" code="Ӂ"/>
+ <Char width="15" offset="-1 2" rect="174 381 16 16" code="ӂ"/>
+ <Char width="14" offset="0 2" rect="191 381 13 20" code="Ӄ"/>
+ <Char width="12" offset="0 6" rect="205 385 12 16" code="ӄ"/>
+ <Char width="15" offset="0 2" rect="218 381 16 19" code="Ӆ"/>
+ <Char width="14" offset="0 6" rect="235 385 14 15" code="ӆ"/>
+ <Char width="14" offset="0 2" rect="250 381 13 20" code="Ӈ"/>
+ <Char width="12" offset="0 6" rect="264 385 11 16" code="ӈ"/>
+ <Char width="14" offset="0 2" rect="276 381 15 19" code="Ӊ"/>
+ <Char width="12" offset="0 6" rect="292 385 13 15" code="ӊ"/>
+ <Char width="14" offset="0 2" rect="306 381 13 19" code="Ӌ"/>
+ <Char width="12" offset="0 6" rect="320 385 11 15" code="ӌ"/>
+ <Char width="16" offset="0 2" rect="332 381 17 19" code="Ӎ"/>
+ <Char width="15" offset="0 6" rect="350 385 15 15" code="ӎ"/>
+ <Char width="6" offset="0 2" rect="366 381 5 16" code="ӏ"/>
+ <Char width="14" offset="-1 -1" rect="372 378 16 19" code="Ӑ"/>
+ <Char width="12" offset="0 2" rect="389 381 12 16" code="ӑ"/>
+ <Char width="15" offset="-1 -1" rect="402 378 17 19" code="Ӓ"/>
+ <Char width="12" offset="0 2" rect="420 381 12 16" code="ӓ"/>
+ <Char width="19" offset="-2 2" rect="433 381 21 16" code="Ӕ"/>
+ <Char width="18" offset="0 6" rect="455 385 17 12" code="ӕ"/>
+ <Char width="13" offset="0 -1" rect="473 378 12 19" code="Ӗ"/>
+ <Char width="12" offset="0 2" rect="486 381 11 16" code="ӗ"/>
+ <Char width="15" offset="0 2" rect="498 381 14 16" code="Ә"/>
+ <Char width="12" offset="0 6" rect="513 385 11 12" code="ә"/>
+ <Char width="15" offset="0 -2" rect="525 377 14 20" code="Ӛ"/>
+ <Char width="12" offset="0 2" rect="540 381 11 16" code="ӛ"/>
+ <Char width="19" offset="-1 -1" rect="552 378 20 19" code="Ӝ"/>
+ <Char width="15" offset="-1 2" rect="573 381 16 16" code="ӝ"/>
+ <Char width="12" offset="-2 -2" rect="590 377 13 20" code="Ӟ"/>
+ <Char width="10" offset="-2 2" rect="604 381 11 16" code="ӟ"/>
+ <Char width="13" offset="-1 2" rect="616 381 13 16" code="Ӡ"/>
+ <Char width="11" offset="-1 6" rect="630 385 11 16" code="ӡ"/>
+ <Char width="14" offset="0 -2" rect="642 377 13 20" code="Ӣ"/>
+ <Char width="12" offset="0 2" rect="656 381 11 16" code="ӣ"/>
+ <Char width="14" offset="0 -1" rect="668 378 13 19" code="Ӥ"/>
+ <Char width="12" offset="0 2" rect="682 381 11 16" code="ӥ"/>
+ <Char width="16" offset="0 -2" rect="694 377 15 20" code="Ӧ"/>
+ <Char width="13" offset="0 2" rect="710 381 12 16" code="ӧ"/>
+ <Char width="16" offset="0 2" rect="723 381 15 16" code="Ө"/>
+ <Char width="13" offset="0 6" rect="739 385 12 12" code="ө"/>
+ <Char width="16" offset="0 -2" rect="752 377 15 20" code="Ӫ"/>
+ <Char width="13" offset="0 2" rect="768 381 12 16" code="ӫ"/>
+ <Char width="14" offset="-1 -2" rect="781 377 14 20" code="Ӭ"/>
+ <Char width="11" offset="-1 2" rect="796 381 11 16" code="ӭ"/>
+ <Char width="13" offset="-2 -1" rect="808 378 15 19" code="Ӯ"/>
+ <Char width="11" offset="-2 2" rect="824 381 14 20" code="ӯ"/>
+ <Char width="13" offset="-1 -2" rect="839 377 15 20" code="Ӱ"/>
+ <Char width="12" offset="-1 2" rect="855 381 13 20" code="ӱ"/>
+ <Char width="13" offset="-1 -1" rect="869 378 14 19" code="Ӳ"/>
+ <Char width="11" offset="-1 2" rect="884 381 13 20" code="ӳ"/>
+ <Char width="14" offset="0 -1" rect="898 378 13 19" code="Ӵ"/>
+ <Char width="12" offset="0 2" rect="912 381 11 16" code="ӵ"/>
+ <Char width="12" offset="0 2" rect="924 381 11 19" code="Ӷ"/>
+ <Char width="9" offset="0 6" rect="936 385 9 15" code="ӷ"/>
+ <Char width="19" offset="0 -1" rect="946 378 18 19" code="Ӹ"/>
+ <Char width="17" offset="0 2" rect="1 402 16 16" code="ӹ"/>
+ <Char width="13" offset="0 2" rect="18 402 13 20" code="Ӻ"/>
+ <Char width="10" offset="0 6" rect="32 406 10 16" code="ӻ"/>
+ <Char width="14" offset="-1 2" rect="43 402 15 20" code="Ӽ"/>
+ <Char width="12" offset="-1 6" rect="59 406 13 16" code="ӽ"/>
+ <Char width="14" offset="-1 2" rect="73 402 15 16" code="Ӿ"/>
+ <Char width="12" offset="-1 6" rect="89 406 13 12" code="ӿ"/>
+ <Char width="14" offset="0 2" rect="103 402 13 16" code="Ԁ"/>
+ <Char width="13" offset="0 2" rect="117 402 12 16" code="ԁ"/>
+ <Char width="21" offset="0 2" rect="130 402 20 16" code="Ԃ"/>
+ <Char width="19" offset="0 2" rect="151 402 18 16" code="ԃ"/>
+ <Char width="20" offset="0 2" rect="170 402 19 16" code="Ԅ"/>
+ <Char width="17" offset="-1 6" rect="190 406 17 12" code="ԅ"/>
+ <Char width="14" offset="0 2" rect="208 402 14 19" code="Ԇ"/>
+ <Char width="12" offset="-1 6" rect="223 406 12 15" code="ԇ"/>
+ <Char width="21" offset="0 2" rect="236 402 20 16" code="Ԉ"/>
+ <Char width="20" offset="0 6" rect="257 406 19 12" code="ԉ"/>
+ <Char width="20" offset="0 2" rect="277 402 19 16" code="Ԋ"/>
+ <Char width="18" offset="0 6" rect="297 406 18 12" code="ԋ"/>
+ <Char width="16" offset="0 2" rect="316 402 15 16" code="Ԍ"/>
+ <Char width="12" offset="0 6" rect="332 406 11 12" code="ԍ"/>
+ <Char width="16" offset="0 2" rect="344 402 15 16" code="Ԏ"/>
+ <Char width="15" offset="0 6" rect="360 406 14 12" code="ԏ"/>
+ <Char width="13" offset="0 2" rect="375 402 13 16" code="Ԑ"/>
+ <Char width="10" offset="0 6" rect="389 406 11 12" code="ԑ"/>
+ <Char width="15" offset="0 2" rect="401 402 14 20" code="Ԓ"/>
+ <Char width="14" offset="0 6" rect="416 406 13 16" code="ԓ"/>
+ <Char width="16" offset="0 2" rect="430 402 16 18" code="Ԛ"/>
+ <Char width="13" offset="0 6" rect="447 406 12 16" code="ԛ"/>
+ <Char width="19" offset="-1 2" rect="460 402 20 16" code="Ԝ"/>
+ <Char width="16" offset="-1 6" rect="481 406 17 12" code="ԝ"/>
+ <Char width="1" offset="-3 16" rect="499 416 5 6" code="֑"/>
+ <Char width="1" offset="-3 2" rect="505 402 6 6" code="֒"/>
+ <Char width="1" offset="-3 2" rect="512 402 6 6" code="֓"/>
+ <Char width="1" offset="-2 2" rect="519 402 4 6" code="֔"/>
+ <Char width="1" offset="-3 2" rect="524 402 5 6" code="֕"/>
+ <Char width="1" offset="-3 16" rect="530 416 6 6" code="֖"/>
+ <Char width="1" offset="-3 2" rect="537 402 6 6" code="֗"/>
+ <Char width="1" offset="-4 2" rect="544 402 8 5" code="֘"/>
+ <Char width="1" offset="-6 2" rect="553 402 6 6" code="֙"/>
+ <Char width="1" offset="-1 16" rect="560 416 6 6" code="֚"/>
+ <Char width="1" offset="-3 16" rect="567 416 6 6" code="֛"/>
+ <Char width="1" offset="-3 2" rect="574 402 6 6" code="֜"/>
+ <Char width="1" offset="0 2" rect="581 402 6 6" code="֝"/>
+ <Char width="1" offset="-3 2" rect="588 402 7 6" code="֞"/>
+ <Char width="1" offset="-5 2" rect="596 402 10 6" code="֟"/>
+ <Char width="1" offset="-3 2" rect="607 402 6 6" code="֠"/>
+ <Char width="1" offset="-3 2" rect="614 402 5 6" code="֡"/>
+ <Char width="1" offset="-3 16" rect="620 416 5 6" code="֢"/>
+ <Char width="1" offset="-3 16" rect="626 416 5 6" code="֣"/>
+ <Char width="1" offset="-3 16" rect="632 416 6 6" code="֤"/>
+ <Char width="1" offset="-3 16" rect="639 416 6 6" code="֥"/>
+ <Char width="1" offset="-4 16" rect="646 416 8 6" code="֦"/>
+ <Char width="1" offset="-3 16" rect="655 416 6 6" code="֧"/>
+ <Char width="1" offset="-3 2" rect="662 402 6 6" code="֨"/>
+ <Char width="1" offset="-3 2" rect="669 402 6 6" code="֩"/>
+ <Char width="1" offset="-3 16" rect="676 416 5 6" code="֪"/>
+ <Char width="1" offset="-3 2" rect="682 402 6 6" code="֫"/>
+ <Char width="1" offset="-3 2" rect="689 402 5 6" code="֬"/>
+ <Char width="1" offset="0 16" rect="695 416 6 6" code="֭"/>
+ <Char width="1" offset="-6 2" rect="702 402 8 5" code="֮"/>
+ <Char width="1" offset="-2 2" rect="711 402 5 5" code="֯"/>
+ <Char width="1" offset="-1 16" rect="717 416 4 6" code="ְ"/>
+ <Char width="1" offset="-1 16" rect="722 416 8 6" code="ֱ"/>
+ <Char width="1" offset="-1 16" rect="731 416 8 6" code="ֲ"/>
+ <Char width="1" offset="-1 16" rect="740 416 8 6" code="ֳ"/>
+ <Char width="1" offset="-1 16" rect="749 416 4 4" code="ִ"/>
+ <Char width="1" offset="-1 16" rect="754 416 6 4" code="ֵ"/>
+ <Char width="1" offset="-1 16" rect="761 416 6 6" code="ֶ"/>
+ <Char width="1" offset="-1 16" rect="768 416 6 3" code="ַ"/>
+ <Char width="1" offset="-1 16" rect="775 416 6 5" code="ָ"/>
+ <Char width="1" offset="-2 4" rect="782 404 4 4" code="ֹ"/>
+ <Char width="1" offset="-2 4" rect="787 404 5 4" code="ֺ"/>
+ <Char width="1" offset="-1 16" rect="793 416 8 6" code="ֻ"/>
+ <Char width="1" offset="1 10" rect="802 410 4 4" code="ּ"/>
+ <Char width="1" offset="-1 16" rect="807 416 3 6" code="ֽ"/>
+ <Char width="9" offset="0 6" rect="811 406 9 5" code="־"/>
+ <Char width="1" offset="-3 5" rect="821 405 6 3" code="ֿ"/>
+ <Char width="7" offset="1 4" rect="828 404 4 16" code="׀"/>
+ <Char width="1" offset="6 4" rect="833 404 4 4" code="ׁ"/>
+ <Char width="1" offset="-4 4" rect="838 404 4 4" code="ׂ"/>
+ <Char width="7" offset="1 6" rect="843 406 5 12" code="׃"/>
+ <Char width="1" offset="-2 3" rect="849 403 4 4" code="ׄ"/>
+ <Char width="1" offset="-2 16" rect="854 416 4 4" code="ׅ"/>
+ <Char width="8" offset="0 6" rect="859 406 8 12" code="׆"/>
+ <Char width="1" offset="-1 16" rect="868 416 6 6" code="ׇ"/>
+ <Char width="12" offset="-1 6" rect="875 406 13 12" code="א"/>
+ <Char width="12" offset="-1 6" rect="889 406 13 12" code="ב"/>
+ <Char width="10" offset="-1 6" rect="903 406 11 12" code="ג"/>
+ <Char width="11" offset="-1 6" rect="915 406 13 12" code="ד"/>
+ <Char width="12" offset="0 6" rect="929 406 12 12" code="ה"/>
+ <Char width="6" offset="0 6" rect="942 406 5 12" code="ו"/>
+ <Char width="9" offset="0 6" rect="948 406 9 12" code="ז"/>
+ <Char width="13" offset="0 6" rect="958 406 12 12" code="ח"/>
+ <Char width="13" offset="0 6" rect="1 431 12 13" code="ט"/>
+ <Char width="6" offset="0 6" rect="14 431 5 8" code="י"/>
+ <Char width="11" offset="-1 6" rect="20 431 11 16" code="ך"/>
+ <Char width="10" offset="-1 6" rect="32 431 11 12" code="כ"/>
+ <Char width="10" offset="-1 2" rect="44 427 10 16" code="ל"/>
+ <Char width="12" offset="0 6" rect="55 431 12 12" code="ם"/>
+ <Char width="13" offset="-1 6" rect="68 431 13 12" code="מ"/>
+ <Char width="6" offset="0 6" rect="82 431 5 16" code="ן"/>
+ <Char width="8" offset="-1 6" rect="88 431 8 12" code="נ"/>
+ <Char width="12" offset="0 6" rect="97 431 12 13" code="ס"/>
+ <Char width="11" offset="-1 6" rect="110 431 12 14" code="ע"/>
+ <Char width="12" offset="-1 6" rect="123 431 12 16" code="ף"/>
+ <Char width="12" offset="-1 6" rect="136 431 12 12" code="פ"/>
+ <Char width="10" offset="-1 6" rect="149 431 11 16" code="ץ"/>
+ <Char width="11" offset="-2 6" rect="161 431 12 12" code="צ"/>
+ <Char width="12" offset="0 6" rect="174 431 11 16" code="ק"/>
+ <Char width="11" offset="-1 6" rect="186 431 11 12" code="ר"/>
+ <Char width="14" offset="-1 6" rect="198 431 15 12" code="ש"/>
+ <Char width="14" offset="-1 6" rect="214 431 13 13" code="ת"/>
+ <Char width="11" offset="0 6" rect="228 431 10 12" code="װ"/>
+ <Char width="11" offset="0 6" rect="239 431 10 12" code="ױ"/>
+ <Char width="11" offset="0 6" rect="250 431 10 8" code="ײ"/>
+ <Char width="6" offset="-1 6" rect="261 431 7 6" code="׳"/>
+ <Char width="10" offset="-1 6" rect="269 431 11 6" code="״"/>
+ <Char width="18" offset="-1 11" rect="281 436 19 10" code="؀"/>
+ <Char width="26" offset="0 12" rect="301 437 26 9" code="؁"/>
+ <Char width="7" offset="0 11" rect="328 436 11 10" code="؂"/>
+ <Char width="25" offset="-1 11" rect="340 436 26 10" code="؃"/>
+ <Char width="7" offset="-2 1" rect="367 426 10 20" code="؋"/>
+ <Char width="7" offset="1 7" rect="378 432 5 9" code="،"/>
+ <Char width="5" offset="-1 10" rect="384 435 7 9" code="؍"/>
+ <Char width="13" offset="-2 6" rect="392 431 16 10" code="؎"/>
+ <Char width="11" offset="-2 5" rect="409 430 12 17" code="؏"/>
+ <Char width="1" offset="-4 -1" rect="422 424 7 6" code="ؐ"/>
+ <Char width="1" offset="-4 -1" rect="430 424 7 6" code="ؑ"/>
+ <Char width="1" offset="-4 -1" rect="438 424 8 7" code="ؒ"/>
+ <Char width="1" offset="-4 -2" rect="447 423 9 8" code="ؓ"/>
+ <Char width="1" offset="-4 -1" rect="457 424 8 6" code="ؔ"/>
+ <Char width="1" offset="-4 0" rect="466 425 8 9" code="ؕ"/>
+ <Char width="7" offset="0 4" rect="475 429 5 12" code="؛"/>
+ <Char width="9" offset="-1 7" rect="481 432 10 9" code="؞"/>
+ <Char width="8" offset="-1 3" rect="492 428 8 13" code="؟"/>
+ <Char width="10" offset="0 6" rect="501 431 9 12" code="ء"/>
+ <Char width="5" offset="-2 0" rect="511 425 8 16" code="آ"/>
+ <Char width="5" offset="-1 0" rect="520 425 6 17" code="أ"/>
+ <Char width="9" offset="-1 4" rect="527 429 11 15" code="ؤ"/>
+ <Char width="5" offset="-1 2" rect="539 427 6 18" code="إ"/>
+ <Char width="13" offset="0 6" rect="546 431 12 13" code="ئ"/>
+ <Char width="5" offset="0 2" rect="559 427 5 14" code="ا"/>
+ <Char width="13" offset="-1 6" rect="565 431 14 14" code="ب"/>
+ <Char width="7" offset="-1 1" rect="580 426 8 15" code="ة"/>
+ <Char width="13" offset="-1 3" rect="589 428 14 13" code="ت"/>
+ <Char width="13" offset="-1 1" rect="604 426 14 15" code="ث"/>
+ <Char width="12" offset="-1 6" rect="619 431 13 16" code="ج"/>
+ <Char width="12" offset="-1 6" rect="633 431 13 16" code="ح"/>
+ <Char width="12" offset="-1 1" rect="647 426 13 21" code="خ"/>
+ <Char width="7" offset="-1 4" rect="661 429 9 12" code="د"/>
+ <Char width="7" offset="-1 0" rect="671 425 9 16" code="ذ"/>
+ <Char width="9" offset="-2 7" rect="681 432 11 13" code="ر"/>
+ <Char width="9" offset="-2 3" rect="693 428 11 17" code="ز"/>
+ <Char width="18" offset="-1 7" rect="705 432 20 13" code="س"/>
+ <Char width="18" offset="-1 1" rect="726 426 20 19" code="ش"/>
+ <Char width="21" offset="-1 6" rect="747 431 23 14" code="ص"/>
+ <Char width="21" offset="-1 2" rect="771 427 23 18" code="ض"/>
+ <Char width="11" offset="-2 0" rect="795 425 13 16" code="ط"/>
+ <Char width="11" offset="-2 0" rect="809 425 13 16" code="ظ"/>
+ <Char width="11" offset="-1 5" rect="823 430 12 18" code="ع"/>
+ <Char width="11" offset="-1 0" rect="836 425 12 23" code="غ"/>
+ <Char width="5" offset="-2 10" rect="849 435 7 6" code="ـ"/>
+ <Char width="15" offset="-1 1" rect="857 426 16 15" code="ف"/>
+ <Char width="12" offset="-1 3" rect="874 428 13 18" code="ق"/>
+ <Char width="11" offset="-1 1" rect="888 426 12 15" code="ك"/>
+ <Char width="9" offset="-1 1" rect="901 426 11 18" code="ل"/>
+ <Char width="8" offset="-1 7" rect="913 432 9 15" code="م"/>
+ <Char width="11" offset="-1 4" rect="923 429 13 16" code="ن"/>
+ <Char width="7" offset="-1 6" rect="937 431 8 10" code="ه"/>
+ <Char width="9" offset="-1 6" rect="946 431 11 13" code="و"/>
+ <Char width="13" offset="0 7" rect="958 432 12 12" code="ى"/>
+ <Char width="13" offset="0 7" rect="1 458 12 15" code="ي"/>
+ <Char width="1" offset="-1 -1" rect="14 450 6 7" code="ً"/>
+ <Char width="1" offset="-1 0" rect="21 451 7 6" code="ٌ"/>
+ <Char width="1" offset="-1 15" rect="29 466 6 6" code="ٍ"/>
+ <Char width="1" offset="-1 1" rect="36 452 6 5" code="َ"/>
+ <Char width="1" offset="-1 -1" rect="43 450 7 7" code="ُ"/>
+ <Char width="1" offset="-1 15" rect="51 466 6 5" code="ِ"/>
+ <Char width="1" offset="-1 0" rect="58 451 6 5" code="ّ"/>
+ <Char width="1" offset="-1 0" rect="65 451 5 5" code="ْ"/>
+ <Char width="1" offset="-1 0" rect="71 451 7 4" code="ٓ"/>
+ <Char width="1" offset="-1 -1" rect="79 450 6 5" code="ٔ"/>
+ <Char width="1" offset="-1 15" rect="86 466 6 5" code="ٕ"/>
+ <Char width="1" offset="-2 14" rect="93 465 4 8" code="ٖ"/>
+ <Char width="1" offset="-3 -2" rect="98 449 7 7" code="ٗ"/>
+ <Char width="1" offset="-2 0" rect="106 451 4 6" code="٘"/>
+ <Char width="1" offset="-3 3" rect="111 454 6 3" code="ٙ"/>
+ <Char width="1" offset="-3 2" rect="118 453 6 5" code="ٚ"/>
+ <Char width="1" offset="-3 2" rect="125 453 6 5" code="ٛ"/>
+ <Char width="1" offset="-3 14" rect="132 465 6 5" code="ٜ"/>
+ <Char width="1" offset="-3 -1" rect="139 450 7 7" code="ٝ"/>
+ <Char width="1" offset="-3 1" rect="147 452 6 6" code="ٞ"/>
+ <Char width="11" offset="2 7" rect="154 458 6 8" code="٠"/>
+ <Char width="11" offset="2 2" rect="161 453 6 14" code="١"/>
+ <Char width="11" offset="1 2" rect="168 453 8 13" code="٢"/>
+ <Char width="11" offset="0 2" rect="177 453 10 13" code="٣"/>
+ <Char width="11" offset="1 2" rect="188 453 8 14" code="٤"/>
+ <Char width="11" offset="0 4" rect="197 455 10 10" code="٥"/>
+ <Char width="11" offset="0 2" rect="208 453 9 14" code="٦"/>
+ <Char width="11" offset="0 2" rect="218 453 10 14" code="٧"/>
+ <Char width="11" offset="0 2" rect="229 453 10 14" code="٨"/>
+ <Char width="11" offset="1 2" rect="240 453 8 14" code="٩"/>
+ <Char width="11" offset="0 1" rect="249 452 10 16" code="٪"/>
+ <Char width="7" offset="0 11" rect="260 462 6 7" code="٫"/>
+ <Char width="7" offset="1 9" rect="267 460 5 9" code="٬"/>
+ <Char width="11" offset="1 2" rect="273 453 8 9" code="٭"/>
+ <Char width="13" offset="-1 6" rect="282 457 14 10" code="ٮ"/>
+ <Char width="12" offset="-1 7" rect="297 458 13 14" code="ٯ"/>
+ <Char width="1" offset="-2 0" rect="311 451 4 9" code="ٰ"/>
+ <Char width="5" offset="-1 -1" rect="316 450 6 18" code="ٱ"/>
+ <Char width="5" offset="-2 -1" rect="323 450 7 17" code="ٲ"/>
+ <Char width="5" offset="-1 2" rect="331 453 6 18" code="ٳ"/>
+ <Char width="1" offset="-1 -1" rect="338 450 6 5" code="ٴ"/>
+ <Char width="5" offset="0 2" rect="345 453 7 14" code="ٵ"/>
+ <Char width="9" offset="-1 3" rect="353 454 12 16" code="ٶ"/>
+ <Char width="9" offset="-2 2" rect="366 453 13 17" code="ٷ"/>
+ <Char width="13" offset="0 3" rect="380 454 13 16" code="ٸ"/>
+ <Char width="13" offset="-1 0" rect="394 451 14 16" code="ٹ"/>
+ <Char width="13" offset="-1 1" rect="409 452 14 15" code="ٺ"/>
+ <Char width="13" offset="-1 6" rect="424 457 14 16" code="ٻ"/>
+ <Char width="13" offset="-1 3" rect="439 454 14 14" code="ټ"/>
+ <Char width="13" offset="-1 1" rect="454 452 14 15" code="ٽ"/>
+ <Char width="13" offset="-1 6" rect="469 457 14 16" code="پ"/>
+ <Char width="13" offset="-1 1" rect="484 452 14 15" code="ٿ"/>
+ <Char width="13" offset="-1 6" rect="499 457 14 16" code="ڀ"/>
+ <Char width="12" offset="-1 2" rect="514 453 13 20" code="ځ"/>
+ <Char width="12" offset="-1 -1" rect="528 450 13 23" code="ڂ"/>
+ <Char width="12" offset="-1 6" rect="542 457 13 16" code="ڃ"/>
+ <Char width="12" offset="-1 6" rect="556 457 13 16" code="ڄ"/>
+ <Char width="12" offset="-1 -1" rect="570 450 13 23" code="څ"/>
+ <Char width="12" offset="-1 6" rect="584 457 13 16" code="چ"/>
+ <Char width="12" offset="-1 6" rect="598 457 13 16" code="ڇ"/>
+ <Char width="7" offset="-1 -1" rect="612 450 9 17" code="ڈ"/>
+ <Char width="7" offset="-1 4" rect="622 455 9 13" code="ډ"/>
+ <Char width="7" offset="-1 4" rect="632 455 9 16" code="ڊ"/>
+ <Char width="7" offset="-1 -1" rect="642 450 9 21" code="ڋ"/>
+ <Char width="7" offset="-1 0" rect="652 451 9 16" code="ڌ"/>
+ <Char width="7" offset="-1 4" rect="662 455 9 16" code="ڍ"/>
+ <Char width="7" offset="-1 -1" rect="672 450 9 17" code="ڎ"/>
+ <Char width="7" offset="-1 -1" rect="682 450 9 17" code="ڏ"/>
+ <Char width="7" offset="-1 -1" rect="692 450 9 17" code="ڐ"/>
+ <Char width="9" offset="-2 0" rect="702 451 11 20" code="ڑ"/>
+ <Char width="9" offset="-2 4" rect="714 455 11 16" code="ڒ"/>
+ <Char width="9" offset="-2 7" rect="726 458 12 13" code="ړ"/>
+ <Char width="9" offset="-2 7" rect="739 458 13 15" code="ڔ"/>
+ <Char width="9" offset="-2 7" rect="753 458 13 15" code="ڕ"/>
+ <Char width="9" offset="-2 7" rect="767 458 13 15" code="ږ"/>
+ <Char width="9" offset="-2 2" rect="781 453 12 18" code="ڗ"/>
+ <Char width="9" offset="-2 0" rect="794 451 12 20" code="ژ"/>
+ <Char width="9" offset="-2 0" rect="807 451 12 20" code="ڙ"/>
+ <Char width="18" offset="-1 4" rect="820 455 20 16" code="ښ"/>
+ <Char width="18" offset="-1 7" rect="841 458 20 15" code="ڛ"/>
+ <Char width="18" offset="-1 1" rect="862 452 20 21" code="ڜ"/>
+ <Char width="21" offset="-1 6" rect="883 457 23 14" code="ڝ"/>
+ <Char width="21" offset="-1 0" rect="907 451 23 20" code="ڞ"/>
+ <Char width="11" offset="-2 -1" rect="931 450 13 17" code="ڟ"/>
+ <Char width="11" offset="-1 -1" rect="945 450 12 24" code="ڠ"/>
+ <Char width="15" offset="-1 5" rect="958 456 16 11" code="ڡ"/>
+ <Char width="15" offset="-1 5" rect="1 481 16 15" code="ڢ"/>
+ <Char width="15" offset="-1 1" rect="18 477 16 19" code="ڣ"/>
+ <Char width="15" offset="-1 -1" rect="35 475 16 17" code="ڤ"/>
+ <Char width="15" offset="-1 5" rect="52 481 16 17" code="ڥ"/>
+ <Char width="15" offset="-1 -1" rect="69 475 16 17" code="ڦ"/>
+ <Char width="12" offset="-1 3" rect="86 479 13 18" code="ڧ"/>
+ <Char width="12" offset="-1 1" rect="100 477 13 20" code="ڨ"/>
+ <Char width="15" offset="-1 2" rect="114 478 16 14" code="ک"/>
+ <Char width="23" offset="-1 3" rect="131 479 23 13" code="ڪ"/>
+ <Char width="15" offset="-1 2" rect="155 478 16 14" code="ګ"/>
+ <Char width="11" offset="-1 -1" rect="172 475 12 17" code="ڬ"/>
+ <Char width="11" offset="-1 -1" rect="185 475 12 17" code="ڭ"/>
+ <Char width="11" offset="-1 1" rect="198 477 12 21" code="ڮ"/>
+ <Char width="15" offset="-1 -1" rect="211 475 16 17" code="گ"/>
+ <Char width="15" offset="-1 -1" rect="228 475 16 17" code="ڰ"/>
+ <Char width="15" offset="-1 -1" rect="245 475 16 17" code="ڱ"/>
+ <Char width="15" offset="-1 -1" rect="262 475 16 21" code="ڲ"/>
+ <Char width="15" offset="-1 -1" rect="279 475 16 23" code="ڳ"/>
+ <Char width="15" offset="-1 -1" rect="296 475 16 17" code="ڴ"/>
+ <Char width="9" offset="-1 -1" rect="313 475 11 20" code="ڵ"/>
+ <Char width="9" offset="-1 -1" rect="325 475 11 20" code="ڶ"/>
+ <Char width="9" offset="-1 -1" rect="337 475 11 20" code="ڷ"/>
+ <Char width="9" offset="-1 1" rect="349 477 11 20" code="ڸ"/>
+ <Char width="11" offset="-1 4" rect="361 480 13 18" code="ڹ"/>
+ <Char width="11" offset="-1 7" rect="375 483 13 13" code="ں"/>
+ <Char width="11" offset="-1 1" rect="389 477 13 19" code="ڻ"/>
+ <Char width="11" offset="-1 4" rect="403 480 13 17" code="ڼ"/>
+ <Char width="11" offset="-1 2" rect="417 478 13 18" code="ڽ"/>
+ <Char width="10" offset="-2 4" rect="431 480 11 12" code="ھ"/>
+ <Char width="12" offset="-1 1" rect="443 477 13 21" code="ڿ"/>
+ <Char width="7" offset="-1 3" rect="457 479 8 13" code="ۀ"/>
+ <Char width="8" offset="-1 8" rect="466 484 10 9" code="ہ"/>
+ <Char width="8" offset="-1 5" rect="477 481 10 12" code="ۂ"/>
+ <Char width="8" offset="-1 4" rect="488 480 10 13" code="ۃ"/>
+ <Char width="9" offset="-2 6" rect="499 482 12 14" code="ۄ"/>
+ <Char width="9" offset="-1 6" rect="512 482 11 13" code="ۅ"/>
+ <Char width="9" offset="-1 3" rect="524 479 11 16" code="ۆ"/>
+ <Char width="9" offset="-1 1" rect="536 477 11 18" code="ۇ"/>
+ <Char width="9" offset="-1 0" rect="548 476 11 19" code="ۈ"/>
+ <Char width="9" offset="-1 3" rect="560 479 11 16" code="ۉ"/>
+ <Char width="9" offset="-1 2" rect="572 478 11 17" code="ۊ"/>
+ <Char width="9" offset="-1 0" rect="584 476 11 19" code="ۋ"/>
+ <Char width="13" offset="0 7" rect="596 483 12 12" code="ی"/>
+ <Char width="13" offset="-1 7" rect="609 483 13 12" code="ۍ"/>
+ <Char width="13" offset="0 6" rect="623 482 12 13" code="ێ"/>
+ <Char width="9" offset="-1 2" rect="636 478 11 17" code="ۏ"/>
+ <Char width="13" offset="0 7" rect="648 483 12 15" code="ې"/>
+ <Char width="13" offset="0 7" rect="661 483 12 15" code="ۑ"/>
+ <Char width="16" offset="-1 7" rect="674 483 18 12" code="ے"/>
+ <Char width="16" offset="-1 5" rect="693 481 18 14" code="ۓ"/>
+ <Char width="5" offset="-1 10" rect="712 486 6 6" code="۔"/>
+ <Char width="7" offset="-1 6" rect="719 482 8 10" code="ە"/>
+ <Char width="1" offset="-6 -1" rect="728 475 12 10" code="ۖ"/>
+ <Char width="1" offset="-5 -1" rect="741 475 10 10" code="ۗ"/>
+ <Char width="1" offset="-4 2" rect="752 478 8 7" code="ۘ"/>
+ <Char width="1" offset="-3 0" rect="761 476 6 9" code="ۙ"/>
+ <Char width="1" offset="-4 -1" rect="768 475 8 10" code="ۚ"/>
+ <Char width="1" offset="-3 3" rect="777 479 6 6" code="ۛ"/>
+ <Char width="1" offset="-5 1" rect="784 477 10 8" code="ۜ"/>
+ <Char width="22" offset="-1 -1" rect="795 475 22 23" code="۝"/>
+ <Char width="21" offset="-1 -1" rect="818 475 22 22" code="۞"/>
+ <Char width="1" offset="-2 4" rect="841 480 5 5" code="۟"/>
+ <Char width="1" offset="-2 4" rect="847 480 4 5" code="۠"/>
+ <Char width="1" offset="-3 3" rect="852 479 7 5" code="ۡ"/>
+ <Char width="1" offset="-3 0" rect="860 476 6 9" code="ۢ"/>
+ <Char width="1" offset="-5 15" rect="867 491 10 7" code="ۣ"/>
+ <Char width="1" offset="-4 4" rect="878 480 7 5" code="ۤ"/>
+ <Char width="5" offset="-2 1" rect="886 477 8 7" code="ۥ"/>
+ <Char width="8" offset="-1 1" rect="895 477 9 8" code="ۦ"/>
+ <Char width="1" offset="-5 1" rect="905 477 10 8" code="ۧ"/>
+ <Char width="1" offset="-3 0" rect="916 476 7 9" code="ۨ"/>
+ <Char width="12" offset="-1 0" rect="924 476 13 18" code="۩"/>
+ <Char width="1" offset="-3 16" rect="938 492 6 6" code="۪"/>
+ <Char width="1" offset="-3 3" rect="945 479 6 6" code="۫"/>
+ <Char width="1" offset="-2 4" rect="952 480 5 5" code="۬"/>
+ <Char width="1" offset="-3 14" rect="958 490 6 8" code="ۭ"/>
+ <Char width="7" offset="-1 1" rect="965 477 9 15" code="ۮ"/>
+ <Char width="9" offset="-2 4" rect="1 504 11 16" code="ۯ"/>
+ <Char width="11" offset="2 7" rect="13 507 6 8" code="۰"/>
+ <Char width="11" offset="2 2" rect="20 502 6 14" code="۱"/>
+ <Char width="11" offset="1 2" rect="27 502 8 13" code="۲"/>
+ <Char width="11" offset="0 2" rect="36 502 10 13" code="۳"/>
+ <Char width="11" offset="0 2" rect="47 502 10 14" code="۴"/>
+ <Char width="11" offset="1 2" rect="58 502 9 14" code="۵"/>
+ <Char width="11" offset="1 2" rect="68 502 9 14" code="۶"/>
+ <Char width="11" offset="0 2" rect="78 502 10 14" code="۷"/>
+ <Char width="11" offset="0 2" rect="89 502 10 14" code="۸"/>
+ <Char width="11" offset="1 2" rect="100 502 8 14" code="۹"/>
+ <Char width="18" offset="-1 1" rect="109 501 20 19" code="ۺ"/>
+ <Char width="21" offset="-1 2" rect="130 502 23 18" code="ۻ"/>
+ <Char width="11" offset="-1 0" rect="154 500 12 23" code="ۼ"/>
+ <Char width="10" offset="-1 6" rect="167 506 10 15" code="۽"/>
+ <Char width="8" offset="-1 7" rect="178 507 9 15" code="۾"/>
+ <Char width="10" offset="-2 1" rect="188 501 11 15" code="ۿ"/>
+ <Char width="13" offset="-1 6" rect="200 506 14 14" code="ݐ"/>
+ <Char width="13" offset="-1 1" rect="215 501 14 19" code="ݑ"/>
+ <Char width="13" offset="-1 6" rect="230 506 14 16" code="ݒ"/>
+ <Char width="13" offset="-1 3" rect="245 503 14 19" code="ݓ"/>
+ <Char width="13" offset="-1 3" rect="260 503 14 17" code="ݔ"/>
+ <Char width="13" offset="-1 6" rect="275 506 14 13" code="ݕ"/>
+ <Char width="13" offset="-1 4" rect="290 504 14 12" code="ݖ"/>
+ <Char width="12" offset="-1 1" rect="305 501 13 21" code="ݗ"/>
+ <Char width="12" offset="-1 6" rect="319 506 13 16" code="ݘ"/>
+ <Char width="7" offset="-1 -1" rect="333 499 9 23" code="ݙ"/>
+ <Char width="7" offset="-1 4" rect="343 504 9 15" code="ݚ"/>
+ <Char width="9" offset="-1 7" rect="353 507 10 13" code="ݛ"/>
+ <Char width="18" offset="-1 1" rect="364 501 20 19" code="ݜ"/>
+ <Char width="11" offset="-1 1" rect="385 501 12 22" code="ݝ"/>
+ <Char width="11" offset="-1 -1" rect="398 499 12 24" code="ݞ"/>
+ <Char width="11" offset="-1 -1" rect="411 499 12 24" code="ݟ"/>
+ <Char width="15" offset="-1 5" rect="424 505 17 15" code="ݠ"/>
+ <Char width="15" offset="-1 5" rect="442 505 17 17" code="ݡ"/>
+ <Char width="15" offset="-1 -1" rect="460 499 16 17" code="ݢ"/>
+ <Char width="15" offset="-1 0" rect="477 500 16 16" code="ݣ"/>
+ <Char width="15" offset="-1 2" rect="494 502 16 20" code="ݤ"/>
+ <Char width="8" offset="-1 3" rect="511 503 9 19" code="ݥ"/>
+ <Char width="8" offset="-1 7" rect="521 507 9 15" code="ݦ"/>
+ <Char width="11" offset="-1 4" rect="531 504 13 18" code="ݧ"/>
+ <Char width="11" offset="-1 -1" rect="545 499 13 21" code="ݨ"/>
+ <Char width="11" offset="-1 1" rect="559 501 13 19" code="ݩ"/>
+ <Char width="9" offset="-1 1" rect="573 501 11 18" code="ݪ"/>
+ <Char width="9" offset="-2 0" rect="585 500 11 20" code="ݫ"/>
+ <Char width="9" offset="-2 4" rect="597 504 11 16" code="ݬ"/>
+ <Char width="18" offset="-1 1" rect="609 501 20 19" code="ݭ"/>
+ <Char width="12" offset="-1 6" rect="630 506 13 12" code="ᴀ"/>
+ <Char width="15" offset="-1 6" rect="644 506 16 12" code="ᴁ"/>
+ <Char width="17" offset="-1 6" rect="661 506 18 12" code="ᴂ"/>
+ <Char width="14" offset="0 6" rect="680 506 13 12" code="ᴃ"/>
+ <Char width="12" offset="0 6" rect="694 506 12 12" code="ᴄ"/>
+ <Char width="11" offset="0 6" rect="707 506 11 12" code="ᴅ"/>
+ <Char width="13" offset="0 6" rect="719 506 12 12" code="ᴆ"/>
+ <Char width="10" offset="0 6" rect="732 506 9 12" code="ᴇ"/>
+ <Char width="11" offset="-1 6" rect="742 506 11 12" code="ᴈ"/>
+ <Char width="6" offset="0 6" rect="754 506 5 16" code="ᴉ"/>
+ <Char width="11" offset="0 6" rect="760 506 10 12" code="ᴊ"/>
+ <Char width="11" offset="0 6" rect="771 506 12 12" code="ᴋ"/>
+ <Char width="10" offset="-1 6" rect="784 506 11 12" code="ᴌ"/>
+ <Char width="15" offset="0 6" rect="796 506 14 12" code="ᴍ"/>
+ <Char width="12" offset="0 6" rect="811 506 11 12" code="ᴎ"/>
+ <Char width="13" offset="0 6" rect="823 506 12 12" code="ᴏ"/>
+ <Char width="11" offset="-1 6" rect="836 506 12 12" code="ᴐ"/>
+ <Char width="13" offset="0 6" rect="849 506 13 12" code="ᴑ"/>
+ <Char width="13" offset="0 6" rect="863 506 13 11" code="ᴒ"/>
+ <Char width="13" offset="-1 6" rect="877 506 14 12" code="ᴓ"/>
+ <Char width="19" offset="0 6" rect="892 506 18 12" code="ᴔ"/>
+ <Char width="12" offset="0 6" rect="911 506 11 12" code="ᴕ"/>
+ <Char width="13" offset="0 6" rect="923 506 12 8" code="ᴖ"/>
+ <Char width="13" offset="0 11" rect="936 511 12 7" code="ᴗ"/>
+ <Char width="12" offset="0 6" rect="949 506 12 12" code="ᴘ"/>
+ <Char width="12" offset="-1 6" rect="962 506 12 12" code="ᴙ"/>
+ <Char width="12" offset="-1 6" rect="1 528 12 12" code="ᴚ"/>
+ <Char width="12" offset="0 6" rect="14 528 11 12" code="ᴛ"/>
+ <Char width="12" offset="0 6" rect="26 528 11 12" code="ᴜ"/>
+ <Char width="13" offset="0 7" rect="38 529 12 11" code="ᴝ"/>
+ <Char width="16" offset="0 7" rect="51 529 15 11" code="ᴞ"/>
+ <Char width="13" offset="0 3" rect="67 525 12 17" code="ᴟ"/>
+ <Char width="11" offset="-1 6" rect="80 528 13 12" code="ᴠ"/>
+ <Char width="16" offset="-1 6" rect="94 528 17 12" code="ᴡ"/>
+ <Char width="12" offset="0 6" rect="112 528 11 12" code="ᴢ"/>
+ <Char width="10" offset="-1 6" rect="124 528 11 12" code="ᴣ"/>
+ <Char width="11" offset="-1 6" rect="136 528 11 12" code="ᴤ"/>
+ <Char width="12" offset="-1 6" rect="148 528 13 12" code="ᴥ"/>
+ <Char width="9" offset="0 6" rect="162 528 9 12" code="ᴦ"/>
+ <Char width="11" offset="-1 6" rect="172 528 13 12" code="ᴧ"/>
+ <Char width="12" offset="0 6" rect="186 528 11 12" code="ᴨ"/>
+ <Char width="12" offset="0 6" rect="198 528 12 12" code="ᴩ"/>
+ <Char width="14" offset="0 6" rect="211 528 14 12" code="ᴪ"/>
+ <Char width="14" offset="0 6" rect="226 528 13 12" code="ᴫ"/>
+ <Char width="10" offset="-1 2" rect="240 524 12 11" code="ᴬ"/>
+ <Char width="14" offset="-2 2" rect="253 524 16 12" code="ᴭ"/>
+ <Char width="10" offset="0 2" rect="270 524 10 12" code="ᴮ"/>
+ <Char width="9" offset="-1 2" rect="281 524 10 12" code="ᴯ"/>
+ <Char width="10" offset="0 2" rect="292 524 10 12" code="ᴰ"/>
+ <Char width="9" offset="0 2" rect="303 524 9 12" code="ᴱ"/>
+ <Char width="9" offset="0 2" rect="313 524 9 12" code="ᴲ"/>
+ <Char width="11" offset="0 2" rect="323 524 11 13" code="ᴳ"/>
+ <Char width="10" offset="0 2" rect="335 524 9 11" code="ᴴ"/>
+ <Char width="5" offset="0 2" rect="345 524 4 11" code="ᴵ"/>
+ <Char width="8" offset="0 2" rect="350 524 8 11" code="ᴶ"/>
+ <Char width="10" offset="0 2" rect="359 524 11 11" code="ᴷ"/>
+ <Char width="9" offset="0 2" rect="371 524 9 11" code="ᴸ"/>
+ <Char width="11" offset="0 2" rect="381 524 11 11" code="ᴹ"/>
+ <Char width="10" offset="0 2" rect="393 524 9 11" code="ᴺ"/>
+ <Char width="10" offset="0 2" rect="403 524 9 11" code="ᴻ"/>
+ <Char width="11" offset="0 2" rect="413 524 11 13" code="ᴼ"/>
+ <Char width="10" offset="0 2" rect="425 524 9 11" code="ᴽ"/>
+ <Char width="9" offset="0 2" rect="435 524 9 12" code="ᴾ"/>
+ <Char width="10" offset="0 2" rect="445 524 10 12" code="ᴿ"/>
+ <Char width="10" offset="0 2" rect="456 524 9 12" code="ᵀ"/>
+ <Char width="10" offset="0 2" rect="466 524 9 11" code="ᵁ"/>
+ <Char width="13" offset="-1 2" rect="476 524 14 11" code="ᵂ"/>
+ <Char width="9" offset="0 5" rect="491 527 9 9" code="ᵃ"/>
+ <Char width="8" offset="-1 6" rect="501 528 9 9" code="ᵄ"/>
+ <Char width="9" offset="0 5" rect="511 527 9 9" code="ᵅ"/>
+ <Char width="12" offset="-1 5" rect="521 527 13 10" code="ᵆ"/>
+ <Char width="9" offset="0 2" rect="535 524 8 11" code="ᵇ"/>
+ <Char width="9" offset="0 2" rect="544 524 9 11" code="ᵈ"/>
+ <Char width="9" offset="0 5" rect="554 527 8 10" code="ᵉ"/>
+ <Char width="9" offset="0 5" rect="563 527 8 10" code="ᵊ"/>
+ <Char width="8" offset="0 5" rect="572 527 8 9" code="ᵋ"/>
+ <Char width="8" offset="-1 5" rect="581 527 9 9" code="ᵌ"/>
+ <Char width="9" offset="0 5" rect="591 527 8 12" code="ᵍ"/>
+ <Char width="4" offset="0 5" rect="600 527 4 11" code="ᵎ"/>
+ <Char width="8" offset="0 2" rect="605 524 9 11" code="ᵏ"/>
+ <Char width="12" offset="0 5" rect="615 527 12 9" code="ᵐ"/>
+ <Char width="9" offset="0 5" rect="628 527 8 11" code="ᵑ"/>
+ <Char width="9" offset="0 4" rect="637 526 9 10" code="ᵒ"/>
+ <Char width="8" offset="-1 4" rect="647 526 9 10" code="ᵓ"/>
+ <Char width="9" offset="0 5" rect="657 527 9 6" code="ᵔ"/>
+ <Char width="9" offset="0 7" rect="667 529 9 7" code="ᵕ"/>
+ <Char width="9" offset="0 5" rect="677 527 8 11" code="ᵖ"/>
+ <Char width="7" offset="0 2" rect="686 524 7 12" code="ᵗ"/>
+ <Char width="9" offset="0 4" rect="694 526 8 10" code="ᵘ"/>
+ <Char width="9" offset="0 4" rect="703 526 9 9" code="ᵙ"/>
+ <Char width="12" offset="0 4" rect="713 526 12 10" code="ᵚ"/>
+ <Char width="8" offset="-1 5" rect="726 527 9 9" code="ᵛ"/>
+ <Char width="8" offset="-2 4" rect="736 526 11 10" code="ᵜ"/>
+ <Char width="9" offset="0 2" rect="748 524 8 14" code="ᵝ"/>
+ <Char width="8" offset="-1 5" rect="757 527 10 11" code="ᵞ"/>
+ <Char width="9" offset="0 2" rect="768 524 9 12" code="ᵟ"/>
+ <Char width="11" offset="0 5" rect="778 527 11 12" code="ᵠ"/>
+ <Char width="8" offset="-1 5" rect="790 527 10 11" code="ᵡ"/>
+ <Char width="4" offset="0 8" rect="801 530 4 11" code="ᵢ"/>
+ <Char width="6" offset="0 10" rect="806 532 7 9" code="ᵣ"/>
+ <Char width="9" offset="0 10" rect="814 532 8 10" code="ᵤ"/>
+ <Char width="8" offset="-1 10" rect="823 532 9 9" code="ᵥ"/>
+ <Char width="9" offset="0 8" rect="833 530 8 14" code="ᵦ"/>
+ <Char width="8" offset="-1 11" rect="842 533 10 11" code="ᵧ"/>
+ <Char width="9" offset="0 11" rect="853 533 9 11" code="ᵨ"/>
+ <Char width="11" offset="0 11" rect="863 533 11 11" code="ᵩ"/>
+ <Char width="8" offset="-1 11" rect="875 533 10 11" code="ᵪ"/>
+ <Char width="18" offset="0 6" rect="886 528 17 12" code="ᵫ"/>
+ <Char width="13" offset="-1 2" rect="904 524 14 16" code="ᵬ"/>
+ <Char width="13" offset="0 2" rect="919 524 14 16" code="ᵭ"/>
+ <Char width="8" offset="-2 2" rect="934 524 10 16" code="ᵮ"/>
+ <Char width="18" offset="-2 6" rect="945 528 21 12" code="ᵯ"/>
+ <Char width="12" offset="-2 6" rect="1 550 15 12" code="ᵰ"/>
+ <Char width="13" offset="-1 6" rect="17 550 14 16" code="ᵱ"/>
+ <Char width="9" offset="-1 6" rect="32 550 11 12" code="ᵲ"/>
+ <Char width="9" offset="-1 6" rect="44 550 11 12" code="ᵳ"/>
+ <Char width="12" offset="-1 6" rect="56 550 12 12" code="ᵴ"/>
+ <Char width="8" offset="-2 2" rect="69 546 10 16" code="ᵵ"/>
+ <Char width="12" offset="0 6" rect="80 550 11 12" code="ᵶ"/>
+ <Char width="12" offset="0 6" rect="92 550 12 16" code="ᵷ"/>
+ <Char width="9" offset="0 5" rect="105 549 8 9" code="ᵸ"/>
+ <Char width="13" offset="0 6" rect="114 550 12 16" code="ᵹ"/>
+ <Char width="18" offset="0 2" rect="127 546 17 17" code="ᵺ"/>
+ <Char width="8" offset="0 6" rect="145 550 7 12" code="ᵻ"/>
+ <Char width="8" offset="0 6" rect="153 550 7 12" code="ᵼ"/>
+ <Char width="14" offset="0 6" rect="161 550 13 16" code="ᵽ"/>
+ <Char width="14" offset="0 6" rect="175 550 13 12" code="ᵾ"/>
+ <Char width="14" offset="0 6" rect="189 550 13 12" code="ᵿ"/>
+ <Char width="12" offset="0 2" rect="203 546 12 20" code="ᶀ"/>
+ <Char width="13" offset="0 2" rect="216 546 12 20" code="ᶁ"/>
+ <Char width="9" offset="0 2" rect="229 546 9 20" code="ᶂ"/>
+ <Char width="16" offset="0 6" rect="239 550 15 16" code="ᶃ"/>
+ <Char width="12" offset="0 2" rect="255 546 11 20" code="ᶄ"/>
+ <Char width="6" offset="-1 2" rect="267 546 7 20" code="ᶅ"/>
+ <Char width="18" offset="0 6" rect="275 550 17 16" code="ᶆ"/>
+ <Char width="12" offset="0 6" rect="293 550 12 16" code="ᶇ"/>
+ <Char width="12" offset="0 6" rect="306 550 12 16" code="ᶈ"/>
+ <Char width="8" offset="-1 6" rect="319 550 10 16" code="ᶉ"/>
+ <Char width="12" offset="-1 6" rect="330 550 12 16" code="ᶊ"/>
+ <Char width="10" offset="-2 2" rect="343 546 12 20" code="ᶋ"/>
+ <Char width="11" offset="-2 6" rect="356 550 14 16" code="ᶌ"/>
+ <Char width="12" offset="-1 6" rect="371 550 13 16" code="ᶍ"/>
+ <Char width="11" offset="-1 6" rect="385 550 11 16" code="ᶎ"/>
+ <Char width="12" offset="0 6" rect="397 550 14 16" code="ᶏ"/>
+ <Char width="13" offset="0 6" rect="412 550 15 16" code="ᶐ"/>
+ <Char width="13" offset="0 2" rect="428 546 15 20" code="ᶑ"/>
+ <Char width="12" offset="0 6" rect="444 550 13 16" code="ᶒ"/>
+ <Char width="11" offset="0 6" rect="458 550 13 16" code="ᶓ"/>
+ <Char width="11" offset="0 6" rect="472 550 11 16" code="ᶔ"/>
+ <Char width="14" offset="0 6" rect="484 550 15 16" code="ᶕ"/>
+ <Char width="6" offset="0 2" rect="500 546 8 20" code="ᶖ"/>
+ <Char width="12" offset="0 6" rect="509 550 11 16" code="ᶗ"/>
+ <Char width="8" offset="-1 2" rect="521 546 10 20" code="ᶘ"/>
+ <Char width="12" offset="0 6" rect="532 550 14 16" code="ᶙ"/>
+ <Char width="12" offset="0 6" rect="547 550 11 16" code="ᶚ"/>
+ <Char width="9" offset="0 5" rect="559 549 8 9" code="ᶛ"/>
+ <Char width="9" offset="0 4" rect="568 548 9 10" code="ᶜ"/>
+ <Char width="9" offset="-1 4" rect="578 548 9 10" code="ᶝ"/>
+ <Char width="9" offset="0 2" rect="588 546 9 12" code="ᶞ"/>
+ <Char width="8" offset="-1 5" rect="598 549 9 9" code="ᶟ"/>
+ <Char width="7" offset="0 2" rect="608 546 7 12" code="ᶠ"/>
+ <Char width="7" offset="-1 4" rect="616 548 7 13" code="ᶡ"/>
+ <Char width="9" offset="0 5" rect="624 549 8 12" code="ᶢ"/>
+ <Char width="9" offset="0 2" rect="633 546 8 11" code="ᶣ"/>
+ <Char width="5" offset="0 2" rect="642 546 5 12" code="ᶤ"/>
+ <Char width="4" offset="0 5" rect="648 549 4 9" code="ᶥ"/>
+ <Char width="4" offset="0 5" rect="653 549 4 9" code="ᶦ"/>
+ <Char width="5" offset="0 5" rect="658 549 5 9" code="ᶧ"/>
+ <Char width="7" offset="-1 2" rect="664 546 8 15" code="ᶨ"/>
+ <Char width="5" offset="0 2" rect="673 546 6 14" code="ᶩ"/>
+ <Char width="5" offset="-1 2" rect="680 546 5 14" code="ᶪ"/>
+ <Char width="7" offset="0 4" rect="686 548 7 10" code="ᶫ"/>
+ <Char width="12" offset="0 5" rect="694 549 12 12" code="ᶬ"/>
+ <Char width="12" offset="0 5" rect="707 549 12 11" code="ᶭ"/>
+ <Char width="9" offset="-2 5" rect="720 549 10 12" code="ᶮ"/>
+ <Char width="9" offset="0 5" rect="731 549 10 12" code="ᶯ"/>
+ <Char width="9" offset="0 5" rect="742 549 8 9" code="ᶰ"/>
+ <Char width="10" offset="0 4" rect="751 548 9 10" code="ᶱ"/>
+ <Char width="11" offset="0 2" rect="761 546 11 14" code="ᶲ"/>
+ <Char width="8" offset="-1 5" rect="773 549 9 12" code="ᶳ"/>
+ <Char width="7" offset="-1 2" rect="783 546 8 14" code="ᶴ"/>
+ <Char width="6" offset="0 2" rect="792 546 6 15" code="ᶵ"/>
+ <Char width="10" offset="0 4" rect="799 548 9 10" code="ᶶ"/>
+ <Char width="9" offset="0 5" rect="809 549 9 9" code="ᶷ"/>
+ <Char width="9" offset="0 4" rect="819 548 8 10" code="ᶸ"/>
+ <Char width="9" offset="0 5" rect="828 549 8 9" code="ᶹ"/>
+ <Char width="8" offset="-1 5" rect="837 549 9 9" code="ᶺ"/>
+ <Char width="9" offset="0 6" rect="847 550 8 8" code="ᶻ"/>
+ <Char width="8" offset="0 5" rect="856 549 10 12" code="ᶼ"/>
+ <Char width="11" offset="0 6" rect="867 550 10 10" code="ᶽ"/>
+ <Char width="8" offset="-1 5" rect="878 549 9 12" code="ᶾ"/>
+ <Char width="8" offset="0 2" rect="888 546 8 12" code="ᶿ"/>
+ <Char width="1" offset="-4 1" rect="897 545 9 6" code="᷀"/>
+ <Char width="1" offset="-4 1" rect="907 545 9 6" code="᷁"/>
+ <Char width="1" offset="-2 17" rect="917 561 5 5" code="᷂"/>
+ <Char width="1" offset="-4 2" rect="923 546 9 5" code="᷃"/>
+ <Char width="1" offset="-4 1" rect="933 545 8 6" code="᷄"/>
+ <Char width="1" offset="-4 1" rect="942 545 8 6" code="᷅"/>
+ <Char width="1" offset="-4 2" rect="951 546 8 5" code="᷆"/>
+ <Char width="1" offset="-4 2" rect="960 546 8 5" code="᷇"/>
+ <Char width="1" offset="-5 2" rect="1 570 10 5" code="᷈"/>
+ <Char width="1" offset="-5 2" rect="12 570 10 5" code="᷉"/>
+ <Char width="1" offset="-2 17" rect="23 585 5 5" code="᷊"/>
+ <Char width="1" offset="-2 1" rect="29 569 5 7" code="᷾"/>
+ <Char width="1" offset="-3 15" rect="35 583 9 7" code="᷿"/>
+ <Char width="15" offset="-2 2" rect="45 570 17 20" code="Ḁ"/>
+ <Char width="12" offset="0 6" rect="63 574 12 16" code="ḁ"/>
+ <Char width="14" offset="0 -1" rect="76 567 13 19" code="Ḃ"/>
+ <Char width="12" offset="0 2" rect="90 570 12 16" code="ḃ"/>
+ <Char width="14" offset="0 2" rect="103 570 13 20" code="Ḅ"/>
+ <Char width="12" offset="0 2" rect="117 570 12 20" code="ḅ"/>
+ <Char width="14" offset="0 2" rect="130 570 13 19" code="Ḇ"/>
+ <Char width="12" offset="0 2" rect="144 570 12 19" code="ḇ"/>
+ <Char width="14" offset="0 -1" rect="157 567 14 23" code="Ḉ"/>
+ <Char width="12" offset="0 2" rect="172 570 12 20" code="ḉ"/>
+ <Char width="14" offset="0 -1" rect="185 567 13 19" code="Ḋ"/>
+ <Char width="13" offset="0 2" rect="199 570 12 16" code="ḋ"/>
+ <Char width="14" offset="0 2" rect="212 570 13 20" code="Ḍ"/>
+ <Char width="13" offset="0 2" rect="226 570 12 20" code="ḍ"/>
+ <Char width="14" offset="0 2" rect="239 570 13 19" code="Ḏ"/>
+ <Char width="13" offset="0 2" rect="253 570 12 19" code="ḏ"/>
+ <Char width="14" offset="0 2" rect="266 570 13 21" code="Ḑ"/>
+ <Char width="13" offset="0 2" rect="280 570 12 21" code="ḑ"/>
+ <Char width="14" offset="0 2" rect="293 570 13 20" code="Ḓ"/>
+ <Char width="13" offset="0 2" rect="307 570 12 20" code="ḓ"/>
+ <Char width="13" offset="0 -1" rect="320 567 12 19" code="Ḕ"/>
+ <Char width="12" offset="0 -1" rect="333 567 11 19" code="ḕ"/>
+ <Char width="13" offset="0 -1" rect="345 567 12 19" code="Ḗ"/>
+ <Char width="12" offset="0 -1" rect="358 567 11 19" code="ḗ"/>
+ <Char width="13" offset="0 2" rect="370 570 12 20" code="Ḙ"/>
+ <Char width="12" offset="0 6" rect="383 574 11 16" code="ḙ"/>
+ <Char width="13" offset="0 2" rect="395 570 12 20" code="Ḛ"/>
+ <Char width="12" offset="0 6" rect="408 574 11 16" code="ḛ"/>
+ <Char width="13" offset="0 -1" rect="420 567 12 23" code="Ḝ"/>
+ <Char width="12" offset="0 2" rect="433 570 11 20" code="ḝ"/>
+ <Char width="12" offset="0 -1" rect="445 567 11 19" code="Ḟ"/>
+ <Char width="9" offset="0 -1" rect="457 567 9 19" code="ḟ"/>
+ <Char width="16" offset="0 -1" rect="467 567 15 19" code="Ḡ"/>
+ <Char width="13" offset="0 2" rect="483 570 12 20" code="ḡ"/>
+ <Char width="14" offset="0 -1" rect="496 567 13 19" code="Ḣ"/>
+ <Char width="12" offset="0 -1" rect="510 567 11 19" code="ḣ"/>
+ <Char width="14" offset="0 2" rect="522 570 13 20" code="Ḥ"/>
+ <Char width="12" offset="0 2" rect="536 570 11 20" code="ḥ"/>
+ <Char width="14" offset="0 -1" rect="548 567 13 19" code="Ḧ"/>
+ <Char width="12" offset="0 -1" rect="562 567 11 19" code="ḧ"/>
+ <Char width="14" offset="-1 2" rect="574 570 14 20" code="Ḩ"/>
+ <Char width="13" offset="0 2" rect="589 570 12 20" code="ḩ"/>
+ <Char width="14" offset="0 2" rect="602 570 13 20" code="Ḫ"/>
+ <Char width="12" offset="0 2" rect="616 570 11 20" code="ḫ"/>
+ <Char width="6" offset="-2 2" rect="628 570 9 20" code="Ḭ"/>
+ <Char width="7" offset="-1 2" rect="638 570 9 20" code="ḭ"/>
+ <Char width="7" offset="-1 -1" rect="648 567 9 19" code="Ḯ"/>
+ <Char width="7" offset="-1 -1" rect="658 567 9 19" code="ḯ"/>
+ <Char width="14" offset="0 -1" rect="668 567 14 19" code="Ḱ"/>
+ <Char width="11" offset="0 -1" rect="683 567 12 19" code="ḱ"/>
+ <Char width="14" offset="0 2" rect="696 570 15 20" code="Ḳ"/>
+ <Char width="11" offset="0 2" rect="712 570 12 20" code="ḳ"/>
+ <Char width="14" offset="0 2" rect="725 570 14 19" code="Ḵ"/>
+ <Char width="11" offset="0 2" rect="740 570 12 19" code="ḵ"/>
+ <Char width="12" offset="0 2" rect="753 570 12 20" code="Ḷ"/>
+ <Char width="6" offset="0 2" rect="766 570 5 20" code="ḷ"/>
+ <Char width="12" offset="0 -1" rect="772 567 12 23" code="Ḹ"/>
+ <Char width="7" offset="-1 -1" rect="785 567 8 23" code="ḹ"/>
+ <Char width="12" offset="0 2" rect="794 570 12 19" code="Ḻ"/>
+ <Char width="7" offset="-1 2" rect="807 570 8 19" code="ḻ"/>
+ <Char width="12" offset="0 2" rect="816 570 12 20" code="Ḽ"/>
+ <Char width="6" offset="-2 2" rect="829 570 9 20" code="ḽ"/>
+ <Char width="16" offset="0 -1" rect="839 567 15 19" code="Ḿ"/>
+ <Char width="18" offset="0 2" rect="855 570 17 16" code="ḿ"/>
+ <Char width="16" offset="0 -1" rect="873 567 15 19" code="Ṁ"/>
+ <Char width="18" offset="0 2" rect="889 570 17 16" code="ṁ"/>
+ <Char width="16" offset="0 2" rect="907 570 15 20" code="Ṃ"/>
+ <Char width="18" offset="0 6" rect="923 574 17 16" code="ṃ"/>
+ <Char width="14" offset="0 -1" rect="941 567 13 19" code="Ṅ"/>
+ <Char width="12" offset="0 2" rect="955 570 11 16" code="ṅ"/>
+ <Char width="14" offset="0 2" rect="1 596 13 20" code="Ṇ"/>
+ <Char width="12" offset="0 6" rect="15 600 11 16" code="ṇ"/>
+ <Char width="14" offset="0 2" rect="27 596 13 19" code="Ṉ"/>
+ <Char width="12" offset="0 6" rect="41 600 11 15" code="ṉ"/>
+ <Char width="14" offset="0 2" rect="53 596 13 20" code="Ṋ"/>
+ <Char width="12" offset="0 6" rect="67 600 11 16" code="ṋ"/>
+ <Char width="16" offset="0 -1" rect="79 593 15 19" code="Ṍ"/>
+ <Char width="13" offset="0 -1" rect="95 593 12 19" code="ṍ"/>
+ <Char width="16" offset="0 -1" rect="108 593 15 19" code="Ṏ"/>
+ <Char width="13" offset="0 -1" rect="124 593 12 19" code="ṏ"/>
+ <Char width="16" offset="0 -1" rect="137 593 15 19" code="Ṑ"/>
+ <Char width="13" offset="0 -1" rect="153 593 12 19" code="ṑ"/>
+ <Char width="16" offset="0 -1" rect="166 593 15 19" code="Ṓ"/>
+ <Char width="13" offset="0 -1" rect="182 593 12 19" code="ṓ"/>
+ <Char width="13" offset="0 -1" rect="195 593 12 19" code="Ṕ"/>
+ <Char width="12" offset="0 2" rect="208 596 12 20" code="ṕ"/>
+ <Char width="13" offset="0 -1" rect="221 593 12 19" code="Ṗ"/>
+ <Char width="12" offset="0 2" rect="234 596 12 20" code="ṗ"/>
+ <Char width="14" offset="0 -1" rect="247 593 15 19" code="Ṙ"/>
+ <Char width="8" offset="0 2" rect="263 596 9 16" code="ṙ"/>
+ <Char width="14" offset="0 2" rect="273 596 15 20" code="Ṛ"/>
+ <Char width="8" offset="0 6" rect="289 600 9 16" code="ṛ"/>
+ <Char width="14" offset="0 -1" rect="299 593 15 23" code="Ṝ"/>
+ <Char width="9" offset="0 2" rect="315 596 9 20" code="ṝ"/>
+ <Char width="14" offset="0 2" rect="325 596 15 19" code="Ṟ"/>
+ <Char width="9" offset="0 6" rect="341 600 9 15" code="ṟ"/>
+ <Char width="14" offset="-1 -2" rect="351 592 14 20" code="Ṡ"/>
+ <Char width="12" offset="-1 2" rect="366 596 12 16" code="ṡ"/>
+ <Char width="14" offset="-1 2" rect="379 596 14 20" code="Ṣ"/>
+ <Char width="11" offset="-1 6" rect="394 600 12 16" code="ṣ"/>
+ <Char width="14" offset="-1 -1" rect="407 593 14 19" code="Ṥ"/>
+ <Char width="12" offset="-1 -2" rect="422 592 12 20" code="ṥ"/>
+ <Char width="14" offset="-1 -1" rect="435 593 14 19" code="Ṧ"/>
+ <Char width="12" offset="-1 -2" rect="450 592 12 20" code="ṧ"/>
+ <Char width="14" offset="-1 -1" rect="463 593 14 23" code="Ṩ"/>
+ <Char width="12" offset="-1 2" rect="478 596 12 20" code="ṩ"/>
+ <Char width="14" offset="0 -1" rect="491 593 13 19" code="Ṫ"/>
+ <Char width="9" offset="0 -2" rect="505 592 9 20" code="ṫ"/>
+ <Char width="14" offset="0 2" rect="515 596 13 20" code="Ṭ"/>
+ <Char width="9" offset="0 2" rect="529 596 9 20" code="ṭ"/>
+ <Char width="14" offset="0 2" rect="539 596 13 19" code="Ṯ"/>
+ <Char width="8" offset="0 2" rect="553 596 8 19" code="ṯ"/>
+ <Char width="14" offset="0 2" rect="562 596 13 20" code="Ṱ"/>
+ <Char width="9" offset="0 2" rect="576 596 9 20" code="ṱ"/>
+ <Char width="14" offset="0 2" rect="586 596 13 20" code="Ṳ"/>
+ <Char width="12" offset="0 6" rect="600 600 11 16" code="ṳ"/>
+ <Char width="14" offset="0 2" rect="612 596 13 20" code="Ṵ"/>
+ <Char width="12" offset="0 6" rect="626 600 11 16" code="ṵ"/>
+ <Char width="14" offset="0 2" rect="638 596 13 20" code="Ṷ"/>
+ <Char width="12" offset="0 6" rect="652 600 11 16" code="ṷ"/>
+ <Char width="14" offset="0 -1" rect="664 593 13 19" code="Ṹ"/>
+ <Char width="12" offset="0 -1" rect="678 593 11 19" code="ṹ"/>
+ <Char width="14" offset="0 -1" rect="690 593 13 19" code="Ṻ"/>
+ <Char width="12" offset="0 -1" rect="704 593 11 19" code="ṻ"/>
+ <Char width="13" offset="-2 -2" rect="716 592 16 20" code="Ṽ"/>
+ <Char width="12" offset="-1 2" rect="733 596 13 16" code="ṽ"/>
+ <Char width="14" offset="-1 2" rect="747 596 15 20" code="Ṿ"/>
+ <Char width="12" offset="-1 6" rect="763 600 13 16" code="ṿ"/>
+ <Char width="19" offset="-1 -2" rect="777 592 20 20" code="Ẁ"/>
+ <Char width="16" offset="-1 2" rect="798 596 17 16" code="ẁ"/>
+ <Char width="19" offset="-1 -2" rect="816 592 20 20" code="Ẃ"/>
+ <Char width="16" offset="-1 2" rect="837 596 17 16" code="ẃ"/>
+ <Char width="19" offset="-1 -1" rect="855 593 21 19" code="Ẅ"/>
+ <Char width="16" offset="-2 2" rect="877 596 18 16" code="ẅ"/>
+ <Char width="19" offset="-1 -1" rect="896 593 21 19" code="Ẇ"/>
+ <Char width="16" offset="-1 2" rect="918 596 17 16" code="ẇ"/>
+ <Char width="19" offset="-1 2" rect="936 596 21 20" code="Ẉ"/>
+ <Char width="16" offset="-1 6" rect="958 600 17 16" code="ẉ"/>
+ <Char width="14" offset="-1 -1" rect="1 618 15 19" code="Ẋ"/>
+ <Char width="12" offset="-1 2" rect="17 621 13 16" code="ẋ"/>
+ <Char width="14" offset="-2 -1" rect="31 618 16 19" code="Ẍ"/>
+ <Char width="12" offset="-1 2" rect="48 621 13 16" code="ẍ"/>
+ <Char width="14" offset="-1 -1" rect="62 618 15 19" code="Ẏ"/>
+ <Char width="12" offset="-1 2" rect="78 621 13 20" code="ẏ"/>
+ <Char width="14" offset="0 -1" rect="92 618 13 19" code="Ẑ"/>
+ <Char width="12" offset="0 2" rect="106 621 11 16" code="ẑ"/>
+ <Char width="14" offset="0 2" rect="118 621 13 20" code="Ẓ"/>
+ <Char width="12" offset="0 6" rect="132 625 11 16" code="ẓ"/>
+ <Char width="14" offset="0 2" rect="144 621 13 19" code="Ẕ"/>
+ <Char width="12" offset="0 6" rect="158 625 11 15" code="ẕ"/>
+ <Char width="12" offset="0 2" rect="170 621 11 19" code="ẖ"/>
+ <Char width="8" offset="-1 -2" rect="182 617 9 20" code="ẗ"/>
+ <Char width="15" offset="-2 2" rect="192 621 18 16" code="ẘ"/>
+ <Char width="11" offset="-2 2" rect="211 621 14 20" code="ẙ"/>
+ <Char width="12" offset="0 2" rect="226 621 12 16" code="ẚ"/>
+ <Char width="6" offset="0 -1" rect="239 618 7 19" code="ẛ"/>
+ <Char width="14" offset="0 2" rect="247 621 13 16" code="ẞ"/>
+ <Char width="14" offset="-2 2" rect="261 621 17 20" code="Ạ"/>
+ <Char width="12" offset="0 6" rect="279 625 12 16" code="ạ"/>
+ <Char width="14" offset="-2 -1" rect="292 618 17 19" code="Ả"/>
+ <Char width="12" offset="0 2" rect="310 621 12 16" code="ả"/>
+ <Char width="14" offset="-1 -2" rect="323 617 16 20" code="Ấ"/>
+ <Char width="12" offset="0 -1" rect="340 618 12 19" code="ấ"/>
+ <Char width="14" offset="-1 -2" rect="353 617 16 20" code="Ầ"/>
+ <Char width="12" offset="0 -1" rect="370 618 12 19" code="ầ"/>
+ <Char width="14" offset="-1 -1" rect="383 618 16 19" code="Ẩ"/>
+ <Char width="12" offset="0 -1" rect="400 618 12 19" code="ẩ"/>
+ <Char width="15" offset="-1 -1" rect="413 618 16 19" code="Ẫ"/>
+ <Char width="12" offset="0 -1" rect="430 618 12 19" code="ẫ"/>
+ <Char width="14" offset="-2 1" rect="443 620 17 21" code="Ậ"/>
+ <Char width="12" offset="0 2" rect="461 621 12 20" code="ậ"/>
+ <Char width="14" offset="-1 -2" rect="474 617 16 20" code="Ắ"/>
+ <Char width="12" offset="0 -1" rect="491 618 12 19" code="ắ"/>
+ <Char width="14" offset="-1 -2" rect="504 617 16 20" code="Ằ"/>
+ <Char width="12" offset="0 -1" rect="521 618 12 19" code="ằ"/>
+ <Char width="14" offset="-1 -1" rect="534 618 16 19" code="Ẳ"/>
+ <Char width="12" offset="0 -1" rect="551 618 12 19" code="ẳ"/>
+ <Char width="14" offset="-2 -1" rect="564 618 16 19" code="Ẵ"/>
+ <Char width="12" offset="0 -1" rect="581 618 12 19" code="ẵ"/>
+ <Char width="14" offset="-2 1" rect="594 620 17 21" code="Ặ"/>
+ <Char width="12" offset="0 2" rect="612 621 12 20" code="ặ"/>
+ <Char width="13" offset="0 2" rect="625 621 12 20" code="Ẹ"/>
+ <Char width="12" offset="0 6" rect="638 625 11 16" code="ẹ"/>
+ <Char width="13" offset="0 -1" rect="650 618 12 19" code="Ẻ"/>
+ <Char width="12" offset="0 2" rect="663 621 11 16" code="ẻ"/>
+ <Char width="13" offset="0 -1" rect="675 618 12 19" code="Ẽ"/>
+ <Char width="12" offset="0 2" rect="688 621 11 16" code="ẽ"/>
+ <Char width="13" offset="0 -2" rect="700 617 12 20" code="Ế"/>
+ <Char width="12" offset="0 -1" rect="713 618 11 19" code="ế"/>
+ <Char width="13" offset="0 -2" rect="725 617 12 20" code="Ề"/>
+ <Char width="12" offset="0 -1" rect="738 618 11 19" code="ề"/>
+ <Char width="13" offset="0 -1" rect="750 618 12 19" code="Ể"/>
+ <Char width="12" offset="0 -1" rect="763 618 11 19" code="ể"/>
+ <Char width="13" offset="0 -1" rect="775 618 12 19" code="Ễ"/>
+ <Char width="12" offset="0 -1" rect="788 618 11 19" code="ễ"/>
+ <Char width="13" offset="0 1" rect="800 620 12 21" code="Ệ"/>
+ <Char width="12" offset="0 2" rect="813 621 11 20" code="ệ"/>
+ <Char width="6" offset="-1 -1" rect="825 618 7 19" code="Ỉ"/>
+ <Char width="6" offset="-1 2" rect="833 621 7 16" code="ỉ"/>
+ <Char width="6" offset="0 2" rect="841 621 5 20" code="Ị"/>
+ <Char width="6" offset="0 2" rect="847 621 5 20" code="ị"/>
+ <Char width="15" offset="0 2" rect="853 621 15 20" code="Ọ"/>
+ <Char width="13" offset="0 6" rect="869 625 12 16" code="ọ"/>
+ <Char width="16" offset="0 -1" rect="882 618 15 19" code="Ỏ"/>
+ <Char width="13" offset="0 2" rect="898 621 12 16" code="ỏ"/>
+ <Char width="16" offset="0 -1" rect="911 618 15 19" code="Ố"/>
+ <Char width="13" offset="0 -1" rect="927 618 12 19" code="ố"/>
+ <Char width="16" offset="0 -1" rect="940 618 15 19" code="Ồ"/>
+ <Char width="13" offset="0 -1" rect="956 618 12 19" code="ồ"/>
+ <Char width="16" offset="0 -2" rect="1 643 15 20" code="Ổ"/>
+ <Char width="13" offset="0 -1" rect="17 644 12 19" code="ổ"/>
+ <Char width="16" offset="0 -1" rect="30 644 15 19" code="Ỗ"/>
+ <Char width="13" offset="0 -1" rect="46 644 12 19" code="ỗ"/>
+ <Char width="15" offset="0 1" rect="59 646 15 21" code="Ộ"/>
+ <Char width="13" offset="0 2" rect="75 647 12 20" code="ộ"/>
+ <Char width="17" offset="0 -1" rect="88 644 17 19" code="Ớ"/>
+ <Char width="14" offset="0 2" rect="106 647 14 16" code="ớ"/>
+ <Char width="17" offset="0 -1" rect="121 644 17 19" code="Ờ"/>
+ <Char width="14" offset="0 2" rect="139 647 14 16" code="ờ"/>
+ <Char width="17" offset="0 -1" rect="154 644 17 19" code="Ở"/>
+ <Char width="14" offset="0 2" rect="172 647 14 16" code="ở"/>
+ <Char width="17" offset="0 -2" rect="187 643 17 20" code="Ỡ"/>
+ <Char width="14" offset="0 2" rect="205 647 14 16" code="ỡ"/>
+ <Char width="17" offset="0 2" rect="220 647 17 20" code="Ợ"/>
+ <Char width="14" offset="0 6" rect="238 651 14 16" code="ợ"/>
+ <Char width="14" offset="0 2" rect="253 647 13 20" code="Ụ"/>
+ <Char width="12" offset="0 6" rect="267 651 11 16" code="ụ"/>
+ <Char width="14" offset="0 -1" rect="279 644 13 19" code="Ủ"/>
+ <Char width="12" offset="0 2" rect="293 647 11 16" code="ủ"/>
+ <Char width="16" offset="0 -1" rect="305 644 16 19" code="Ứ"/>
+ <Char width="14" offset="0 2" rect="322 647 14 16" code="ứ"/>
+ <Char width="16" offset="0 -1" rect="337 644 16 19" code="Ừ"/>
+ <Char width="14" offset="0 2" rect="354 647 14 16" code="ừ"/>
+ <Char width="16" offset="0 -1" rect="369 644 16 19" code="Ử"/>
+ <Char width="14" offset="0 2" rect="386 647 14 16" code="ử"/>
+ <Char width="16" offset="0 -2" rect="401 643 16 20" code="Ữ"/>
+ <Char width="14" offset="0 2" rect="418 647 14 16" code="ữ"/>
+ <Char width="16" offset="0 2" rect="433 647 16 20" code="Ự"/>
+ <Char width="14" offset="0 6" rect="450 651 14 16" code="ự"/>
+ <Char width="14" offset="-1 -2" rect="465 643 15 20" code="Ỳ"/>
+ <Char width="11" offset="-1 2" rect="481 647 13 20" code="ỳ"/>
+ <Char width="14" offset="-1 2" rect="495 647 15 20" code="Ỵ"/>
+ <Char width="11" offset="-2 6" rect="511 651 13 16" code="ỵ"/>
+ <Char width="14" offset="-1 -1" rect="525 644 15 19" code="Ỷ"/>
+ <Char width="12" offset="-1 2" rect="541 647 13 20" code="ỷ"/>
+ <Char width="14" offset="-1 -1" rect="555 644 15 19" code="Ỹ"/>
+ <Char width="11" offset="-2 2" rect="571 647 14 20" code="ỹ"/>
+ <Char width="13" offset="0 1" rect="586 646 13 17" code="ἀ"/>
+ <Char width="13" offset="0 1" rect="600 646 13 17" code="ἁ"/>
+ <Char width="13" offset="0 1" rect="614 646 13 17" code="ἂ"/>
+ <Char width="13" offset="0 1" rect="628 646 13 17" code="ἃ"/>
+ <Char width="13" offset="0 1" rect="642 646 13 17" code="ἄ"/>
+ <Char width="13" offset="0 1" rect="656 646 13 17" code="ἅ"/>
+ <Char width="13" offset="0 -3" rect="670 642 13 21" code="ἆ"/>
+ <Char width="13" offset="0 -3" rect="684 642 13 21" code="ἇ"/>
+ <Char width="14" offset="-2 2" rect="698 647 17 16" code="Ἀ"/>
+ <Char width="14" offset="-2 2" rect="716 647 17 16" code="Ἁ"/>
+ <Char width="17" offset="-2 2" rect="734 647 20 16" code="Ἂ"/>
+ <Char width="17" offset="-1 2" rect="755 647 19 16" code="Ἃ"/>
+ <Char width="17" offset="-2 2" rect="775 647 20 16" code="Ἄ"/>
+ <Char width="17" offset="-1 2" rect="796 647 19 16" code="Ἅ"/>
+ <Char width="18" offset="0 -1" rect="816 644 18 19" code="Ἆ"/>
+ <Char width="18" offset="0 -1" rect="835 644 18 19" code="Ἇ"/>
+ <Char width="10" offset="0 1" rect="854 646 11 17" code="ἐ"/>
+ <Char width="10" offset="0 1" rect="866 646 11 17" code="ἑ"/>
+ <Char width="10" offset="0 1" rect="878 646 11 17" code="ἒ"/>
+ <Char width="10" offset="0 1" rect="890 646 11 17" code="ἓ"/>
+ <Char width="10" offset="0 1" rect="902 646 11 17" code="ἔ"/>
+ <Char width="10" offset="0 1" rect="914 646 11 17" code="ἕ"/>
+ <Char width="15" offset="-2 2" rect="926 647 16 16" code="Ἐ"/>
+ <Char width="15" offset="-1 2" rect="943 647 15 16" code="Ἑ"/>
+ <Char width="19" offset="-2 2" rect="1 673 20 16" code="Ἒ"/>
+ <Char width="19" offset="-1 2" rect="22 673 19 16" code="Ἓ"/>
+ <Char width="19" offset="-2 2" rect="42 673 20 16" code="Ἔ"/>
+ <Char width="19" offset="-1 2" rect="63 673 19 16" code="Ἕ"/>
+ <Char width="12" offset="0 2" rect="83 673 11 20" code="ἠ"/>
+ <Char width="12" offset="0 2" rect="95 673 11 20" code="ἡ"/>
+ <Char width="12" offset="0 2" rect="107 673 11 20" code="ἢ"/>
+ <Char width="12" offset="0 2" rect="119 673 11 20" code="ἣ"/>
+ <Char width="12" offset="0 2" rect="131 673 11 20" code="ἤ"/>
+ <Char width="12" offset="0 2" rect="143 673 11 20" code="ἥ"/>
+ <Char width="12" offset="0 -1" rect="155 670 11 23" code="ἦ"/>
+ <Char width="12" offset="0 -1" rect="167 670 11 23" code="ἧ"/>
+ <Char width="16" offset="-2 2" rect="179 673 17 16" code="Ἠ"/>
+ <Char width="16" offset="-1 2" rect="197 673 16 16" code="Ἡ"/>
+ <Char width="20" offset="-2 2" rect="214 673 21 16" code="Ἢ"/>
+ <Char width="20" offset="-1 2" rect="236 673 20 16" code="Ἣ"/>
+ <Char width="20" offset="-2 2" rect="257 673 21 16" code="Ἤ"/>
+ <Char width="20" offset="-1 2" rect="279 673 20 16" code="Ἥ"/>
+ <Char width="20" offset="-1 -1" rect="300 670 20 19" code="Ἦ"/>
+ <Char width="20" offset="-1 -1" rect="321 670 20 19" code="Ἧ"/>
+ <Char width="6" offset="0 1" rect="342 672 5 17" code="ἰ"/>
+ <Char width="6" offset="0 1" rect="348 672 5 17" code="ἱ"/>
+ <Char width="7" offset="-2 1" rect="354 672 10 17" code="ἲ"/>
+ <Char width="7" offset="-1 1" rect="365 672 9 17" code="ἳ"/>
+ <Char width="6" offset="-2 1" rect="375 672 10 17" code="ἴ"/>
+ <Char width="6" offset="-2 1" rect="386 672 10 17" code="ἵ"/>
+ <Char width="6" offset="-2 -3" rect="397 668 9 21" code="ἶ"/>
+ <Char width="7" offset="-1 -3" rect="407 668 9 21" code="ἷ"/>
+ <Char width="8" offset="-2 2" rect="417 673 9 16" code="Ἰ"/>
+ <Char width="8" offset="-1 2" rect="427 673 8 16" code="Ἱ"/>
+ <Char width="12" offset="-1 2" rect="436 673 12 16" code="Ἲ"/>
+ <Char width="12" offset="-1 2" rect="449 673 12 16" code="Ἳ"/>
+ <Char width="12" offset="-1 2" rect="462 673 12 16" code="Ἴ"/>
+ <Char width="12" offset="-1 2" rect="475 673 12 16" code="Ἵ"/>
+ <Char width="12" offset="-1 -1" rect="488 670 12 19" code="Ἶ"/>
+ <Char width="12" offset="-1 -1" rect="501 670 12 19" code="Ἷ"/>
+ <Char width="13" offset="0 1" rect="514 672 12 17" code="ὀ"/>
+ <Char width="13" offset="0 1" rect="527 672 12 17" code="ὁ"/>
+ <Char width="13" offset="0 1" rect="540 672 12 17" code="ὂ"/>
+ <Char width="13" offset="0 1" rect="553 672 12 17" code="ὃ"/>
+ <Char width="13" offset="0 1" rect="566 672 12 17" code="ὄ"/>
+ <Char width="13" offset="0 1" rect="579 672 12 17" code="ὅ"/>
+ <Char width="17" offset="-1 2" rect="592 673 17 16" code="Ὀ"/>
+ <Char width="17" offset="-1 2" rect="610 673 17 16" code="Ὁ"/>
+ <Char width="21" offset="-1 2" rect="628 673 21 16" code="Ὂ"/>
+ <Char width="21" offset="-1 2" rect="650 673 21 16" code="Ὃ"/>
+ <Char width="20" offset="-1 2" rect="672 673 20 16" code="Ὄ"/>
+ <Char width="20" offset="-1 2" rect="693 673 20 16" code="Ὅ"/>
+ <Char width="12" offset="0 1" rect="714 672 11 17" code="ὐ"/>
+ <Char width="12" offset="0 1" rect="726 672 11 17" code="ὑ"/>
+ <Char width="12" offset="0 1" rect="738 672 11 17" code="ὒ"/>
+ <Char width="12" offset="0 1" rect="750 672 11 17" code="ὓ"/>
+ <Char width="12" offset="0 1" rect="762 672 11 17" code="ὔ"/>
+ <Char width="12" offset="0 1" rect="774 672 11 17" code="ὕ"/>
+ <Char width="12" offset="0 -2" rect="786 669 11 20" code="ὖ"/>
+ <Char width="12" offset="0 -2" rect="798 669 11 20" code="ὗ"/>
+ <Char width="17" offset="-1 2" rect="810 673 18 16" code="Ὑ"/>
+ <Char width="20" offset="-1 2" rect="829 673 21 16" code="Ὓ"/>
+ <Char width="21" offset="-1 2" rect="851 673 22 16" code="Ὕ"/>
+ <Char width="19" offset="-2 -1" rect="874 670 21 19" code="Ὗ"/>
+ <Char width="17" offset="0 1" rect="896 672 17 17" code="ὠ"/>
+ <Char width="17" offset="0 1" rect="914 672 17 17" code="ὡ"/>
+ <Char width="17" offset="0 1" rect="932 672 17 17" code="ὢ"/>
+ <Char width="17" offset="0 1" rect="950 672 17 17" code="ὣ"/>
+ <Char width="17" offset="0 1" rect="1 697 17 17" code="ὤ"/>
+ <Char width="17" offset="0 1" rect="19 697 17 17" code="ὥ"/>
+ <Char width="17" offset="0 -2" rect="37 694 17 20" code="ὦ"/>
+ <Char width="17" offset="0 -2" rect="55 694 17 20" code="ὧ"/>
+ <Char width="17" offset="-2 2" rect="73 698 18 16" code="Ὠ"/>
+ <Char width="17" offset="-1 2" rect="92 698 17 16" code="Ὡ"/>
+ <Char width="21" offset="-2 2" rect="110 698 22 16" code="Ὢ"/>
+ <Char width="21" offset="-1 2" rect="133 698 21 16" code="Ὣ"/>
+ <Char width="20" offset="-1 2" rect="155 698 20 16" code="Ὤ"/>
+ <Char width="20" offset="-1 2" rect="176 698 20 16" code="Ὥ"/>
+ <Char width="19" offset="-2 -1" rect="197 695 20 19" code="Ὦ"/>
+ <Char width="19" offset="-2 -1" rect="218 695 20 19" code="Ὧ"/>
+ <Char width="13" offset="0 2" rect="239 698 13 16" code="ὰ"/>
+ <Char width="13" offset="0 2" rect="253 698 13 16" code="ά"/>
+ <Char width="10" offset="0 2" rect="267 698 11 16" code="ὲ"/>
+ <Char width="10" offset="0 2" rect="279 698 11 16" code="έ"/>
+ <Char width="12" offset="0 2" rect="291 698 11 20" code="ὴ"/>
+ <Char width="12" offset="0 2" rect="303 698 11 20" code="ή"/>
+ <Char width="6" offset="-2 2" rect="315 698 7 16" code="ὶ"/>
+ <Char width="6" offset="-1 2" rect="323 698 8 16" code="ί"/>
+ <Char width="13" offset="0 2" rect="332 698 12 16" code="ὸ"/>
+ <Char width="13" offset="0 2" rect="345 698 12 16" code="ό"/>
+ <Char width="12" offset="0 2" rect="358 698 11 16" code="ὺ"/>
+ <Char width="12" offset="0 2" rect="370 698 11 16" code="ύ"/>
+ <Char width="17" offset="0 2" rect="382 698 17 16" code="ὼ"/>
+ <Char width="17" offset="0 2" rect="400 698 17 16" code="ώ"/>
+ <Char width="13" offset="0 0" rect="418 696 13 22" code="ᾀ"/>
+ <Char width="13" offset="0 0" rect="432 696 13 22" code="ᾁ"/>
+ <Char width="13" offset="0 1" rect="446 697 13 21" code="ᾂ"/>
+ <Char width="13" offset="0 1" rect="460 697 13 21" code="ᾃ"/>
+ <Char width="13" offset="0 1" rect="474 697 13 21" code="ᾄ"/>
+ <Char width="13" offset="0 1" rect="488 697 13 21" code="ᾅ"/>
+ <Char width="13" offset="0 -1" rect="502 695 13 23" code="ᾆ"/>
+ <Char width="13" offset="0 -1" rect="516 695 13 23" code="ᾇ"/>
+ <Char width="14" offset="-2 2" rect="530 698 17 20" code="ᾈ"/>
+ <Char width="14" offset="-2 2" rect="548 698 17 20" code="ᾉ"/>
+ <Char width="17" offset="-2 2" rect="566 698 20 20" code="ᾊ"/>
+ <Char width="17" offset="-1 2" rect="587 698 19 20" code="ᾋ"/>
+ <Char width="17" offset="-2 2" rect="607 698 20 20" code="ᾌ"/>
+ <Char width="17" offset="-1 2" rect="628 698 19 20" code="ᾍ"/>
+ <Char width="18" offset="0 -2" rect="648 694 18 24" code="ᾎ"/>
+ <Char width="18" offset="0 -2" rect="667 694 18 24" code="ᾏ"/>
+ <Char width="12" offset="-1 2" rect="686 698 12 20" code="ᾐ"/>
+ <Char width="12" offset="-1 2" rect="699 698 12 20" code="ᾑ"/>
+ <Char width="12" offset="-1 2" rect="712 698 12 20" code="ᾒ"/>
+ <Char width="12" offset="-1 2" rect="725 698 12 20" code="ᾓ"/>
+ <Char width="12" offset="-1 2" rect="738 698 12 20" code="ᾔ"/>
+ <Char width="12" offset="-1 2" rect="751 698 12 20" code="ᾕ"/>
+ <Char width="12" offset="-1 -1" rect="764 695 12 23" code="ᾖ"/>
+ <Char width="12" offset="-1 -1" rect="777 695 12 23" code="ᾗ"/>
+ <Char width="16" offset="-2 2" rect="790 698 17 20" code="ᾘ"/>
+ <Char width="16" offset="-1 2" rect="808 698 16 20" code="ᾙ"/>
+ <Char width="20" offset="-2 2" rect="825 698 21 20" code="ᾚ"/>
+ <Char width="20" offset="-1 2" rect="847 698 20 20" code="ᾛ"/>
+ <Char width="20" offset="-2 2" rect="868 698 21 20" code="ᾜ"/>
+ <Char width="20" offset="-1 2" rect="890 698 20 20" code="ᾝ"/>
+ <Char width="20" offset="-1 -2" rect="911 694 20 24" code="ᾞ"/>
+ <Char width="20" offset="-1 -2" rect="932 694 20 24" code="ᾟ"/>
+ <Char width="17" offset="0 0" rect="953 696 17 22" code="ᾠ"/>
+ <Char width="17" offset="0 0" rect="1 721 17 22" code="ᾡ"/>
+ <Char width="17" offset="0 1" rect="19 722 17 21" code="ᾢ"/>
+ <Char width="17" offset="0 1" rect="37 722 17 21" code="ᾣ"/>
+ <Char width="17" offset="0 1" rect="55 722 17 21" code="ᾤ"/>
+ <Char width="17" offset="0 1" rect="73 722 17 21" code="ᾥ"/>
+ <Char width="17" offset="0 -1" rect="91 720 17 23" code="ᾦ"/>
+ <Char width="17" offset="0 -1" rect="109 720 17 23" code="ᾧ"/>
+ <Char width="17" offset="-2 2" rect="127 723 18 20" code="ᾨ"/>
+ <Char width="17" offset="-1 2" rect="146 723 17 20" code="ᾩ"/>
+ <Char width="21" offset="-2 2" rect="164 723 22 20" code="ᾪ"/>
+ <Char width="21" offset="-1 2" rect="187 723 21 20" code="ᾫ"/>
+ <Char width="20" offset="-1 2" rect="209 723 20 20" code="ᾬ"/>
+ <Char width="20" offset="-1 2" rect="230 723 20 20" code="ᾭ"/>
+ <Char width="19" offset="-2 -2" rect="251 719 20 24" code="ᾮ"/>
+ <Char width="19" offset="-2 -2" rect="272 719 20 24" code="ᾯ"/>
+ <Char width="13" offset="0 2" rect="293 723 13 16" code="ᾰ"/>
+ <Char width="13" offset="0 2" rect="307 723 13 16" code="ᾱ"/>
+ <Char width="13" offset="0 2" rect="321 723 13 20" code="ᾲ"/>
+ <Char width="13" offset="0 6" rect="335 727 13 16" code="ᾳ"/>
+ <Char width="13" offset="0 2" rect="349 723 13 20" code="ᾴ"/>
+ <Char width="13" offset="0 2" rect="363 723 13 16" code="ᾶ"/>
+ <Char width="13" offset="0 2" rect="377 723 13 20" code="ᾷ"/>
+ <Char width="14" offset="-1 -1" rect="391 720 16 19" code="Ᾰ"/>
+ <Char width="15" offset="-1 -2" rect="408 719 16 20" code="Ᾱ"/>
+ <Char width="14" offset="-2 2" rect="425 723 17 16" code="Ὰ"/>
+ <Char width="14" offset="-2 2" rect="443 723 17 16" code="Ά"/>
+ <Char width="14" offset="-1 2" rect="461 723 16 20" code="ᾼ"/>
+ <Char width="7" offset="0 2" rect="478 723 5 7" code="᾽"/>
+ <Char width="7" offset="0 17" rect="484 738 6 5" code="ι"/>
+ <Char width="7" offset="0 2" rect="491 723 5 7" code="᾿"/>
+ <Char width="8" offset="-1 2" rect="497 723 9 5" code="῀"/>
+ <Char width="8" offset="-1 -1" rect="507 720 9 8" code="῁"/>
+ <Char width="12" offset="-1 2" rect="517 723 12 20" code="ῂ"/>
+ <Char width="12" offset="-1 6" rect="530 727 12 16" code="ῃ"/>
+ <Char width="12" offset="-1 2" rect="543 723 12 20" code="ῄ"/>
+ <Char width="12" offset="0 2" rect="556 723 11 20" code="ῆ"/>
+ <Char width="12" offset="-1 2" rect="568 723 12 20" code="ῇ"/>
+ <Char width="17" offset="-1 2" rect="581 723 17 16" code="Ὲ"/>
+ <Char width="17" offset="-1 2" rect="599 723 17 16" code="Έ"/>
+ <Char width="18" offset="-2 2" rect="617 723 19 16" code="Ὴ"/>
+ <Char width="18" offset="-2 2" rect="637 723 19 16" code="Ή"/>
+ <Char width="14" offset="0 2" rect="657 723 13 20" code="ῌ"/>
+ <Char width="7" offset="-2 2" rect="671 723 10 6" code="῍"/>
+ <Char width="7" offset="-2 2" rect="682 723 10 6" code="῎"/>
+ <Char width="8" offset="-1 -1" rect="693 720 9 10" code="῏"/>
+ <Char width="6" offset="-2 2" rect="703 723 9 16" code="ῐ"/>
+ <Char width="7" offset="-1 2" rect="713 723 8 16" code="ῑ"/>
+ <Char width="7" offset="-1 -1" rect="722 720 9 19" code="ῒ"/>
+ <Char width="7" offset="-1 -1" rect="732 720 9 19" code="ΐ"/>
+ <Char width="7" offset="-1 2" rect="742 723 9 16" code="ῖ"/>
+ <Char width="6" offset="-2 -1" rect="752 720 9 19" code="ῗ"/>
+ <Char width="6" offset="-2 -1" rect="762 720 9 19" code="Ῐ"/>
+ <Char width="7" offset="-1 -2" rect="772 719 8 20" code="Ῑ"/>
+ <Char width="10" offset="-1 2" rect="781 723 10 16" code="Ὶ"/>
+ <Char width="10" offset="-1 2" rect="792 723 10 16" code="Ί"/>
+ <Char width="7" offset="-1 2" rect="803 723 9 6" code="῝"/>
+ <Char width="7" offset="-1 2" rect="813 723 9 6" code="῞"/>
+ <Char width="8" offset="-1 -1" rect="823 720 9 10" code="῟"/>
+ <Char width="12" offset="0 2" rect="833 723 11 16" code="ῠ"/>
+ <Char width="12" offset="0 2" rect="845 723 11 16" code="ῡ"/>
+ <Char width="12" offset="0 -1" rect="857 720 11 19" code="ῢ"/>
+ <Char width="12" offset="0 -1" rect="869 720 11 19" code="ΰ"/>
+ <Char width="13" offset="0 2" rect="881 723 12 20" code="ῤ"/>
+ <Char width="13" offset="0 2" rect="894 723 12 20" code="ῥ"/>
+ <Char width="12" offset="0 2" rect="907 723 11 16" code="ῦ"/>
+ <Char width="12" offset="0 -2" rect="919 719 11 20" code="ῧ"/>
+ <Char width="14" offset="-1 -1" rect="931 720 15 19" code="Ῠ"/>
+ <Char width="13" offset="-2 -2" rect="947 719 16 20" code="Ῡ"/>
+ <Char width="18" offset="-1 2" rect="1 745 19 16" code="Ὺ"/>
+ <Char width="18" offset="-2 2" rect="21 745 20 16" code="Ύ"/>
+ <Char width="15" offset="-1 2" rect="42 745 15 16" code="Ῥ"/>
+ <Char width="10" offset="-1 2" rect="58 745 11 5" code="῭"/>
+ <Char width="10" offset="-1 2" rect="70 745 11 5" code="΅"/>
+ <Char width="7" offset="-1 2" rect="82 745 7 5" code="`"/>
+ <Char width="17" offset="0 2" rect="90 745 17 20" code="ῲ"/>
+ <Char width="17" offset="0 6" rect="108 749 17 16" code="ῳ"/>
+ <Char width="17" offset="0 2" rect="126 745 17 20" code="ῴ"/>
+ <Char width="17" offset="0 2" rect="144 745 17 16" code="ῶ"/>
+ <Char width="17" offset="0 2" rect="162 745 17 20" code="ῷ"/>
+ <Char width="19" offset="-1 2" rect="180 745 19 16" code="Ὸ"/>
+ <Char width="17" offset="-2 2" rect="200 745 18 16" code="Ό"/>
+ <Char width="19" offset="-2 2" rect="219 745 20 16" code="Ὼ"/>
+ <Char width="17" offset="-2 2" rect="240 745 18 16" code="Ώ"/>
+ <Char width="16" offset="0 2" rect="259 745 15 20" code="ῼ"/>
+ <Char width="7" offset="0 2" rect="275 745 7 5" code="´"/>
+ <Char width="7" offset="1 2" rect="283 745 5 7" code="῾"/>
+ <Char width="10" offset="-1 16" rect="289 759 2 2" code=" "/>
+ <Char width="20" offset="-1 16" rect="292 759 2 2" code=" "/>
+ <Char width="10" offset="-1 16" rect="295 759 2 2" code=" "/>
+ <Char width="20" offset="-1 16" rect="298 759 2 2" code=" "/>
+ <Char width="7" offset="-1 16" rect="301 759 2 2" code=" "/>
+ <Char width="6" offset="-1 16" rect="304 759 2 2" code=" "/>
+ <Char width="4" offset="-1 16" rect="307 759 2 2" code=" "/>
+ <Char width="11" offset="-1 16" rect="310 759 2 2" code=" "/>
+ <Char width="6" offset="-1 16" rect="313 759 2 2" code=" "/>
+ <Char width="5" offset="-1 16" rect="316 759 2 2" code=" "/>
+ <Char width="3" offset="-1 16" rect="319 759 2 2" code=" "/>
+ <Char width="1" offset="-1 16" rect="322 759 2 2" code="​"/>
+ <Char width="1" offset="-1 5" rect="325 748 3 16" code="‌"/>
+ <Char width="1" offset="-3 3" rect="329 746 7 18" code="‍"/>
+ <Char width="1" offset="-1 2" rect="337 745 7 18" code="‎"/>
+ <Char width="1" offset="-5 2" rect="345 745 7 18" code="‏"/>
+ <Char width="12" offset="-1 9" rect="353 752 12 5" code="‒"/>
+ <Char width="12" offset="-1 9" rect="366 752 12 5" code="–"/>
+ <Char width="20" offset="-1 9" rect="379 752 21 5" code="—"/>
+ <Char width="20" offset="0 9" rect="401 752 19 5" code="―"/>
+ <Char width="11" offset="1 2" rect="421 745 9 16" code="‖"/>
+ <Char width="12" offset="-1 17" rect="431 760 13 10" code="‗"/>
+ <Char width="6" offset="0 2" rect="445 745 6 8" code="‘"/>
+ <Char width="6" offset="0 2" rect="452 745 5 8" code="’">
+  <Kerning advance="-1" id=" "/>
+  <Kerning advance="-1" id="s"/>
+ </Char>
+ <Char width="6" offset="0 13" rect="458 756 5 9" code="‚"/>
+ <Char width="6" offset="0 2" rect="464 745 5 8" code="‛"/>
+ <Char width="10" offset="-1 2" rect="470 745 10 8" code="“"/>
+ <Char width="10" offset="0 2" rect="481 745 9 8" code="”"/>
+ <Char width="10" offset="0 13" rect="491 756 9 9" code="„">
+  <Kerning advance="-1" id="Ђ"/>
+  <Kerning advance="-1" id="Ћ"/>
+  <Kerning advance="-1" id="Т"/>
+  <Kerning advance="-1" id="Ч"/>
+  <Kerning advance="-1" id="Ъ"/>
+ </Char>
+ <Char width="10" offset="0 2" rect="501 745 10 8" code="‟"/>
+ <Char width="12" offset="0 2" rect="512 745 11 19" code="†"/>
+ <Char width="12" offset="0 2" rect="524 745 11 19" code="‡"/>
+ <Char width="8" offset="0 6" rect="536 749 7 7" code="•"/>
+ <Char width="20" offset="1 13" rect="544 756 18 5" code="…"/>
+ <Char width="1" offset="-1 4" rect="563 747 7 16" code="‪"/>
+ <Char width="1" offset="-5 4" rect="571 747 7 16" code="‫"/>
+ <Char width="1" offset="-3 3" rect="579 746 6 18" code="‬"/>
+ <Char width="1" offset="-3 3" rect="586 746 7 18" code="‭"/>
+ <Char width="1" offset="-3 3" rect="594 746 7 18" code="‮"/>
+ <Char width="5" offset="-1 16" rect="602 759 2 2" code=" "/>
+ <Char width="21" offset="0 2" rect="605 745 21 16" code="‰"/>
+ <Char width="5" offset="0 2" rect="627 745 6 7" code="′"/>
+ <Char width="10" offset="0 2" rect="634 745 10 7" code="″"/>
+ <Char width="10" offset="-2 2" rect="645 745 13 7" code="‴"/>
+ <Char width="7" offset="-1 7" rect="659 750 8 10" code="‹"/>
+ <Char width="7" offset="-1 7" rect="668 750 8 10" code="›"/>
+ <Char width="12" offset="1 2" rect="677 745 10 16" code="‼"/>
+ <Char width="8" offset="-1 2" rect="688 745 9 5" code="‾"/>
+ <Char width="4" offset="-5 2" rect="698 745 13 16" code="⁄"/>
+ <Char width="7" offset="1 2" rect="712 745 5 16" code="⁞"/>
+ <Char width="1" offset="-3 3" rect="718 746 7 18" code="⁪"/>
+ <Char width="1" offset="-3 3" rect="726 746 7 18" code="⁫"/>
+ <Char width="1" offset="-3 3" rect="734 746 7 18" code="⁬"/>
+ <Char width="1" offset="-3 3" rect="742 746 7 18" code="⁭"/>
+ <Char width="1" offset="-3 3" rect="750 746 7 18" code="⁮"/>
+ <Char width="1" offset="-3 3" rect="758 746 7 18" code="⁯"/>
+ <Char width="9" offset="0 5" rect="766 748 8 8" code="ⁿ"/>
+ <Char width="9" offset="0 10" rect="775 753 9 9" code="ₐ"/>
+ <Char width="9" offset="0 10" rect="785 753 8 10" code="ₑ"/>
+ <Char width="9" offset="0 10" rect="794 753 9 10" code="ₒ"/>
+ <Char width="8" offset="-1 10" rect="804 753 9 9" code="ₓ"/>
+ <Char width="9" offset="0 10" rect="814 753 8 10" code="ₔ"/>
+ <Char width="13" offset="0 2" rect="823 745 12 16" code="₠"/>
+ <Char width="14" offset="0 1" rect="836 744 14 18" code="₡"/>
+ <Char width="15" offset="0 2" rect="851 745 14 16" code="₢"/>
+ <Char width="11" offset="-1 2" rect="866 745 12 16" code="₣"/>
+ <Char width="12" offset="0 2" rect="879 745 13 17" code="₤"/>
+ <Char width="18" offset="0 4" rect="893 747 17 16" code="₥"/>
+ <Char width="16" offset="0 2" rect="911 745 15 16" code="₦"/>
+ <Char width="22" offset="0 2" rect="927 745 22 16" code="₧"/>
+ <Char width="24" offset="0 2" rect="950 745 23 16" code="₨"/>
+ <Char width="21" offset="0 2" rect="1 775 20 16" code="₩"/>
+ <Char width="16" offset="0 6" rect="22 779 15 12" code="₪"/>
+ <Char width="10" offset="0 2" rect="38 775 9 15" code="₫"/>
+ <Char width="12" offset="-2 2" rect="48 775 14 16" code="€"/>
+ <Char width="16" offset="0 2" rect="63 775 16 16" code="₭"/>
+ <Char width="14" offset="0 2" rect="80 775 13 16" code="₮"/>
+ <Char width="23" offset="0 -1" rect="94 772 22 23" code="₯"/>
+ <Char width="12" offset="-1 2" rect="117 775 13 20" code="₰"/>
+ <Char width="15" offset="0 2" rect="131 775 14 16" code="₱"/>
+ <Char width="16" offset="0 1" rect="146 774 15 19" code="₲"/>
+ <Char width="15" offset="-1 2" rect="162 775 15 16" code="₳"/>
+ <Char width="15" offset="0 2" rect="178 775 14 16" code="₴"/>
+ <Char width="15" offset="0 1" rect="193 774 14 18" code="₵"/>
+ <Char width="14" offset="0 2" rect="208 775 13 16" code="₸"/>
+ <Char width="11" offset="-1 2" rect="222 775 13 16" code="₹"/>
+ <Char width="1" offset="-5 -1" rect="236 772 10 9" code="⃰"/>
+ <Char width="18" offset="-1 2" rect="247 775 18 17" code="℅"/>
+ <Char width="10" offset="-1 2" rect="266 775 11 16" code="ℓ"/>
+ <Char width="22" offset="0 2" rect="278 775 22 16" code="№"/>
+ <Char width="15" offset="-2 2" rect="301 775 17 17" code="℗"/>
+ <Char width="20" offset="0 2" rect="319 775 18 11" code="™"/>
+ <Char width="15" offset="-1 2" rect="338 775 16 16" code="Ω"/>
+ <Char width="12" offset="-1 6" rect="355 779 13 12" code="℮"/>
+ <Char width="20" offset="-1 2" rect="369 775 22 17" code="⅍"/>
+ <Char width="10" offset="-1 6" rect="392 779 10 12" code="ⅎ"/>
+ <Char width="17" offset="0 2" rect="403 775 17 16" code="⅓"/>
+ <Char width="17" offset="-1 2" rect="421 775 17 16" code="⅔"/>
+ <Char width="17" offset="0 2" rect="439 775 17 16" code="⅛"/>
+ <Char width="17" offset="-1 2" rect="457 775 18 16" code="⅜"/>
+ <Char width="16" offset="-1 2" rect="476 775 17 16" code="⅝"/>
+ <Char width="17" offset="0 2" rect="494 775 17 16" code="⅞"/>
+ <Char width="11" offset="-1 6" rect="512 779 12 12" code="ↄ"/>
+ <Char width="20" offset="-1 8" rect="525 781 20 9" code="←"/>
+ <Char width="10" offset="0 3" rect="546 776 9 19" code="↑"/>
+ <Char width="20" offset="-1 8" rect="556 781 20 9" code="→"/>
+ <Char width="10" offset="0 3" rect="577 776 9 19" code="↓"/>
+ <Char width="20" offset="-1 8" rect="587 781 20 9" code="↔"/>
+ <Char width="10" offset="0 2" rect="608 775 9 20" code="↕"/>
+ <Char width="10" offset="0 2" rect="618 775 9 22" code="↨"/>
+ <Char width="10" offset="-1 2" rect="628 775 11 16" code="∂"/>
+ <Char width="12" offset="-1 3" rect="640 776 14 15" code="∆"/>
+ <Char width="16" offset="0 2" rect="655 775 15 20" code="∏"/>
+ <Char width="14" offset="0 2" rect="671 775 14 20" code="∑"/>
+ <Char width="12" offset="-1 8" rect="686 781 13 5" code="−"/>
+ <Char width="4" offset="-5 2" rect="700 775 13 16" code="∕"/>
+ <Char width="6" offset="0 8" rect="714 781 5 5" code="∙"/>
+ <Char width="11" offset="-1 -2" rect="720 771 13 21" code="√"/>
+ <Char width="14" offset="0 6" rect="734 779 14 9" code="∞"/>
+ <Char width="19" offset="2 4" rect="749 777 14 14" code="∟"/>
+ <Char width="14" offset="0 2" rect="764 775 13 16" code="∩"/>
+ <Char width="6" offset="-1 -1" rect="778 772 7 21" code="∫"/>
+ <Char width="11" offset="-1 5" rect="786 778 12 11" code="≈"/>
+ <Char width="11" offset="-1 2" rect="799 775 12 16" code="≠"/>
+ <Char width="12" offset="-1 4" rect="812 777 13 13" code="≡"/>
+ <Char width="11" offset="-1 2" rect="826 775 12 16" code="≤"/>
+ <Char width="11" offset="-1 2" rect="839 775 12 16" code="≥"/>
+ <Char width="12" offset="0 5" rect="852 778 11 13" code="⌂"/>
+ <Char width="12" offset="-1 6" rect="864 779 13 9" code="⌐"/>
+ <Char width="12" offset="4 0" rect="878 773 6 23" code="⌠"/>
+ <Char width="12" offset="1 0" rect="885 773 7 23" code="⌡"/>
+ <Char width="14" offset="-1 9" rect="893 782 16 4" code="─"/>
+ <Char width="13" offset="3 -1" rect="910 772 4 25" code="│"/>
+ <Char width="14" offset="5 9" rect="915 782 10 15" code="┌"/>
+ <Char width="14" offset="-2 9" rect="926 782 11 15" code="┐"/>
+ <Char width="14" offset="5 -2" rect="938 771 10 15" code="└"/>
+ <Char width="14" offset="-2 -2" rect="949 771 11 15" code="┘"/>
+ <Char width="14" offset="5 -1" rect="961 772 10 25" code="├"/>
+ <Char width="14" offset="-2 -1" rect="1 799 11 25" code="┤"/>
+ <Char width="14" offset="-1 9" rect="13 809 16 15" code="┬"/>
+ <Char width="14" offset="-1 -2" rect="30 798 16 15" code="┴"/>
+ <Char width="14" offset="-1 -1" rect="47 799 16 25" code="┼"/>
+ <Char width="14" offset="-1 8" rect="64 808 16 7" code="═"/>
+ <Char width="14" offset="3 -1" rect="81 799 7 25" code="║"/>
+ <Char width="14" offset="5 8" rect="89 808 10 16" code="╒"/>
+ <Char width="14" offset="3 9" rect="100 809 12 15" code="╓"/>
+ <Char width="14" offset="3 8" rect="113 808 12 16" code="╔"/>
+ <Char width="14" offset="-2 8" rect="126 808 11 16" code="╕"/>
+ <Char width="14" offset="-2 9" rect="138 809 12 15" code="╖"/>
+ <Char width="14" offset="-2 8" rect="151 808 12 16" code="╗"/>
+ <Char width="14" offset="5 -1" rect="164 799 10 16" code="╘"/>
+ <Char width="14" offset="3 -2" rect="175 798 12 15" code="╙"/>
+ <Char width="14" offset="3 -1" rect="188 799 12 16" code="╚"/>
+ <Char width="14" offset="-2 -1" rect="201 799 11 16" code="╛"/>
+ <Char width="14" offset="-2 -2" rect="213 798 12 15" code="╜"/>
+ <Char width="14" offset="-2 -1" rect="226 799 12 16" code="╝"/>
+ <Char width="14" offset="5 -1" rect="239 799 10 25" code="╞"/>
+ <Char width="14" offset="3 -1" rect="250 799 12 25" code="╟"/>
+ <Char width="14" offset="3 -1" rect="263 799 12 25" code="╠"/>
+ <Char width="14" offset="-2 -1" rect="276 799 11 25" code="╡"/>
+ <Char width="14" offset="-2 -1" rect="288 799 12 25" code="╢"/>
+ <Char width="14" offset="-2 -1" rect="301 799 12 25" code="╣"/>
+ <Char width="14" offset="-1 8" rect="314 808 16 16" code="╤"/>
+ <Char width="14" offset="-1 9" rect="331 809 16 15" code="╥"/>
+ <Char width="14" offset="-1 8" rect="348 808 16 16" code="╦"/>
+ <Char width="14" offset="-1 -1" rect="365 799 16 16" code="╧"/>
+ <Char width="14" offset="-1 -2" rect="382 798 16 15" code="╨"/>
+ <Char width="14" offset="-1 -1" rect="399 799 16 16" code="╩"/>
+ <Char width="14" offset="-1 -1" rect="416 799 16 25" code="╪"/>
+ <Char width="14" offset="-1 -1" rect="433 799 16 25" code="╫"/>
+ <Char width="14" offset="-2 -1" rect="450 799 17 25" code="╬"/>
+ <Char width="14" offset="-1 -1" rect="468 799 16 14" code="▀"/>
+ <Char width="14" offset="-1 10" rect="485 810 16 14" code="▄"/>
+ <Char width="14" offset="-1 -1" rect="502 799 16 25" code="█"/>
+ <Char width="14" offset="-1 -1" rect="519 799 9 25" code="▌"/>
+ <Char width="14" offset="6 -1" rect="529 799 9 25" code="▐"/>
+ <Char width="14" offset="-1 -1" rect="539 799 16 24" code="░"/>
+ <Char width="14" offset="-2 -1" rect="556 799 17 24" code="▒"/>
+ <Char width="15" offset="-2 -1" rect="574 799 17 25" code="▓"/>
+ <Char width="12" offset="0 7" rect="592 807 11 11" code="■"/>
+ <Char width="12" offset="0 7" rect="604 807 11 11" code="□"/>
+ <Char width="8" offset="0 7" rect="616 807 7 7" code="▪"/>
+ <Char width="8" offset="0 7" rect="624 807 7 7" code="▫"/>
+ <Char width="20" offset="-1 9" rect="632 809 21 6" code="▬"/>
+ <Char width="19" offset="1 3" rect="654 803 16 15" code="▲"/>
+ <Char width="19" offset="1 3" rect="671 803 16 16" code="►"/>
+ <Char width="19" offset="1 3" rect="688 803 16 16" code="▼"/>
+ <Char width="19" offset="1 3" rect="705 803 16 16" code="◄"/>
+ <Char width="10" offset="-1 3" rect="722 803 11 15" code="◊"/>
+ <Char width="12" offset="0 7" rect="734 807 10 10" code="○"/>
+ <Char width="12" offset="0 6" rect="745 806 11 11" code="◌"/>
+ <Char width="12" offset="0 6" rect="757 806 11 11" code="●"/>
+ <Char width="12" offset="0 7" rect="769 807 11 11" code="◘"/>
+ <Char width="12" offset="-1 5" rect="781 805 13 13" code="◙"/>
+ <Char width="8" offset="0 7" rect="795 807 7 8" code="◦"/>
+ <Char width="20" offset="3 5" rect="803 805 14 14" code="☺"/>
+ <Char width="21" offset="3 5" rect="818 805 14 15" code="☻"/>
+ <Char width="18" offset="-1 1" rect="833 801 20 19" code="☼"/>
+ <Char width="15" offset="1 2" rect="854 802 12 21" code="♀"/>
+ <Char width="15" offset="0 1" rect="867 801 15 20" code="♂"/>
+ <Char width="11" offset="-1 4" rect="883 804 12 14" code="♠"/>
+ <Char width="13" offset="-1 4" rect="896 804 15 14" code="♣"/>
+ <Char width="12" offset="0 4" rect="912 804 12 15" code="♥"/>
+ <Char width="11" offset="-1 4" rect="925 804 11 15" code="♦"/>
+ <Char width="10" offset="-1 3" rect="937 803 11 16" code="♪"/>
+ <Char width="15" offset="-1 2" rect="949 802 14 18" code="♫"/>
+ <Char width="10" offset="-1 2" rect="964 802 11 18" code="♯"/>
+ <Char width="12" offset="-1 2" rect="1 830 13 16" code="Ⱡ"/>
+ <Char width="6" offset="-1 2" rect="15 830 7 16" code="ⱡ"/>
+ <Char width="12" offset="-1 2" rect="23 830 14 16" code="Ɫ"/>
+ <Char width="13" offset="-2 2" rect="38 830 15 17" code="Ᵽ"/>
+ <Char width="14" offset="0 2" rect="54 830 15 20" code="Ɽ"/>
+ <Char width="11" offset="-1 2" rect="70 830 12 20" code="ⱥ"/>
+ <Char width="7" offset="-2 2" rect="83 830 12 20" code="ⱦ"/>
+ <Char width="14" offset="0 2" rect="96 830 14 19" code="Ⱨ"/>
+ <Char width="12" offset="0 2" rect="111 830 13 19" code="ⱨ"/>
+ <Char width="14" offset="0 2" rect="125 830 15 19" code="Ⱪ"/>
+ <Char width="11" offset="0 2" rect="141 830 12 19" code="ⱪ"/>
+ <Char width="12" offset="-1 2" rect="154 830 14 19" code="Ⱬ"/>
+ <Char width="10" offset="-1 6" rect="169 834 12 15" code="ⱬ"/>
+ <Char width="15" offset="0 2" rect="182 830 14 16" code="Ɑ"/>
+ <Char width="12" offset="-1 6" rect="197 834 14 12" code="ⱱ"/>
+ <Char width="21" offset="-1 2" rect="212 830 23 16" code="Ⱳ"/>
+ <Char width="17" offset="-1 6" rect="236 834 19 12" code="ⱳ"/>
+ <Char width="11" offset="-1 6" rect="256 834 13 12" code="ⱴ"/>
+ <Char width="11" offset="0 2" rect="270 830 11 16" code="Ⱶ"/>
+ <Char width="9" offset="0 6" rect="282 834 9 12" code="ⱶ"/>
+ <Char width="14" offset="0 6" rect="292 834 14 13" code="ⱷ"/>
+ <Char width="7" offset="-1 6" rect="307 834 8 12" code="⸗"/>
+ <Char width="1" offset="-3 2" rect="316 830 6 7" code="ꜗ"/>
+ <Char width="1" offset="-2 2" rect="323 830 7 7" code="ꜘ"/>
+ <Char width="1" offset="-3 2" rect="331 830 7 6" code="ꜙ"/>
+ <Char width="1" offset="-4 2" rect="339 830 8 6" code="ꜚ"/>
+ <Char width="10" offset="0 -2" rect="348 826 9 11" code="ꜛ"/>
+ <Char width="10" offset="0 -2" rect="358 826 9 11" code="ꜜ"/>
+ <Char width="7" offset="1 -3" rect="368 825 5 13" code="ꜝ"/>
+ <Char width="7" offset="1 -2" rect="374 826 5 12" code="ꜞ"/>
+ <Char width="7" offset="1 2" rect="380 830 5 13" code="ꜟ"/>
+ <Char width="1" offset="-5 2" rect="386 830 9 7" code="꜠"/>
+ <Char width="1" offset="-5 12" rect="396 840 9 6" code="꜡"/>
+ <Char width="7" offset="-1 17" rect="406 845 9 5" code="ꞈ"/>
+ <Char width="7" offset="1 6" rect="416 834 5 10" code="꞉"/>
+ <Char width="8" offset="0 6" rect="422 834 8 9" code="꞊"/>
+ <Char width="5" offset="0 2" rect="431 830 5 11" code="Ꞌ"/>
+ <Char width="5" offset="0 3" rect="437 831 5 8" code="ꞌ"/>
+ <Char width="12" offset="-1 2" rect="443 830 12 16" code="ﬁ"/>
+ <Char width="12" offset="-1 2" rect="456 830 12 16" code="ﬂ"/>
+ <Char width="6" offset="0 6" rect="469 834 5 10" code="יִ"/>
+ <Char width="1" offset="-4 3" rect="475 831 8 5" code="ﬞ"/>
+ <Char width="11" offset="0 6" rect="484 834 10 9" code="ײַ"/>
+ <Char width="11" offset="-1 6" rect="495 834 12 12" code="ﬠ"/>
+ <Char width="15" offset="-1 6" rect="508 834 15 12" code="ﬡ"/>
+ <Char width="14" offset="-1 6" rect="524 834 15 12" code="ﬢ"/>
+ <Char width="15" offset="0 6" rect="540 834 14 12" code="ﬣ"/>
+ <Char width="13" offset="-1 6" rect="555 834 13 12" code="ﬤ"/>
+ <Char width="13" offset="-1 2" rect="569 830 13 16" code="ﬥ"/>
+ <Char width="15" offset="0 6" rect="583 834 14 12" code="ﬦ"/>
+ <Char width="13" offset="-1 6" rect="598 834 14 12" code="ﬧ"/>
+ <Char width="16" offset="-1 6" rect="613 834 16 13" code="ﬨ"/>
+ <Char width="12" offset="-1 8" rect="630 836 13 9" code="﬩"/>
+ <Char width="14" offset="-1 4" rect="644 832 15 14" code="שׁ"/>
+ <Char width="14" offset="-1 4" rect="660 832 15 14" code="שׂ"/>
+ <Char width="14" offset="-1 4" rect="676 832 15 14" code="שּׁ"/>
+ <Char width="14" offset="-1 4" rect="692 832 15 14" code="שּׂ"/>
+ <Char width="12" offset="-1 6" rect="708 834 13 13" code="אַ"/>
+ <Char width="12" offset="-1 6" rect="722 834 13 15" code="אָ"/>
+ <Char width="12" offset="-1 6" rect="736 834 13 12" code="אּ"/>
+ <Char width="12" offset="-1 6" rect="750 834 13 12" code="בּ"/>
+ <Char width="9" offset="-2 6" rect="764 834 11 13" code="גּ"/>
+ <Char width="11" offset="-1 6" rect="776 834 12 12" code="דּ"/>
+ <Char width="12" offset="0 6" rect="789 834 12 12" code="הּ"/>
+ <Char width="7" offset="-1 6" rect="802 834 7 12" code="וּ"/>
+ <Char width="9" offset="-1 6" rect="810 834 10 12" code="זּ"/>
+ <Char width="13" offset="0 6" rect="821 834 12 13" code="טּ"/>
+ <Char width="7" offset="-1 6" rect="834 834 7 8" code="יּ"/>
+ <Char width="11" offset="-1 6" rect="842 834 11 16" code="ךּ"/>
+ <Char width="10" offset="-1 6" rect="854 834 10 12" code="כּ"/>
+ <Char width="10" offset="-1 2" rect="865 830 10 16" code="לּ"/>
+ <Char width="13" offset="-1 6" rect="876 834 13 12" code="מּ"/>
+ <Char width="8" offset="-1 6" rect="890 834 8 12" code="נּ"/>
+ <Char width="12" offset="0 6" rect="899 834 12 13" code="סּ"/>
+ <Char width="12" offset="-1 6" rect="912 834 12 16" code="ףּ"/>
+ <Char width="12" offset="-1 6" rect="925 834 12 12" code="פּ"/>
+ <Char width="11" offset="-1 6" rect="938 834 11 12" code="צּ"/>
+ <Char width="12" offset="0 6" rect="950 834 11 16" code="קּ"/>
+ <Char width="11" offset="-1 6" rect="962 834 11 12" code="רּ"/>
+ <Char width="14" offset="-1 6" rect="1 858 15 12" code="שּ"/>
+ <Char width="14" offset="-1 6" rect="17 858 13 13" code="תּ"/>
+ <Char width="6" offset="0 4" rect="31 856 6 14" code="וֹ"/>
+ <Char width="12" offset="-1 5" rect="38 857 13 13" code="בֿ"/>
+ <Char width="10" offset="-1 5" rect="52 857 11 13" code="כֿ"/>
+ <Char width="12" offset="-1 5" rect="64 857 12 13" code="פֿ"/>
+ <Char width="12" offset="-1 3" rect="77 855 13 15" code="ﭏ"/>
+ <Char width="5" offset="-1 -1" rect="91 851 6 18" code="ﭐ"/>
+ <Char width="5" offset="-2 -1" rect="98 851 8 17" code="ﭑ"/>
+ <Char width="13" offset="-1 6" rect="107 858 14 16" code="ﭒ"/>
+ <Char width="13" offset="-1 6" rect="122 858 14 16" code="ﭓ"/>
+ <Char width="6" offset="-2 6" rect="137 858 8 16" code="ﭔ"/>
+ <Char width="6" offset="-2 6" rect="146 858 8 16" code="ﭕ"/>
+ <Char width="13" offset="-1 6" rect="155 858 14 16" code="ﭖ"/>
+ <Char width="13" offset="-1 6" rect="170 858 14 16" code="ﭗ"/>
+ <Char width="6" offset="-2 6" rect="185 858 8 16" code="ﭘ"/>
+ <Char width="6" offset="-2 6" rect="194 858 8 16" code="ﭙ"/>
+ <Char width="13" offset="-1 6" rect="203 858 14 16" code="ﭚ"/>
+ <Char width="13" offset="-1 6" rect="218 858 14 16" code="ﭛ"/>
+ <Char width="6" offset="-2 6" rect="233 858 9 16" code="ﭜ"/>
+ <Char width="6" offset="-2 6" rect="243 858 9 16" code="ﭝ"/>
+ <Char width="13" offset="-1 1" rect="253 853 14 15" code="ﭞ"/>
+ <Char width="13" offset="-1 1" rect="268 853 14 15" code="ﭟ"/>
+ <Char width="6" offset="-2 0" rect="283 852 8 16" code="ﭠ"/>
+ <Char width="6" offset="-2 0" rect="292 852 8 16" code="ﭡ"/>
+ <Char width="13" offset="-1 1" rect="301 853 14 15" code="ﭢ"/>
+ <Char width="13" offset="-1 1" rect="316 853 14 15" code="ﭣ"/>
+ <Char width="6" offset="-2 0" rect="331 852 9 16" code="ﭤ"/>
+ <Char width="6" offset="-2 0" rect="341 852 9 16" code="ﭥ"/>
+ <Char width="13" offset="-1 0" rect="351 852 14 16" code="ﭦ"/>
+ <Char width="13" offset="-1 0" rect="366 852 14 16" code="ﭧ"/>
+ <Char width="6" offset="-2 0" rect="381 852 8 16" code="ﭨ"/>
+ <Char width="6" offset="-2 0" rect="390 852 8 16" code="ﭩ"/>
+ <Char width="15" offset="-1 -1" rect="399 851 16 17" code="ﭪ"/>
+ <Char width="15" offset="-1 -1" rect="416 851 16 17" code="ﭫ"/>
+ <Char width="7" offset="-2 0" rect="433 852 9 16" code="ﭬ"/>
+ <Char width="7" offset="-2 -1" rect="443 851 10 17" code="ﭭ"/>
+ <Char width="15" offset="-1 -1" rect="454 851 16 17" code="ﭮ"/>
+ <Char width="15" offset="-1 -1" rect="471 851 16 17" code="ﭯ"/>
+ <Char width="7" offset="-2 -1" rect="488 851 9 17" code="ﭰ"/>
+ <Char width="7" offset="-2 -1" rect="498 851 10 17" code="ﭱ"/>
+ <Char width="12" offset="-1 6" rect="509 858 13 16" code="ﭲ"/>
+ <Char width="11" offset="-1 6" rect="523 858 14 16" code="ﭳ"/>
+ <Char width="11" offset="-2 6" rect="538 858 13 16" code="ﭴ"/>
+ <Char width="11" offset="-2 6" rect="552 858 13 16" code="ﭵ"/>
+ <Char width="12" offset="-1 6" rect="566 858 13 16" code="ﭶ"/>
+ <Char width="11" offset="-1 6" rect="580 858 14 16" code="ﭷ"/>
+ <Char width="11" offset="-2 6" rect="595 858 13 14" code="ﭸ"/>
+ <Char width="11" offset="-2 6" rect="609 858 13 14" code="ﭹ"/>
+ <Char width="12" offset="-1 6" rect="623 858 13 16" code="ﭺ"/>
+ <Char width="11" offset="-1 6" rect="637 858 14 16" code="ﭻ"/>
+ <Char width="11" offset="-2 6" rect="652 858 13 16" code="ﭼ"/>
+ <Char width="11" offset="-2 6" rect="666 858 13 16" code="ﭽ"/>
+ <Char width="12" offset="-1 6" rect="680 858 13 16" code="ﭾ"/>
+ <Char width="11" offset="-1 6" rect="694 858 14 16" code="ﭿ"/>
+ <Char width="11" offset="-2 6" rect="709 858 13 16" code="ﮀ"/>
+ <Char width="11" offset="-2 6" rect="723 858 13 16" code="ﮁ"/>
+ <Char width="7" offset="-1 4" rect="737 856 9 16" code="ﮂ"/>
+ <Char width="7" offset="-1 4" rect="747 856 9 16" code="ﮃ"/>
+ <Char width="7" offset="-1 0" rect="757 852 9 16" code="ﮄ"/>
+ <Char width="7" offset="-1 0" rect="767 852 9 16" code="ﮅ"/>
+ <Char width="7" offset="-1 -1" rect="777 851 9 17" code="ﮆ"/>
+ <Char width="7" offset="-1 -1" rect="787 851 9 17" code="ﮇ"/>
+ <Char width="7" offset="-1 -1" rect="797 851 9 17" code="ﮈ"/>
+ <Char width="7" offset="-1 -1" rect="807 851 9 17" code="ﮉ"/>
+ <Char width="9" offset="-2 0" rect="817 852 12 20" code="ﮊ"/>
+ <Char width="9" offset="-2 0" rect="830 852 12 20" code="ﮋ"/>
+ <Char width="9" offset="-2 0" rect="843 852 11 20" code="ﮌ"/>
+ <Char width="9" offset="-2 0" rect="855 852 11 20" code="ﮍ"/>
+ <Char width="15" offset="-1 2" rect="867 854 16 14" code="ﮎ"/>
+ <Char width="17" offset="-1 2" rect="884 854 19 14" code="ﮏ"/>
+ <Char width="8" offset="-2 2" rect="904 854 10 14" code="ﮐ"/>
+ <Char width="11" offset="-2 2" rect="915 854 14 14" code="ﮑ"/>
+ <Char width="15" offset="-1 -1" rect="930 851 16 17" code="ﮒ"/>
+ <Char width="17" offset="-1 -1" rect="947 851 19 17" code="ﮓ"/>
+ <Char width="8" offset="-2 -1" rect="967 851 10 17" code="ﮔ"/>
+ <Char width="11" offset="-2 -1" rect="1 877 14 17" code="ﮕ"/>
+ <Char width="15" offset="-1 -1" rect="16 877 16 23" code="ﮖ"/>
+ <Char width="17" offset="-1 -1" rect="33 877 19 23" code="ﮗ"/>
+ <Char width="8" offset="-2 -1" rect="53 877 10 23" code="ﮘ"/>
+ <Char width="11" offset="-2 -1" rect="64 877 14 23" code="ﮙ"/>
+ <Char width="15" offset="-1 -1" rect="79 877 16 17" code="ﮚ"/>
+ <Char width="17" offset="-1 -1" rect="96 877 19 17" code="ﮛ"/>
+ <Char width="8" offset="-2 -1" rect="116 877 10 17" code="ﮜ"/>
+ <Char width="11" offset="-2 -1" rect="127 877 14 17" code="ﮝ"/>
+ <Char width="11" offset="-1 7" rect="142 885 13 13" code="ﮞ"/>
+ <Char width="11" offset="-1 7" rect="156 885 13 13" code="ﮟ"/>
+ <Char width="11" offset="-1 1" rect="170 879 13 19" code="ﮠ"/>
+ <Char width="11" offset="-1 1" rect="184 879 13 19" code="ﮡ"/>
+ <Char width="6" offset="-2 0" rect="198 878 8 16" code="ﮢ"/>
+ <Char width="6" offset="-2 0" rect="207 878 8 16" code="ﮣ"/>
+ <Char width="7" offset="-1 3" rect="216 881 8 13" code="ﮤ"/>
+ <Char width="9" offset="-1 2" rect="225 880 10 14" code="ﮥ"/>
+ <Char width="7" offset="-1 6" rect="236 884 8 10" code="ﮦ"/>
+ <Char width="8" offset="-1 8" rect="245 886 10 9" code="ﮧ"/>
+ <Char width="6" offset="-2 6" rect="256 884 8 15" code="ﮨ"/>
+ <Char width="7" offset="-2 8" rect="265 886 10 14" code="ﮩ"/>
+ <Char width="10" offset="-2 4" rect="276 882 11 12" code="ﮪ"/>
+ <Char width="9" offset="-1 3" rect="288 881 10 13" code="ﮫ"/>
+ <Char width="10" offset="-2 4" rect="299 882 11 12" code="ﮬ"/>
+ <Char width="9" offset="-2 5" rect="311 883 12 15" code="ﮭ"/>
+ <Char width="16" offset="-1 7" rect="324 885 18 12" code="ﮮ"/>
+ <Char width="16" offset="-1 10" rect="343 888 18 12" code="ﮯ"/>
+ <Char width="16" offset="-1 5" rect="362 883 18 14" code="ﮰ"/>
+ <Char width="16" offset="-1 7" rect="381 885 18 15" code="ﮱ"/>
+ <Char width="11" offset="-1 -1" rect="400 877 12 17" code="ﯓ"/>
+ <Char width="11" offset="-1 -1" rect="413 877 12 17" code="ﯔ"/>
+ <Char width="8" offset="-2 0" rect="426 878 10 16" code="ﯕ"/>
+ <Char width="8" offset="-2 0" rect="437 878 10 16" code="ﯖ"/>
+ <Char width="9" offset="-1 1" rect="448 879 11 18" code="ﯗ"/>
+ <Char width="9" offset="-1 1" rect="460 879 11 18" code="ﯘ"/>
+ <Char width="9" offset="-1 3" rect="472 881 11 16" code="ﯙ"/>
+ <Char width="9" offset="-1 3" rect="484 881 11 16" code="ﯚ"/>
+ <Char width="9" offset="-1 0" rect="496 878 11 19" code="ﯛ"/>
+ <Char width="9" offset="-1 0" rect="508 878 11 19" code="ﯜ"/>
+ <Char width="9" offset="-2 2" rect="520 880 13 17" code="ﯝ"/>
+ <Char width="9" offset="-1 0" rect="534 878 11 19" code="ﯞ"/>
+ <Char width="9" offset="-1 0" rect="546 878 11 19" code="ﯟ"/>
+ <Char width="9" offset="-1 6" rect="558 884 11 13" code="ﯠ"/>
+ <Char width="9" offset="-1 6" rect="570 884 11 13" code="ﯡ"/>
+ <Char width="9" offset="-1 3" rect="582 881 11 16" code="ﯢ"/>
+ <Char width="9" offset="-1 3" rect="594 881 11 16" code="ﯣ"/>
+ <Char width="13" offset="0 7" rect="606 885 12 15" code="ﯤ"/>
+ <Char width="11" offset="-1 10" rect="619 888 13 12" code="ﯥ"/>
+ <Char width="6" offset="-2 6" rect="633 884 8 16" code="ﯦ"/>
+ <Char width="6" offset="-2 6" rect="642 884 8 16" code="ﯧ"/>
+ <Char width="6" offset="-2 6" rect="651 884 8 10" code="ﯨ"/>
+ <Char width="6" offset="-2 6" rect="660 884 8 10" code="ﯩ"/>
+ <Char width="13" offset="0 7" rect="669 885 12 12" code="ﯼ"/>
+ <Char width="11" offset="-1 10" rect="682 888 13 12" code="ﯽ"/>
+ <Char width="6" offset="-2 6" rect="696 884 8 14" code="ﯾ"/>
+ <Char width="6" offset="-2 6" rect="705 884 8 14" code="ﯿ"/>
+ <Char width="1" offset="-1 -3" rect="714 875 7 8" code="ﱞ"/>
+ <Char width="1" offset="-1 -3" rect="722 875 7 9" code="ﱟ"/>
+ <Char width="1" offset="-1 -1" rect="730 877 6 6" code="ﱠ"/>
+ <Char width="1" offset="-1 -3" rect="737 875 6 8" code="ﱡ"/>
+ <Char width="1" offset="-1 -2" rect="744 876 6 8" code="ﱢ"/>
+ <Char width="7" offset="-1 1" rect="751 879 8 22" code="﴾"/>
+ <Char width="7" offset="-1 1" rect="760 879 8 22" code="﴿"/>
+ <Char width="17" offset="-1 -1" rect="769 877 18 17" code="ﷲ"/>
+ <Char width="23" offset="-1 1" rect="788 879 24 19" code="﷼"/>
+ <Char width="1" offset="-3 1" rect="813 879 10 7" code="︠"/>
+ <Char width="1" offset="-3 1" rect="824 879 10 7" code="︡"/>
+ <Char width="1" offset="-3 2" rect="835 880 10 5" code="︢"/>
+ <Char width="1" offset="-3 2" rect="846 880 10 5" code="︣"/>
+ <Char width="10" offset="0 6" rect="857 884 9 12" code="ﺀ"/>
+ <Char width="5" offset="-2 0" rect="867 878 8 16" code="ﺁ"/>
+ <Char width="6" offset="-2 0" rect="876 878 8 16" code="ﺂ"/>
+ <Char width="5" offset="-1 0" rect="885 878 6 17" code="ﺃ"/>
+ <Char width="5" offset="-2 0" rect="892 878 8 16" code="ﺄ"/>
+ <Char width="9" offset="-1 4" rect="901 882 11 15" code="ﺅ"/>
+ <Char width="9" offset="-1 4" rect="913 882 11 15" code="ﺆ"/>
+ <Char width="5" offset="-1 2" rect="925 880 6 18" code="ﺇ"/>
+ <Char width="5" offset="-1 2" rect="932 880 7 18" code="ﺈ"/>
+ <Char width="13" offset="0 6" rect="940 884 12 13" code="ﺉ"/>
+ <Char width="12" offset="-1 6" rect="953 884 13 14" code="ﺊ"/>
+ <Char width="6" offset="-2 4" rect="967 882 8 12" code="ﺋ"/>
+ <Char width="6" offset="-2 4" rect="1 907 8 12" code="ﺌ"/>
+ <Char width="5" offset="0 2" rect="10 905 5 14" code="ﺍ"/>
+ <Char width="5" offset="-1 2" rect="16 905 7 14" code="ﺎ"/>
+ <Char width="13" offset="-1 6" rect="24 909 14 14" code="ﺏ"/>
+ <Char width="13" offset="-1 6" rect="39 909 14 14" code="ﺐ"/>
+ <Char width="6" offset="-2 6" rect="54 909 8 14" code="ﺑ"/>
+ <Char width="6" offset="-2 6" rect="63 909 8 14" code="ﺒ"/>
+ <Char width="7" offset="-1 1" rect="72 904 8 15" code="ﺓ"/>
+ <Char width="9" offset="-1 -1" rect="81 902 10 17" code="ﺔ"/>
+ <Char width="13" offset="-1 3" rect="92 906 14 13" code="ﺕ"/>
+ <Char width="13" offset="-1 3" rect="107 906 14 13" code="ﺖ"/>
+ <Char width="6" offset="-2 2" rect="122 905 8 14" code="ﺗ"/>
+ <Char width="6" offset="-2 2" rect="131 905 8 14" code="ﺘ"/>
+ <Char width="13" offset="-1 1" rect="140 904 14 15" code="ﺙ"/>
+ <Char width="13" offset="-1 1" rect="155 904 14 15" code="ﺚ"/>
+ <Char width="6" offset="-2 0" rect="170 903 8 16" code="ﺛ"/>
+ <Char width="6" offset="-2 0" rect="179 903 8 16" code="ﺜ"/>
+ <Char width="12" offset="-1 6" rect="188 909 13 16" code="ﺝ"/>
+ <Char width="11" offset="-1 6" rect="202 909 14 16" code="ﺞ"/>
+ <Char width="11" offset="-2 6" rect="217 909 13 14" code="ﺟ"/>
+ <Char width="11" offset="-2 6" rect="231 909 13 14" code="ﺠ"/>
+ <Char width="12" offset="-1 6" rect="245 909 13 16" code="ﺡ"/>
+ <Char width="11" offset="-1 6" rect="259 909 14 16" code="ﺢ"/>
+ <Char width="11" offset="-2 6" rect="274 909 13 10" code="ﺣ"/>
+ <Char width="11" offset="-2 6" rect="288 909 13 10" code="ﺤ"/>
+ <Char width="12" offset="-1 1" rect="302 904 13 21" code="ﺥ"/>
+ <Char width="11" offset="-1 1" rect="316 904 14 21" code="ﺦ"/>
+ <Char width="11" offset="-2 2" rect="331 905 13 14" code="ﺧ"/>
+ <Char width="11" offset="-2 2" rect="345 905 13 14" code="ﺨ"/>
+ <Char width="7" offset="-1 4" rect="359 907 9 12" code="ﺩ"/>
+ <Char width="7" offset="-1 4" rect="369 907 9 12" code="ﺪ"/>
+ <Char width="7" offset="-1 0" rect="379 903 9 16" code="ﺫ"/>
+ <Char width="7" offset="-1 0" rect="389 903 9 16" code="ﺬ"/>
+ <Char width="9" offset="-2 7" rect="399 910 11 13" code="ﺭ"/>
+ <Char width="9" offset="-2 7" rect="411 910 11 13" code="ﺮ"/>
+ <Char width="9" offset="-2 3" rect="423 906 11 17" code="ﺯ"/>
+ <Char width="9" offset="-2 3" rect="435 906 11 17" code="ﺰ"/>
+ <Char width="18" offset="-1 7" rect="447 910 20 13" code="ﺱ"/>
+ <Char width="18" offset="-1 7" rect="468 910 20 13" code="ﺲ"/>
+ <Char width="12" offset="-2 7" rect="489 910 15 9" code="ﺳ"/>
+ <Char width="12" offset="-2 7" rect="505 910 15 9" code="ﺴ"/>
+ <Char width="18" offset="-1 1" rect="521 904 20 19" code="ﺵ"/>
+ <Char width="18" offset="-1 1" rect="542 904 20 19" code="ﺶ"/>
+ <Char width="12" offset="-2 1" rect="563 904 15 15" code="ﺷ"/>
+ <Char width="12" offset="-2 1" rect="579 904 15 15" code="ﺸ"/>
+ <Char width="21" offset="-1 6" rect="595 909 23 14" code="ﺹ"/>
+ <Char width="21" offset="-1 6" rect="619 909 23 14" code="ﺺ"/>
+ <Char width="15" offset="-2 6" rect="643 909 18 10" code="ﺻ"/>
+ <Char width="15" offset="-2 6" rect="662 909 18 10" code="ﺼ"/>
+ <Char width="21" offset="-1 2" rect="681 905 23 18" code="ﺽ"/>
+ <Char width="21" offset="-1 2" rect="705 905 23 18" code="ﺾ"/>
+ <Char width="15" offset="-2 2" rect="729 905 18 14" code="ﺿ"/>
+ <Char width="15" offset="-2 2" rect="748 905 18 14" code="ﻀ"/>
+ <Char width="11" offset="-2 0" rect="767 903 13 16" code="ﻁ"/>
+ <Char width="11" offset="-2 0" rect="781 903 13 16" code="ﻂ"/>
+ <Char width="11" offset="-2 0" rect="795 903 13 16" code="ﻃ"/>
+ <Char width="11" offset="-2 0" rect="809 903 13 16" code="ﻄ"/>
+ <Char width="11" offset="-2 0" rect="823 903 13 16" code="ﻅ"/>
+ <Char width="11" offset="-2 0" rect="837 903 13 16" code="ﻆ"/>
+ <Char width="11" offset="-2 0" rect="851 903 13 16" code="ﻇ"/>
+ <Char width="11" offset="-2 0" rect="865 903 13 16" code="ﻈ"/>
+ <Char width="11" offset="-1 5" rect="879 908 12 18" code="ﻉ"/>
+ <Char width="10" offset="-1 5" rect="892 908 12 17" code="ﻊ"/>
+ <Char width="11" offset="-2 5" rect="905 908 13 11" code="ﻋ"/>
+ <Char width="8" offset="-2 6" rect="919 909 10 10" code="ﻌ"/>
+ <Char width="11" offset="-1 0" rect="930 903 12 23" code="ﻍ"/>
+ <Char width="10" offset="-1 1" rect="943 904 12 21" code="ﻎ"/>
+ <Char width="11" offset="-2 0" rect="956 903 13 16" code="ﻏ"/>
+ <Char width="8" offset="-2 1" rect="1 928 10 15" code="ﻐ"/>
+ <Char width="15" offset="-1 1" rect="12 928 16 15" code="ﻑ"/>
+ <Char width="15" offset="-1 1" rect="29 928 16 15" code="ﻒ"/>
+ <Char width="7" offset="-2 0" rect="46 927 9 16" code="ﻓ"/>
+ <Char width="7" offset="-2 1" rect="56 928 10 15" code="ﻔ"/>
+ <Char width="12" offset="-1 3" rect="67 930 13 18" code="ﻕ"/>
+ <Char width="12" offset="-1 3" rect="81 930 13 18" code="ﻖ"/>
+ <Char width="7" offset="-2 0" rect="95 927 9 16" code="ﻗ"/>
+ <Char width="7" offset="-2 1" rect="105 928 10 15" code="ﻘ"/>
+ <Char width="11" offset="-1 1" rect="116 928 12 15" code="ﻙ"/>
+ <Char width="11" offset="-1 1" rect="129 928 12 15" code="ﻚ"/>
+ <Char width="8" offset="-2 2" rect="142 929 10 14" code="ﻛ"/>
+ <Char width="8" offset="-2 2" rect="153 929 10 14" code="ﻜ"/>
+ <Char width="9" offset="-1 1" rect="164 928 11 18" code="ﻝ"/>
+ <Char width="9" offset="-1 1" rect="176 928 11 18" code="ﻞ"/>
+ <Char width="5" offset="-2 1" rect="188 928 8 15" code="ﻟ"/>
+ <Char width="5" offset="-2 1" rect="197 928 8 15" code="ﻠ"/>
+ <Char width="8" offset="-1 7" rect="206 934 9 15" code="ﻡ"/>
+ <Char width="8" offset="-1 7" rect="216 934 9 15" code="ﻢ"/>
+ <Char width="9" offset="-2 7" rect="226 934 11 9" code="ﻣ"/>
+ <Char width="9" offset="-2 7" rect="238 934 11 9" code="ﻤ"/>
+ <Char width="11" offset="-1 4" rect="250 931 13 16" code="ﻥ"/>
+ <Char width="11" offset="-1 4" rect="264 931 13 16" code="ﻦ"/>
+ <Char width="6" offset="-2 2" rect="278 929 9 14" code="ﻧ"/>
+ <Char width="6" offset="-2 2" rect="288 929 9 14" code="ﻨ"/>
+ <Char width="7" offset="-1 6" rect="298 933 8 10" code="ﻩ"/>
+ <Char width="9" offset="-1 3" rect="307 930 10 13" code="ﻪ"/>
+ <Char width="10" offset="-2 4" rect="318 931 11 12" code="ﻫ"/>
+ <Char width="9" offset="-2 5" rect="330 932 12 15" code="ﻬ"/>
+ <Char width="9" offset="-1 6" rect="343 933 11 13" code="ﻭ"/>
+ <Char width="9" offset="-1 6" rect="355 933 11 13" code="ﻮ"/>
+ <Char width="13" offset="0 7" rect="367 934 12 12" code="ﻯ"/>
+ <Char width="11" offset="-1 10" rect="380 937 13 12" code="ﻰ"/>
+ <Char width="13" offset="0 7" rect="394 934 12 15" code="ﻱ"/>
+ <Char width="12" offset="-1 10" rect="407 937 13 13" code="ﻲ"/>
+ <Char width="6" offset="-2 6" rect="421 933 8 14" code="ﻳ"/>
+ <Char width="6" offset="-2 6" rect="430 933 8 14" code="ﻴ"/>
+ <Char width="11" offset="-2 0" rect="439 927 13 17" code="ﻵ"/>
+ <Char width="12" offset="-2 0" rect="453 927 14 17" code="ﻶ"/>
+ <Char width="10" offset="-1 0" rect="468 927 11 17" code="ﻷ"/>
+ <Char width="11" offset="-2 0" rect="480 927 13 17" code="ﻸ"/>
+ <Char width="10" offset="-1 1" rect="494 928 11 19" code="ﻹ"/>
+ <Char width="11" offset="-2 1" rect="506 928 13 19" code="ﻺ"/>
+ <Char width="10" offset="-1 2" rect="520 929 11 15" code="ﻻ"/>
+ <Char width="11" offset="-2 1" rect="532 928 13 16" code="ﻼ"/>
+ <Char width="20" offset="-1 3" rect="546 930 21 15" code="￼"/>
+</Font>

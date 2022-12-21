@@ -1,0 +1,1924 @@
+Version    2
+Image      Default.png
+LineHeight 15
+YAdvance   1
+
+##  Unicode: \u0018
+Letter ''
+  PositionX 1
+  PositionY 1
+  Width     9
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  10
+
+##  Unicode: \u0019
+Letter ''
+  PositionX 11
+  PositionY 4
+  Width     9
+  Height    13
+  OffsetX   -1
+  OffsetY   -10
+  XAdvance  10
+
+##  Unicode: \u0020
+Letter ' '
+  PositionX 21
+  PositionY 12
+  Width     4
+  Height    2
+  OffsetX   -1
+  OffsetY   -18
+  XAdvance  5
+
+##  Unicode: \u0021
+Letter '!'
+  PositionX 24
+  PositionY 2
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u0022
+Letter '"'
+  PositionX 30
+  PositionY 2
+  Width     9
+  Height    5
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u0023
+Letter '#'
+  PositionX 40
+  PositionY 2
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0024
+Letter '$'
+  PositionX 52
+  PositionY 2
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0025
+Letter '%'
+  PositionX 64
+  PositionY 4
+  Width     11
+  Height    10
+  OffsetX   -1
+  OffsetY   -10
+  XAdvance  12
+
+##  Unicode: \u0026
+Letter '&'
+  PositionX 76
+  PositionY 2
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0027
+Letter '''
+  PositionX 89
+  PositionY 2
+  Width     5
+  Height    5
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u0028
+Letter '('
+  PositionX 95
+  PositionY 2
+  Width     7
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u0029
+Letter ')'
+  PositionX 103
+  PositionY 2
+  Width     7
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u002a
+Letter '*'
+  PositionX 111
+  PositionY 2
+  Width     11
+  Height    10
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u002b
+Letter '+'
+  PositionX 123
+  PositionY 2
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u002c
+Letter ','
+  PositionX 134
+  PositionY 9
+  Width     7
+  Height    7
+  OffsetX   -2
+  OffsetY   -15
+  XAdvance  8
+
+##  Unicode: \u002d
+Letter '-'
+  PositionX 142
+  PositionY 6
+  Width     11
+  Height    5
+  OffsetX   -1
+  OffsetY   -12
+  XAdvance  12
+
+##  Unicode: \u002e
+Letter '.'
+  PositionX 154
+  PositionY 9
+  Width     7
+  Height    5
+  OffsetX   -1
+  OffsetY   -15
+  XAdvance  8
+
+##  Unicode: \u002f
+Letter '/'
+  PositionX 160
+  PositionY 2
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0030
+Letter '0'
+  PositionX 172
+  PositionY 2
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0031
+Letter '1'
+  PositionX 183
+  PositionY 2
+  Width     8
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  9
+
+##  Unicode: \u0032
+Letter '2'
+  PositionX 1
+  PositionY 18
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0033
+Letter '3'
+  PositionX 12
+  PositionY 18
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0034
+Letter '4'
+  PositionX 23
+  PositionY 18
+  Width     11
+  Height    12
+  OffsetX   0
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0035
+Letter '5'
+  PositionX 34
+  PositionY 18
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0036
+Letter '6'
+  PositionX 45
+  PositionY 18
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0037
+Letter '7'
+  PositionX 56
+  PositionY 18
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0038
+Letter '8'
+  PositionX 67
+  PositionY 18
+  Width     10
+  Height    12
+  OffsetX   0
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0039
+Letter '9'
+  PositionX 77
+  PositionY 18
+  Width     11
+  Height    12
+  OffsetX   0
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u003a
+Letter ':'
+  PositionX 88
+  PositionY 20
+  Width     5
+  Height    10
+  OffsetX   -1
+  OffsetY   -10
+  XAdvance  6
+
+##  Unicode: \u003b
+Letter ';'
+  PositionX 94
+  PositionY 19
+  Width     7
+  Height    13
+  OffsetX   -2
+  OffsetY   -9
+  XAdvance  8
+
+##  Unicode: \u003c
+Letter '<'
+  PositionX 102
+  PositionY 18
+  Width     9
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u003d
+Letter '='
+  PositionX 112
+  PositionY 21
+  Width     11
+  Height    8
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  12
+
+##  Unicode: \u003e
+Letter '>'
+  PositionX 124
+  PositionY 18
+  Width     9
+  Height    12
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u003f
+Letter '?'
+  PositionX 135
+  PositionY 18
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0040
+Letter '@'
+  PositionX 146
+  PositionY 18
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0041
+Letter 'A'
+  PositionX 158
+  PositionY 18
+  Width     13
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u0042
+Letter 'B'
+  PositionX 172
+  PositionY 18
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0043
+Letter 'C'
+  PositionX 183
+  PositionY 18
+  Width     9
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u0044
+Letter 'D'
+  PositionX 1
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0045
+Letter 'E'
+  PositionX 13
+  PositionY 34
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0046
+Letter 'F'
+  PositionX 24
+  PositionY 34
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0047
+Letter 'G'
+  PositionX 35
+  PositionY 33
+  Width     11
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  12
+
+##  Unicode: \u0048
+Letter 'H'
+  PositionX 48
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0049
+Letter 'I'
+  PositionX 60
+  PositionY 34
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u004a
+Letter 'J'
+  PositionX 66
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u004b
+Letter 'K'
+  PositionX 78
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u004c
+Letter 'L'
+  PositionX 90
+  PositionY 34
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u004d
+Letter 'M'
+  PositionX 101
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u004e
+Letter 'N'
+  PositionX 113
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u004f
+Letter 'O'
+  PositionX 125
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0050
+Letter 'P'
+  PositionX 137
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0051
+Letter 'Q'
+  PositionX 149
+  PositionY 34
+  Width     11
+  Height    14
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0052
+Letter 'R'
+  PositionX 161
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0053
+Letter 'S'
+  PositionX 173
+  PositionY 34
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0054
+Letter 'T'
+  PositionX 1
+  PositionY 49
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0055
+Letter 'U'
+  PositionX 12
+  PositionY 49
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0056
+Letter 'V'
+  PositionX 24
+  PositionY 49
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u0057
+Letter 'W'
+  PositionX 37
+  PositionY 49
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u0058
+Letter 'X'
+  PositionX 49
+  PositionY 49
+  Width     13
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u0059
+Letter 'Y'
+  PositionX 63
+  PositionY 49
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u005a
+Letter 'Z'
+  PositionX 76
+  PositionY 49
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u005b
+Letter '['
+  PositionX 88
+  PositionY 49
+  Width     7
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u005c
+Letter '\'
+  PositionX 97
+  PositionY 49
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u005d
+Letter ']'
+  PositionX 109
+  PositionY 49
+  Width     8
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  9
+
+##  Unicode: \u005e
+Letter '^'
+  PositionX 118
+  PositionY 49
+  Width     11
+  Height    8
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u005f
+Letter '_'
+  PositionX 131
+  PositionY 57
+  Width     11
+  Height    4
+  OffsetX   -1
+  OffsetY   -16
+  XAdvance  12
+
+##  Unicode: \u0060
+Letter '`'
+  PositionX 143
+  PositionY 49
+  Width     9
+  Height    6
+  OffsetX   2
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u0061
+Letter 'a'
+  PositionX 150
+  PositionY 52
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0062
+Letter 'b'
+  PositionX 161
+  PositionY 49
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0063
+Letter 'c'
+  PositionX 172
+  PositionY 52
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0064
+Letter 'd'
+  PositionX 183
+  PositionY 49
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0065
+Letter 'e'
+  PositionX 1
+  PositionY 65
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0066
+Letter 'f'
+  PositionX 12
+  PositionY 62
+  Width     8
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  9
+
+##  Unicode: \u0067
+Letter 'g'
+  PositionX 21
+  PositionY 65
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0068
+Letter 'h'
+  PositionX 32
+  PositionY 62
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0069
+Letter 'i'
+  PositionX 43
+  PositionY 62
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u006a
+Letter 'j'
+  PositionX 49
+  PositionY 62
+  Width     9
+  Height    15
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u006b
+Letter 'k'
+  PositionX 59
+  PositionY 62
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u006c
+Letter 'l'
+  PositionX 70
+  PositionY 62
+  Width     6
+  Height    13
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  7
+
+##  Unicode: \u006d
+Letter 'm'
+  PositionX 77
+  PositionY 65
+  Width     11
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  12
+
+##  Unicode: \u006e
+Letter 'n'
+  PositionX 89
+  PositionY 65
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u006f
+Letter 'o'
+  PositionX 100
+  PositionY 65
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0070
+Letter 'p'
+  PositionX 111
+  PositionY 65
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0071
+Letter 'q'
+  PositionX 122
+  PositionY 65
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0072
+Letter 'r'
+  PositionX 133
+  PositionY 65
+  Width     9
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  10
+
+##  Unicode: \u0073
+Letter 's'
+  PositionX 143
+  PositionY 65
+  Width     10
+  Height    9
+  OffsetX   0
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0074
+Letter 't'
+  PositionX 153
+  PositionY 62
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u0075
+Letter 'u'
+  PositionX 164
+  PositionY 65
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0076
+Letter 'v'
+  PositionX 175
+  PositionY 65
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0077
+Letter 'w'
+  PositionX 1
+  PositionY 82
+  Width     11
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  12
+
+##  Unicode: \u0078
+Letter 'x'
+  PositionX 13
+  PositionY 82
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u0079
+Letter 'y'
+  PositionX 24
+  PositionY 82
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u007a
+Letter 'z'
+  PositionX 35
+  PositionY 82
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u007b
+Letter '{'
+  PositionX 46
+  PositionY 79
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u007c
+Letter '|'
+  PositionX 59
+  PositionY 79
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u007d
+Letter '}'
+  PositionX 65
+  PositionY 79
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u007e
+Letter '~'
+  PositionX 78
+  PositionY 79
+  Width     11
+  Height    5
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00a1
+Letter '¡'
+  PositionX 90
+  PositionY 79
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u00a2
+Letter '¢'
+  PositionX 96
+  PositionY 79
+  Width     10
+  Height    15
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00a3
+Letter '£'
+  PositionX 107
+  PositionY 79
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00a4
+Letter '¤'
+  PositionX 120
+  PositionY 79
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00a5
+Letter '¥'
+  PositionX 133
+  PositionY 79
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00a6
+Letter '¦'
+  PositionX 144
+  PositionY 78
+  Width     3
+  Height    13
+  OffsetX   -2
+  OffsetY   -7
+  XAdvance  4
+
+##  Unicode: \u00a7
+Letter '§'
+  PositionX 149
+  PositionY 79
+  Width     11
+  Height    12
+  OffsetX   0
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00a8
+Letter '¨'
+  PositionX 160
+  PositionY 79
+  Width     10
+  Height    5
+  OffsetX   0
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00a9
+Letter '©'
+  PositionX 170
+  PositionY 79
+  Width     12
+  Height    14
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00aa
+Letter 'ª'
+  PositionX 1
+  PositionY 97
+  Width     10
+  Height    10
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00ab
+Letter '«'
+  PositionX 12
+  PositionY 97
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00ac
+Letter '¬'
+  PositionX 23
+  PositionY 101
+  Width     11
+  Height    7
+  OffsetX   -1
+  OffsetY   -12
+  XAdvance  12
+
+##  Unicode: \u00ad
+Letter '­'
+  PositionX 35
+  PositionY 101
+  Width     10
+  Height    5
+  OffsetX   -1
+  OffsetY   -12
+  XAdvance  11
+
+##  Unicode: \u00ae
+Letter '®'
+  PositionX 46
+  PositionY 97
+  Width     12
+  Height    14
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00af
+Letter '¯'
+  PositionX 60
+  PositionY 95
+  Width     11
+  Height    5
+  OffsetX   -1
+  OffsetY   -6
+  XAdvance  12
+
+##  Unicode: \u00b0
+Letter '°'
+  PositionX 72
+  PositionY 95
+  Width     8
+  Height    11
+  OffsetX   -2
+  OffsetY   -6
+  XAdvance  9
+
+##  Unicode: \u00b1
+Letter '±'
+  PositionX 82
+  PositionY 98
+  Width     11
+  Height    10
+  OffsetX   -1
+  OffsetY   -9
+  XAdvance  12
+
+##  Unicode: \u00b2
+Letter '²'
+  PositionX 94
+  PositionY 97
+  Width     7
+  Height    10
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u00b3
+Letter '³'
+  PositionX 103
+  PositionY 97
+  Width     6
+  Height    10
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  7
+
+##  Unicode: \u00b4
+Letter '´'
+  PositionX 110
+  PositionY 97
+  Width     9
+  Height    7
+  OffsetX   1
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u00b5
+Letter 'µ'
+  PositionX 118
+  PositionY 100
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u00b6
+Letter '¶'
+  PositionX 129
+  PositionY 97
+  Width     11
+  Height    14
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00b7
+Letter '·'
+  PositionX 141
+  PositionY 101
+  Width     5
+  Height    5
+  OffsetX   -1
+  OffsetY   -12
+  XAdvance  6
+
+##  Unicode: \u00b8
+Letter '¸'
+  PositionX 147
+  PositionY 106
+  Width     6
+  Height    6
+  OffsetX   1
+  OffsetY   -17
+  XAdvance  7
+
+##  Unicode: \u00b9
+Letter '¹'
+  PositionX 155
+  PositionY 97
+  Width     6
+  Height    10
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  7
+
+##  Unicode: \u00ba
+Letter 'º'
+  PositionX 162
+  PositionY 97
+  Width     7
+  Height    10
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u00bb
+Letter '»'
+  PositionX 171
+  PositionY 97
+  Width     11
+  Height    9
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00bc
+Letter '¼'
+  PositionX 1
+  PositionY 114
+  Width     12
+  Height    13
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00bd
+Letter '½'
+  PositionX 14
+  PositionY 114
+  Width     13
+  Height    14
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u00be
+Letter '¾'
+  PositionX 28
+  PositionY 114
+  Width     12
+  Height    13
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00bf
+Letter '¿'
+  PositionX 42
+  PositionY 114
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00c0
+Letter 'À'
+  PositionX 53
+  PositionY 114
+  Width     13
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u00c1
+Letter 'Á'
+  PositionX 67
+  PositionY 114
+  Width     13
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u00c2
+Letter 'Â'
+  PositionX 81
+  PositionY 114
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00c3
+Letter 'Ã'
+  PositionX 94
+  PositionY 113
+  Width     13
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  14
+
+##  Unicode: \u00c4
+Letter 'Ä'
+  PositionX 108
+  PositionY 115
+  Width     12
+  Height    11
+  OffsetX   -1
+  OffsetY   -9
+  XAdvance  13
+
+##  Unicode: \u00c5
+Letter 'Å'
+  PositionX 121
+  PositionY 114
+  Width     13
+  Height    12
+  OffsetX   0
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u00c6
+Letter 'Æ'
+  PositionX 134
+  PositionY 114
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00c7
+Letter 'Ç'
+  PositionX 148
+  PositionY 114
+  Width     9
+  Height    15
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  10
+
+##  Unicode: \u00c8
+Letter 'È'
+  PositionX 158
+  PositionY 114
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00c9
+Letter 'É'
+  PositionX 169
+  PositionY 114
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00ca
+Letter 'Ê'
+  PositionX 180
+  PositionY 114
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00cb
+Letter 'Ë'
+  PositionX 1
+  PositionY 131
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00cc
+Letter 'Ì'
+  PositionX 12
+  PositionY 131
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u00cd
+Letter 'Í'
+  PositionX 18
+  PositionY 131
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u00ce
+Letter 'Î'
+  PositionX 24
+  PositionY 131
+  Width     6
+  Height    13
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  7
+
+##  Unicode: \u00cf
+Letter 'Ï'
+  PositionX 32
+  PositionY 131
+  Width     7
+  Height    12
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u00d0
+Letter 'Ð'
+  PositionX 41
+  PositionY 131
+  Width     13
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  14
+
+##  Unicode: \u00d1
+Letter 'Ñ'
+  PositionX 55
+  PositionY 130
+  Width     11
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  12
+
+##  Unicode: \u00d2
+Letter 'Ò'
+  PositionX 67
+  PositionY 131
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00d3
+Letter 'Ó'
+  PositionX 79
+  PositionY 131
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00d4
+Letter 'Ô'
+  PositionX 91
+  PositionY 131
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00d5
+Letter 'Õ'
+  PositionX 103
+  PositionY 130
+  Width     11
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  12
+
+##  Unicode: \u00d6
+Letter 'Ö'
+  PositionX 115
+  PositionY 131
+  Width     12
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  13
+
+##  Unicode: \u00d7
+Letter '×'
+  PositionX 128
+  PositionY 134
+  Width     8
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  9
+
+##  Unicode: \u00d8
+Letter 'Ø'
+  PositionX 137
+  PositionY 131
+  Width     1
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  2
+
+##  Unicode: \u00d9
+Letter 'Ù'
+  PositionX 148
+  PositionY 131
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00da
+Letter 'Ú'
+  PositionX 160
+  PositionY 131
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00db
+Letter 'Û'
+  PositionX 172
+  PositionY 131
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00dc
+Letter 'Ü'
+  PositionX 1
+  PositionY 146
+  Width     11
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00dd
+Letter 'Ý'
+  PositionX 13
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00de
+Letter 'Þ'
+  PositionX 24
+  PositionY 147
+  Width     10
+  Height    14
+  OffsetX   -1
+  OffsetY   -9
+  XAdvance  11
+
+##  Unicode: \u00df
+Letter 'ß'
+  PositionX 35
+  PositionY 146
+  Width     10
+  Height    13
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e0
+Letter 'à'
+  PositionX 46
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e1
+Letter 'á'
+  PositionX 57
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e2
+Letter 'â'
+  PositionX 68
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e3
+Letter 'ã'
+  PositionX 79
+  PositionY 145
+  Width     10
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  11
+
+##  Unicode: \u00e4
+Letter 'ä'
+  PositionX 90
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e5
+Letter 'å'
+  PositionX 101
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e6
+Letter 'æ'
+  PositionX 112
+  PositionY 149
+  Width     15
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  16
+
+##  Unicode: \u00e7
+Letter 'ç'
+  PositionX 128
+  PositionY 149
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u00e8
+Letter 'è'
+  PositionX 139
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00e9
+Letter 'é'
+  PositionX 150
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00ea
+Letter 'ê'
+  PositionX 161
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00eb
+Letter 'ë'
+  PositionX 172
+  PositionY 146
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00ec
+Letter 'ì'
+  PositionX 183
+  PositionY 146
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u00ed
+Letter 'í'
+  PositionX 1
+  PositionY 163
+  Width     5
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  6
+
+##  Unicode: \u00ee
+Letter 'î'
+  PositionX 7
+  PositionY 162
+  Width     6
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  7
+
+##  Unicode: \u00ef
+Letter 'ï'
+  PositionX 14
+  PositionY 163
+  Width     7
+  Height    12
+  OffsetX   -2
+  OffsetY   -8
+  XAdvance  8
+
+##  Unicode: \u00f0
+Letter 'ð'
+  PositionX 23
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00f1
+Letter 'ñ'
+  PositionX 34
+  PositionY 162
+  Width     10
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  11
+
+##  Unicode: \u00f2
+Letter 'ò'
+  PositionX 45
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00f3
+Letter 'ó'
+  PositionX 56
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00f4
+Letter 'ô'
+  PositionX 67
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00f5
+Letter 'õ'
+  PositionX 78
+  PositionY 162
+  Width     10
+  Height    13
+  OffsetX   -1
+  OffsetY   -7
+  XAdvance  11
+
+##  Unicode: \u00f6
+Letter 'ö'
+  PositionX 89
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00f7
+Letter '÷'
+  PositionX 100
+  PositionY 163
+  Width     11
+  Height    11
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  12
+
+##  Unicode: \u00f8
+Letter 'ø'
+  PositionX 112
+  PositionY 166
+  Width     10
+  Height    9
+  OffsetX   -1
+  OffsetY   -11
+  XAdvance  11
+
+##  Unicode: \u00f9
+Letter 'ù'
+  PositionX 123
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00fa
+Letter 'ú'
+  PositionX 134
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00fb
+Letter 'û'
+  PositionX 145
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00fc
+Letter 'ü'
+  PositionX 156
+  PositionY 163
+  Width     10
+  Height    12
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00fd
+Letter 'ý'
+  PositionX 167
+  PositionY 163
+  Width     10
+  Height    15
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00fe
+Letter 'þ'
+  PositionX 178
+  PositionY 163
+  Width     10
+  Height    15
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
+
+##  Unicode: \u00ff
+Letter 'ÿ'
+  PositionX 1
+  PositionY 179
+  Width     10
+  Height    15
+  OffsetX   -1
+  OffsetY   -8
+  XAdvance  11
