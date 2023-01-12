@@ -59,11 +59,11 @@ public class TestParser {
 
     @Test
     public void writeFontToFile_Single_Valid() throws IOException {
-        Fofnt actual = parser.parseFontFromXmlFile("src/main/resources/default_14.xml");
+        Fofnt actual = parser.parseFontFromXmlFile("src/main/resources/fonts/default_125_thin.xml");
         actual.setVersion("2");
         actual.setImageFile("Default.png");
         actual.setLineHeight(15);
         actual.setYAdvance(1);
-        parser.writeFontToFile(actual, "out/default_14.fofnt");
+        parser.writeFontToFile(actual, "out/default.fofnt");
     }
 }

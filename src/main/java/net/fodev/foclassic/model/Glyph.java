@@ -30,7 +30,7 @@ public class Glyph {
     @Override
     public String toString() {
         String fofntFormat = String.format("" +
-                "##  Unicode: \\u%04x\n" +
+                //"##  Unicode: \\u%04x\n" +
                 "Letter '%s'\n" +
                 "  PositionX %d\n" +
                 "  PositionY %d\n" +
@@ -38,7 +38,7 @@ public class Glyph {
                 "  Height    %d\n" +
                 "  OffsetX   %d\n" +
                 "  OffsetY   %d\n" +
-                "  XAdvance  %d\n", (int)code, code, x, y, width, height, offsetX, offsetY, xAdvance);
+                "  XAdvance  %d\n", /*(int)code,*/ code, x, y, width, height, offsetX, offsetY, xAdvance);
         return fofntFormat;
     }
 }
