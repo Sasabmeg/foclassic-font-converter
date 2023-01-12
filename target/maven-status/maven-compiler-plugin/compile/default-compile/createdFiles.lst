@@ -1,0 +1,7 @@
+net\fodev\foclassic\model\Fofnt.class
+net\fodev\foclassic\model\Data.class
+net\fodev\foclassic\model\Glyph.class
+net\fodev\foclassic\controller\Parser.class
+net\fodev\foclassic\controller\BfgParser.class
+net\fodev\foclassic\model\GlyphCorrection.class
+net\fodev\foclassic\Main.class

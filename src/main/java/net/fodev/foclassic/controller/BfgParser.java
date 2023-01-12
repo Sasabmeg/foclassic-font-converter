@@ -118,7 +118,7 @@ public class BfgParser {
             /*
             System.out.println(String.format("Parse from XML: code='%s', x=%s, y=%s, width=%s, height=%s, xOffset=%s, yOffset=%s, xAdvance=%s, corrections=%s",
                     code, x, y, width, height, xOffset, yOffset, xAdvance, corrections));
-                    
+
              */
         }
         catch (Exception e)
