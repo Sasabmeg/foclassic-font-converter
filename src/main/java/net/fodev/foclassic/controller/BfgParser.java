@@ -114,7 +114,7 @@ public class BfgParser {
             glyph.setHeight(glyph.getHeight() + corrections.getHeight());
             glyph.setOffsetX(glyph.getOffsetX() + corrections.getOffsetX());
             glyph.setOffsetY(glyph.getOffsetY() + corrections.getOffsetY());
-            glyph.setXAdvance(glyph.getXAdvance() + corrections.getXAdvance());
+            glyph.setXAdvance(glyph.getWidth() + 1 + corrections.getXAdvance());
             /*
             System.out.println(String.format("Parse from XML: code='%s', x=%s, y=%s, width=%s, height=%s, xOffset=%s, yOffset=%s, xAdvance=%s, corrections=%s",
                     code, x, y, width, height, xOffset, yOffset, xAdvance, corrections));
